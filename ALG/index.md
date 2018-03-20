@@ -4,7 +4,7 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 ## Livres
 
-- [Programmation efficace, 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie](http://tryalgo.org/book/). Par Christoph Dürr et Jill-Jênn Vie
+- [Programmation efficace](http://tryalgo.org/book/). Par Christoph Dürr et Jill-Jênn Vie
 - [Algorithm Design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). par Jon Kleinberg et Éva Tardos
 - [Algorithms etc.](http://jeffe.cs.illinois.edu/teaching/algorithms/). par Jeff Erickson
 
@@ -14,11 +14,11 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 ### 1. (Lundi 17 sep 2018)
 
-Techniques d'analyse. Mariage stable. Tas.
+Calculabilité, complexité. Problème de l'arrêt. Les classes P, NP, APX, PLS.
 
 ### 2. (Vendredi 21 sep 2018)
 
-Diviser et conquérir.
+Techniques d'analyse. Algorithmes exponentiels pour 3-SAT.
 
 ### 3. (Lundi 24 sep 2018)
 
@@ -34,7 +34,7 @@ Flots et coupes. Autres problèmes et leur dual.
 
 ### 6. (Lundi 15 oct 2018)
 
-NP-complétude.
+NP-complétude. APX, Unique Game Conjecture.
 
 ### 7. (Vendredi 19 oct 2018)
 
@@ -42,8 +42,8 @@ Approximations.
 
 ### 8. (Lundi 22 oct 2018)
 
-Algorithmes de flux. (streaming algorithms)
+Algorithmes en ligne. (online algorithms)
 
 ### 9. (Lundi 29 oct 2018)
 
-Algorithmes en ligne. (online algorithms)
+Examen
