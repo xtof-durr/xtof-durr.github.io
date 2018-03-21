@@ -1,4 +1,8 @@
-# Ecole Centrale-Supélec - parcours Informatique et Systèmes Avancés - Tronc commun - IS3005AD : Algorithmique avancée
+---
+title: cours IS3005AD - Algorithmique avancée
+---
+
+École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun)
 
 intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim Thắng](https://www.ibisc.univ-evry.fr/~thang/)
 
@@ -8,7 +12,7 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 - [Algorithm Design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). par Jon Kleinberg et Éva Tardos
 - [Algorithms etc.](http://jeffe.cs.illinois.edu/teaching/algorithms/). par Jeff Erickson
 
-## Plan du cours (provisoire)
+# Plan du cours (provisoire)
 
 > Toutes les séances sont de 8h30 à 11h45
 
