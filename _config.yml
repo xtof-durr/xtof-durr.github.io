@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
+title: Document pédagogique
+baseurl: https://xtof-durr.github.io/ # name of the repository
 email: christoph.durr@LIP6.fr
 
 
@@ -32,7 +32,7 @@ compress_html:
 
 
 sass:
- style: compressed
+ style: default
 
 exclude:
 - README.md
