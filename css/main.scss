@@ -23,7 +23,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 
 
@@ -43,6 +43,10 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+// Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
 @import
-        "style"
+        "style",
+        "google-fonts"
 ;
+
+
