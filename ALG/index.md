@@ -1,8 +1,8 @@
 ---
-title: cours IS3005AD - Algorithmique avancée
+title: Algorithmique avancée
 ---
 
-École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun)
+École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun) - cours IS3005AD
 
 intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim Thắng](https://www.ibisc.univ-evry.fr/~thang/)
 
@@ -16,7 +16,7 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 > Toutes les séances sont de 8h30 à 11h45
 
-### 1. (Lundi 17 sep 2018) — Algorithmes exponentiels
+### 1. (Lundi 17 sep 2018) — Introduction
 
 Introduction.  Techniques algorithmiques: diviser pour conquérir, glouton, programmation dynamique.  Le master théorème illustré sur l'algorithme de Karatsuba pour la multiplication d'entiers. Compter le nombre d'inversions en O(n log n).
 
@@ -64,7 +64,7 @@ Collecteur de coupons.
 Boules dans des urnes.
 Quicksort. (Uwe Schoening pour 2-SAT)
 
-### 8. (Lundi 22 oct 2018) - Rappels
+### 8. (Lundi 22 oct 2018) - Rappels et ouverture
 
 Problème des experts.
 
