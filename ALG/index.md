@@ -66,7 +66,6 @@ Quicksort. (Uwe Schoening pour 2-SAT)
 
 ### 8. (Lundi 22 oct 2018) - Rappels
 
-Approfondissement sur les séances passées.
 Problème des experts.
 
 ### 9. (Lundi 29 oct 2018)
