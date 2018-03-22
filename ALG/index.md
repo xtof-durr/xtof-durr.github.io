@@ -18,7 +18,7 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 ### 1. (Lundi 17 sep 2018) — Introduction
 
-Introduction.  Techniques algorithmiques: diviser pour conquérir, glouton, programmation dynamique.  Le master théorème illustré sur l'algorithme de Karatsuba pour la multiplication d'entiers. Compter le nombre d'inversions en O(n log n).
+Introduction.  Techniques algorithmiques: diviser pour conquérir, glouton, programmation dynamique.  Le master théorème illustré sur le problème de la paire de points la plus proche. Compter le nombre d'inversions en O(n log n).
 
 ### 2. (Vendredi 21 sep 2018) - Algorithmes gloutons
 
