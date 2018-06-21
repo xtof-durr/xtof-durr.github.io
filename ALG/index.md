@@ -16,7 +16,7 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 > Toutes les séances sont de 8h30 à 11h45
 
-### 1. (Lundi 17 sep 2018) — Introduction
+### 1. (Mercredi 19 sep 2018) — Introduction
 
 Introduction.  Techniques algorithmiques: diviser pour conquérir, glouton, programmation dynamique.  Le master théorème illustré sur le problème de la paire de points la plus proche. Compter le nombre d'inversions en O(n log n).
 
