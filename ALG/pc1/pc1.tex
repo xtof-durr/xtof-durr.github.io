@@ -5,37 +5,32 @@
 
 \newcommand{\source}[1]{\begin{flushright}\emph{[#1]}\end{flushright}}
 
-\title{PC1 : Diviser pour régner et algorithmes gloutons}
-\author{École Centrale-Supélec --- Christoph Dürr, Nguyễn Kim Thắng}
-\date{Algorthmique Avancée, 2018}
+\newcommand{\MakeScribeTop}[1]{
+\noindent
+\begin{framed}
+\noindent
+ Algorithmique Avancée 2018
+ \hfill
+ École Centrale-Supélec
+ \\[1em]
+ \centerline{ \Large
+#1
+ }
+ \\[1em]
+\centerline{  \it Christoph Dürr, Nguyễn Kim Thắng}
+\end{framed}
+}
 
-%\newcommand{\MakeScribeTop}{
-%\noindent
-%\begin{center}
-%  \framebox{
-%    \vbox{
-%      \headerwidth=\textwidth
-%      \advance\headerwidth by -0.22in
-%      \hbox to \headerwidth {{\bf Graphes \& Algorithmes \hfill Dept Informatique, Univ Evry} }
-%      \vspace{4mm}
-%      \hbox to \headerwidth {{\Large \bf \hfill TD \HomNum: \LecTitle \hfill}}
-%      \vspace{2mm}
-%      \hbox to \headerwidth {{\it \LecStr \hfill \LecDate}}
-%      \hbox to \headerwidth {{\it \TdStr \hfill }}
-%      }
-%    }
-%\end{center}
-%\vspace*{4mm}}
 
 
 \begin{document}
-    \maketitle
+    \MakeScribeTop{PC1 : Diviser pour régner et algorithmes gloutons}
 
     \section{Cartes bancaires}
 
 
 
-    Vous travaillez pour une banque dans le service des répressions des fraudes.  On vous donne $n$ cartes bancaires qui sont suspectés d'être frauduleuses. Chaque carte bancaire comporte une bande magnétique avec des données crypté correspondant à un compte unique. Plusieurs cartes peuvent être associées à un même compte, et dans ce cas on dit qu'elles sont \emph{équivalentes}.
+    Vous travaillez pour une banque dans le service des répressions des fraudes.  On vous donne $n$ cartes bancaires qui sont suspectées d'être frauduleuses. Chaque carte bancaire comporte une bande magnétique avec des données cryptées correspondant à un compte unique. Plusieurs cartes peuvent être associées à un même compte, et dans ce cas on dit qu'elles sont \emph{équivalentes}.
     Il n'est pas aisé de lire les numéros de compte sur les cartes directement, cependant
     vous disposez d'une technologie qui permet de tester si deux cartes données sont équivalentes.
     La question est de déterminer si parmi les $n$ cartes données, il y a un ensemble d'au moins $n/2$ cartes mutuellement équivalentes.
@@ -55,8 +50,8 @@
 Soit une plage toute droite et des îles, aussi petites que des points.
 Toutes les îles sont à distance au plus $r$ de la plage.
 Nous voulons placer les antennes le long de la plage pour couvrir toutes les îles.
-Chaque antenne peut couvrir les îles dans un rayon $r$.
-Donnez un algorithme qui place un nombre minimum d'antennes pour couvrir toutes les îles.  
+Chaque antenne couvre toutes les îles dans un rayon $r$.
+Donnez un algorithme qui place un nombre minimum d'antennes.
 
 \source{Programmation efficace, section 5.3}
 
@@ -67,9 +62,9 @@ Le cache est une mémoire intercalée entre la mémoire et le processeur.
 La mémoire principale est divisée en $n$ blocs de même taille.  Ces blocs sont appelés \emph{pages}.
 Les accès au cache sont plus rapides qu'à la mémoire principale,
 mais pour des raisons de coût il a une capacité plus petite.  Le cache peut contenir $k$ pages, avec $k \ll n$.
-Les accès mémoire du processeur se traduisent en requêtes à des pages. Si la page en question est dans le cache, la requête peut être servi immédiatement. Dans le cas échéant on parle de \emph{faute de cache}. Le mécanisme de gestion de cache doit alors choisir une page actuellement dans le cache pour l'échanger avec la page demandée.  Cette opération est lente.  Le but est de minimiser le nombre de fautes de cache, en prenant des bonnes décisions sur les échanges de pages.
+Les accès mémoire du processeur se traduisent en requêtes à des pages. Si la page en question est dans le cache, la requête peut être servie immédiatement. Dans le cas échéant on parle de \emph{faute de cache}. Le mécanisme de gestion de cache doit alors choisir une page actuellement dans le cache pour l'échanger avec la page demandée.  Cette opération est lente.  Le but est de minimiser le nombre de fautes de cache, en prenant des bonnes décisions concernant les échanges de pages.
 
-Initialement le cache est vide, et les $k$ première fautes de caches provoquent un chargement de la nouvelle page plutôt qu'un remplacement.  Par conséquence on ne tient pas compte de ces $k$ premières fautes de cache.
+Initialement le cache est vide, et les $k$ premières fautes de cache provoquent un chargement de la nouvelle page plutôt qu'un remplacement.  Par conséquence on ne tient pas compte de ces $k$ premières fautes de cache.
 
 
 \begin{figure}[hp]
