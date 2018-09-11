@@ -35,18 +35,20 @@
 
 Soit une plage toute droite et des îles, aussi petites que des points.
 Toutes les îles sont à distance au plus $r$ de la plage.
-On veut placer un nombre minimum d'antennes le long de la plage pour couvrir chaque île.  Une antenne peut couvrir toutes les îles dans un rayon $r$ donné, qui est le même pour toutes les antennes.
-
+Nous voulons placer les antennes le long de la plage pour couvrir toutes les îles.
+Chaque antenne peut couvrir les îles dans un rayon $r$.
+Donnez un algorithme qui place un nombre minimum d'antennes pour couvrir toutes les îles.  
 
 \source{Programmation efficace, section 5.3}
 
 
 \section{Gestion de cache}
 
-La mémoire dans les ordinateurs comporte pour plus d'efficacité un mécanisme de cache.
-La mémoire principale est divisée en $n$ blocs de même taille.  Ces blocs sont appelés des \emph{pages}.
-La mémoire cache a des temps de réponse plus petite que la mémoire principale, mais pour des raisons de coût a une capacité plus petite que la mémoire principale.  Le cache peut contenir $k$ pages, avec $k \ll n$.
-Les accès mémoire du processeur se traduisent en des requêtes à des pages. Si la page en question est dans le cache, la requête peut être servi immédiatement. Dans le cas échéant on parle de \emph{faute de cache}. Le mécanisme de gestion de cache doit alors choisir une page actuellement dans le cache pour l'échanger avec la page demandée.  Cette opération est lente.  Le but est de minimiser le nombre de fautes de cache, en prenant des bonnes décisions sur les échanges de pages.
+Le cache est une mémoire intercalée entre la mémoire et le processeur.
+La mémoire principale est divisée en $n$ blocs de même taille.  Ces blocs sont appelés \emph{pages}.
+Les accès au cache sont plus rapides qu'à la mémoire principale,
+mais pour des raisons de coût il a une capacité plus petite.  Le cache peut contenir $k$ pages, avec $k \ll n$.
+Les accès mémoire du processeur se traduisent en requêtes à des pages. Si la page en question est dans le cache, la requête peut être servi immédiatement. Dans le cas échéant on parle de \emph{faute de cache}. Le mécanisme de gestion de cache doit alors choisir une page actuellement dans le cache pour l'échanger avec la page demandée.  Cette opération est lente.  Le but est de minimiser le nombre de fautes de cache, en prenant des bonnes décisions sur les échanges de pages.
 
 Initialement le cache est vide, et les $k$ première fautes de caches provoquent un chargement de la nouvelle page plutôt qu'un remplacement.  Par conséquence on ne tient pas compte de ces $k$ premières fautes de cache.
 
