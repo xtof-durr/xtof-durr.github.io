@@ -12,17 +12,18 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 - [Algorithm Design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). par Jon Kleinberg et Éva Tardos
 - [Algorithms etc.](http://jeffe.cs.illinois.edu/teaching/algorithms/). par Jeff Erickson
 
-# Plan du cours (provisoire)
+# Plan du cours
 
-> Toutes les séances sont de 8h30 à 11h45
+> Ce plan peut être sujet à des ajustements.
+> Toutes les séances sont de 8h30 à 11h45, dans l'amphi F209 pour le cours, puis en F209 et F207 pour les petites classes.
 
 ### 1. (Mercredi 19 sep 2018) — Diviser pour régner et algorithmes gloutons
 
-Introduction.  Diviser et régner: Compter le nombre d'inversions en O(n log n).
+Introduction.  Diviser pour régner: Compter le nombre d'inversions en O(n log n).
 Glouton: Ordonnancement d'intervalles.  Ordonnancer sur une machine pour minimiser le temps d'attente pondéré.
 
 Exercice des cartes bancaires.
-Codes de Huffman.
+Placement d'antennes.
 Problème de cache.
 
 ### 2. (Vendredi 21 sep 2018) - Programmation dynamique
@@ -72,7 +73,7 @@ Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 (evt. Bin Packing)
 
-### 7. (Vendredi 19 oct 2018) - Algorithmes randomisé
+### 7. (Vendredi 19 oct 2018) - Algorithmes randomisés
 
 Rappel probabilités.
 Coupe minimale dans un graphe.
