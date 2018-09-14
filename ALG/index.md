@@ -39,20 +39,24 @@ Problème de cache.
 Plus long/court chemin dans un graphe orienté acyclique.
 Plus longue sous séquence commune.
 Multiplication d'une séquence de matrices.
+Voyageur de commerce.
 
-Arbre binaire de recherche optimisé pour fréquences données. Propriété de Monge.
+
+Arbre binaire de recherche optimal.
 Distance d'édition de Levenshtein.
-Plus longue sous séquence croissante.
+Corriger un mot bien parenthésé.
+Parenthéser une expression booléenne.
+Partage équitable.
+Rendu de monnaie.
 
 ### 3. (Vendredi 21 sep 2018) - Programmation dynamique 2
 
-Somme de sous-ensembles.
-Voyageur de commerce.
-Plus grand carré dans une grille.
-Plus grand rectangle dans une grille.
-Multiplication d'une séquence de matrices.
+Plus longue sous séquence croissante.
+Algorithme SMAWK.
 
-### 4. (Lundi 24 sep 2018) - Flots et coupes
+Plus grand carré dans une grille.
+
+### 4. (Lundi 24 sep 2018) - Flots et coupes 1
 
 Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
@@ -61,7 +65,7 @@ Amélioration de Edmonds-Karp.
 Théorème de Dilworth (réservation de taxis).
 Problèmes réduisant au problème du flot maximum.
 
-### 5. (Lundi 1 oct 2018) - Flots et coupes (suite)
+### 5. (Lundi 1 oct 2018) - Flots et coupes 2
 
 Algorithme de Dinic.
 Couplage cardinalité maximale bi-parti.
