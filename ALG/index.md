@@ -8,8 +8,10 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 
 ## Livres
 
-- [Programmation efficace](http://tryalgo.org/book/). Par Christoph Dürr et Jill-Jênn Vie
-- [Algorithm Design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). par Jon Kleinberg et Éva Tardos
+[cote de la bibliothèque]
+
+- [Programmation efficace](http://tryalgo.org/book/). Par Christoph Dürr et Jill-Jênn Vie [005.1.DUR]
+- [Algorithm Design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). par Jon Kleinberg et Éva Tardos [005.1.KLE]
 - [Algorithms etc.](http://jeffe.cs.illinois.edu/teaching/algorithms/). par Jeff Erickson
 
 # Plan du cours
@@ -17,16 +19,22 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 > Ce plan peut être sujet à des ajustements.
 > Toutes les séances sont de 8h30 à 11h45, dans l'amphi F209 pour le cours, puis en F209 et F207 pour les petites classes.
 
-### 1. (Mercredi 19 sep 2018) — Diviser pour régner et algorithmes gloutons
+### 1. (Vendredi 14 sep 2018) — Diviser pour régner et algorithmes gloutons
+
+cours 11:00-12:30
 
 Introduction.  Diviser pour régner: Compter le nombre d'inversions en O(n log n).
 Glouton: Ordonnancement d'intervalles.  Ordonnancer sur une machine pour minimiser le temps d'attente pondéré.
+
+### 1. (Lundi 17 sep 2018) — Diviser pour régner et algorithmes gloutons
+
+[exercices](pc1/pc1.pdf). 10:15-11:45
 
 Exercice des cartes bancaires.
 Placement d'antennes.
 Problème de cache.
 
-### 2. (Vendredi 21 sep 2018) - Programmation dynamique
+### 3. (Mercredi 19 sep 2018) - Programmation dynamique 1
 
 Plus long/court chemin dans un graphe orienté acyclique.
 Plus longue sous séquence commune.
@@ -36,8 +44,15 @@ Arbre binaire de recherche optimisé pour fréquences données. Propriété de M
 Distance d'édition de Levenshtein.
 Plus longue sous séquence croissante.
 
+### 3. (Vendredi 21 sep 2018) - Programmation dynamique 2
 
-### 3. (Lundi 24 sep 2018) - Flots et coupes
+Somme de sous-ensembles.
+Voyageur de commerce.
+Plus grand carré dans une grille.
+Plus grand rectangle dans une grille.
+Multiplication d'une séquence de matrices.
+
+### 4. (Lundi 24 sep 2018) - Flots et coupes
 
 Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
@@ -46,7 +61,7 @@ Amélioration de Edmonds-Karp.
 Théorème de Dilworth (réservation de taxis).
 Problèmes réduisant au problème du flot maximum.
 
-### 4. (Lundi 1 oct 2018) - Flots et coupes (suite)
+### 5. (Lundi 1 oct 2018) - Flots et coupes (suite)
 
 Algorithme de Dinic.
 Couplage cardinalité maximale bi-parti.
@@ -55,14 +70,14 @@ Problèmes réduisant au problème du couplage.
 
 Annonce devoir maison.
 
-### 5. (Lundi 8 oct 2018) - NP-complétude
+### 6. (Lundi 8 oct 2018) - NP-complétude
 
 Les classes P, NP, APX.  Preuves de NP-complétude.
 Réductions.
 Exemples: sac à dos, partition, couplage numérique en 3 dimensions.
 Non approximabilité de la clique maximale, ensemble indépendant.
 
-### 6. (Lundi 15 oct 2018) - Algorithmes d'approximations
+### 7. (Lundi 15 oct 2018) - Algorithmes d'approximations
 
 2-approximation pour équilibrage de charge.
 Sac à dos.
@@ -73,7 +88,7 @@ Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 (evt. Bin Packing)
 
-### 7. (Vendredi 19 oct 2018) - Algorithmes randomisés
+### 8. (Vendredi 19 oct 2018) - Algorithmes randomisés
 
 Rappel probabilités.
 Coupe minimale dans un graphe.
@@ -82,11 +97,11 @@ Collecteur de coupons.
 Boules dans des urnes.
 Quicksort. (evt. Uwe Schoening pour 2-SAT)
 
-### 8. (Lundi 22 oct 2018) - Multiplicative Weights Update
+### 9. (Lundi 22 oct 2018) - Multiplicative Weights Update
 
 Problème des experts.
 Équilibre de Nash dans les jeux à 2 joueurs et à somme nulle.
 
-### 9. (Lundi 29 oct 2018)
+### 10. (Lundi 22 oct 2018) - Examen
 
-Examen
+de 13:45  à  16:45.
