@@ -28,44 +28,53 @@
 \begin{document}
     \MakeScribeTop{PC3 : Programmation dynamique 2}
 
-    \section{Trianguler un polygone convexe}
+%     \section{Trianguler un polygone convexe}
 
-    On vous donne un polygone convexe formé des points $p_0,\ldots,p_{n-1}$ dans l'ordre normal, et tel que pour tout $i$, le point $p_{i+1}$ ne soit pas sur la droite définie par $p_i$ et $p_{i+2}$ (les indices sont pris modulo $n$).
-    Le but est de relier les points avec des segments de longueur totale minimale, pour décomposer le polygone en triangles.
-    Donnez un programme dynamique pour ce problème.
+%     On vous donne un polygone convexe formé des points $p_0,\ldots,p_{n-1}$ dans l'ordre normal, et tel que pour tout $i$, le point $p_{i+1}$ ne soit pas sur la droite définie par $p_i$ et $p_{i+2}$ (les indices sont pris modulo $n$).
+%     Le but est de relier les points avec des segments de longueur totale minimale, pour décomposer le polygone en triangles.
+%     Donnez un programme dynamique pour ce problème.
 
-\begin{figure}[ht]
-\begin{center}
-\begin{tikzpicture}[scale=0.3]
-\node[circle,fill=black] (a) at (5,7)  {};
-\node[circle,fill=black] (b) at (1,6)  {};
-\node[circle,fill=black] (c) at (0,2)  {};
-\node[circle,fill=black] (d) at (2,0)  {};
-\node[circle,fill=black] (e) at (7,0)  {};
-\node[circle,fill=black] (f) at (9,3)  {};
-\draw (f) -- (a) -- (b) -- (c) -- (d) -- (e) -- (f) -- (d) -- (a) -- (c);
-\end{tikzpicture}
-\end{center}
-\caption{Un polygone et sa triangulation (pas forcément optimale).}
-\end{figure}
+% \begin{figure}[ht]
+% \begin{center}
+% \begin{tikzpicture}[scale=0.3]
+% \node[circle,fill=black] (a) at (5,7)  {};
+% \node[circle,fill=black] (b) at (1,6)  {};
+% \node[circle,fill=black] (c) at (0,2)  {};
+% \node[circle,fill=black] (d) at (2,0)  {};
+% \node[circle,fill=black] (e) at (7,0)  {};
+% \node[circle,fill=black] (f) at (9,3)  {};
+% \draw (f) -- (a) -- (b) -- (c) -- (d) -- (e) -- (f) -- (d) -- (a) -- (c);
+% \end{tikzpicture}
+% \end{center}
+% \caption{Un polygone et sa triangulation (pas forcément optimale).}
+% \end{figure}
 
 \section{Plus grand carré dans une grille}
 
 Étant donnée une grille de dimension $n\times m$ aux cases colorés en blanc ou noir, trouvez un plus grand carré dans la grille (intersection de lignes $[i,i+k]$ et colonnes $[j,j+k]$ pour des entiers $i,j,k$) qui soit entièrement blanc.
 
+\begin{figure}[h]
+\centerline{\includegraphics{plus_grand_carre}}
+\end{figure}
 
-\section{Ensemble indépendant de poids maximum dans un arbre}
+% \section{Ensemble indépendant de poids maximum dans un arbre}
 
-Un ensemble $S\subseteq V$ est indépendant dans le graphe $G(V,E)$ si les sommets de $S$ ne sont pas reliés par une arête.
-Étant donné une pondération $w:V\rightarrow \mathbb N$, trouvez un ensemble indépendant $S$ qui maximise $\sum_v\in S w_v$.  C'est un problème NP-difficile, mais très facile pour les arbres.  Donnez un programme dynamique de complexité linéaire pour ce problème.  Indice: choisissez un sommet arbitraire comme racine pour définir la notion de sous-arbre.
+% Un ensemble $S\subseteq V$ est indépendant dans le graphe $G(V,E)$ si les sommets de $S$ ne sont pas reliés par une arête.
+% Étant donné une pondération $w:V\rightarrow \mathbb N$, trouvez un ensemble indépendant $S$ qui maximise $\sum_v\in S w_v$.  C'est un problème NP-difficile, mais très facile pour les arbres.  Donnez un programme dynamique de complexité linéaire pour ce problème.  Indice: choisissez un sommet arbitraire comme racine pour définir la notion de sous-arbre.
 
 \section{Plus long chemin dans un arbre}
 
-Étant donné un arbre $G(V,E)$ calculez la longueur du plus long chemin dans l'arbre.  Ceci peut être fait par deux parcours successifs en profondeur, mais pour cet exercice donnez un programme dynamique.
+Étant donné un arbre $G(V,E)$ calculez la longueur du plus long chemin dans l'arbre.  Ceci peut être fait par deux parcours en profondeur, mais pour cet exercice donnez un programme dynamique.
+
+\begin{figure}[h]
+\centerline{\includegraphics{chemin_arbre}}
+\end{figure}
+
+\newpage
 
 \section{Jeux avec des pièces alignées}
 
-Vous jouez un jeu avec votre nièce Sigrid.  Sur la table sont alignées des pièces valant chacune une différente sommet d'argent, disons $w_1$ à $w_n$ en prenant les pièces de gauche à droite.  À tour de rôle, chacun de vous prend une des deux pièces extrêmes, toute à gauche ou toute à droite.  Sigrid commence. Quand il n'y a plus de pièces sur la table, vous comparez le total des pièces ramassées.  La personne avec la plus grande somme gagne.
+Vous jouez un jeu avec votre nièce Sigrid.  Sur la table sont alignées des pièces ayant chacune une différente valeur, disons $w_1$ à $w_n$ Euros dans l'ordre de gauche à droite.  À tour de rôle, chacun de vous prend une des deux pièces extrêmes, toute à gauche ou toute à droite.  Sigrid commence. Quand il n'y a plus de pièces sur la table, vous comparez le total des pièces ramassées.  La personne avec la plus grande somme gagne.
 \begin{figure}[ht]
 \begin{center}
 \begin{tikzpicture}[scale=0.3]
@@ -77,8 +86,15 @@ Vous jouez un jeu avec votre nièce Sigrid.  Sur la table sont alignées des pi�
 \node[circle,draw,minimum size=2em,fill=gray!20] at (20,0)  {2};
 \end{tikzpicture}
 \end{center}
-\caption{Une configuration du jeux. Le prochaine joueur peut prendre une des deux pièces grises.}
+% \caption{Une configuration du jeux. Le prochaine joueur peut prendre une des deux pièces grises.}
 \end{figure}
+
+
+\begin{enumerate}
+    \item Donnez un programme dynamique pour maximiser votre gain, dans le cas où Sigrid essaye de maximiser son gain à elle.
+    \item (Bonus) Montrez pour $n$ pair, vous ne pouvez pas gagner strictement. Indice: ne pensez plus \emph{programmation dynamique} mais \emph{Zugzwang}.
+\end{enumerate}
+
 
 \section{Pavage par des dominos}
 
