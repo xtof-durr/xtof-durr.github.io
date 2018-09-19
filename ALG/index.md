@@ -1,4 +1,4 @@
----
+ ---
 title: Algorithmique avancée
 ---
 
@@ -51,10 +51,13 @@ Rendu de monnaie.
 
 ### 3. (Vendredi 21 sep 2018) - Programmation dynamique 2
 
+Ensemble indépendant de poids maximal dans un arbre.
 Plus longue sous séquence croissante.
-Algorithme SMAWK.
 
 Plus grand carré dans une grille.
+Plus long chemin dans un arbre.
+Jeux avec des pièces alignées.
+Pavage par des dominos.
 
 ### 4. (Lundi 24 sep 2018) - Flots et coupes 1
 
@@ -62,14 +65,13 @@ Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
 Amélioration de Edmonds-Karp.
 
-Théorème de Dilworth (réservation de taxis).
 Problèmes réduisant au problème du flot maximum.
 
 ### 5. (Lundi 1 oct 2018) - Flots et coupes 2
 
 Algorithme de Dinic.
-Couplage cardinalité maximale bi-parti.
 Couverture par sommets dans les graphes bipartis (Bipartite Vertex Cover).
+
 Problèmes réduisant au problème du couplage.
 
 Annonce devoir maison.
