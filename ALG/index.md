@@ -1,4 +1,4 @@
- ---
+---
 title: Algorithmique avancée
 ---
 
@@ -34,7 +34,7 @@ Exercice des cartes bancaires.
 Placement d'antennes.
 Problème de cache.
 
-### 3. (Mercredi 19 sep 2018) - Programmation dynamique 1
+### 2. (Mercredi 19 sep 2018) - Programmation dynamique
 
 Plus long/court chemin dans un graphe orienté acyclique.
 Plus longue sous séquence commune.
@@ -49,17 +49,17 @@ Parenthéser une expression booléenne.
 Partage équitable.
 Rendu de monnaie.
 
-### 3. (Vendredi 21 sep 2018) - Programmation dynamique 2
+### 3. (Lundi 24 sep 2018) - Algorithme par balayage
 
-Ensemble indépendant de poids maximal dans un arbre.
 Plus longue sous séquence croissante.
+Plus grand rectangle sous un histogramme.
 
 Plus grand carré dans une grille.
 Plus long chemin dans un arbre.
 Jeux avec des pièces alignées.
 Pavage par des dominos.
 
-### 4. (Lundi 24 sep 2018) - Flots et coupes 1
+### 4. (Lundi 1 oct 2018) - Flots et coupes 1
 
 Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
@@ -67,23 +67,23 @@ Amélioration de Edmonds-Karp.
 
 Problèmes réduisant au problème du flot maximum.
 
-### 5. (Lundi 1 oct 2018) - Flots et coupes 2
+### 5. (Lundi 8 oct 2018) - Flots et coupes 2
 
-Algorithme de Dinic.
+Algorithme de Dinic ou de Goldberg et Tarjan.
 Couverture par sommets dans les graphes bipartis (Bipartite Vertex Cover).
 
 Problèmes réduisant au problème du couplage.
 
 Annonce devoir maison.
 
-### 6. (Lundi 8 oct 2018) - NP-complétude
+### 6. (Lundi 15 oct 2018) - NP-complétude
 
 Les classes P, NP, APX.  Preuves de NP-complétude.
 Réductions.
 Exemples: sac à dos, partition, couplage numérique en 3 dimensions.
 Non approximabilité de la clique maximale, ensemble indépendant.
 
-### 7. (Lundi 15 oct 2018) - Algorithmes d'approximations
+### 7. (Vendredi 19 oct 2018) - Algorithmes d'approximations
 
 2-approximation pour équilibrage de charge.
 Sac à dos.
@@ -94,7 +94,7 @@ Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 (evt. Bin Packing)
 
-### 8. (Vendredi 19 oct 2018) - Algorithmes randomisés
+### 8. (Lundi 22 oct 2018) - Algorithmes randomisés
 
 Rappel probabilités.
 Coupe minimale dans un graphe.
@@ -102,11 +102,6 @@ Collecteur de coupons.
 
 Boules dans des urnes.
 Quicksort. (evt. Uwe Schoening pour 2-SAT)
-
-### 9. (Lundi 22 oct 2018) - Multiplicative Weights Update
-
-Problème des experts.
-Équilibre de Nash dans les jeux à 2 joueurs et à somme nulle.
 
 ### 10. (Lundi 22 novembre 2018) - Examen
 
