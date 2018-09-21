@@ -103,8 +103,9 @@ Collecteur de coupons.
 Boules dans des urnes.
 Quicksort. (evt. Uwe Schoening pour 2-SAT)
 
-### 10. (Lundi 22 novembre 2018) - Examen
+### -1. (Lundi 22 novembre 2018) - Examen
 
 de 13:45  à  16:45.
 
 Toutes les notes sont autorisées.  Mais pas de livres.
+Ni de calculatrices.
