@@ -26,7 +26,7 @@
 
 
 \begin{document}
-    \MakeScribeTop{PC4 : Flots et coupes 2}
+    \MakeScribeTop{PC5 : Flots et coupes 2}
 
 \section{Mission Improbable}
 
@@ -44,7 +44,9 @@ Votre but est de dérober le plus de cartons sans que les dispositifs notent un 
 \end{figure}
 
 \source{Mission Improbable, ACM-ICPC World Finals 2017}
+\source{aussi billet sur tryalgo.org du 31/05/2017}
 
+\newpage 
 \section{Champs boueux}
 
 Vos vaches broutent dans un terrain qui se modélise comme une grille composée de $m$ lignes et de $n$ colonnes. Chaque case contient soit de l'herbe soit de la boue. Vous voulez couvrir toute la boue avec des planches rectangulaires. Ces planches ont la largeur de la case d'une grille, mais des longueurs arbitraires. Les planches ne doivent pas recouvrir de l'herbe.  Vous devez couvrir toute la boue avec un nombre minimum de planches pour cela, même si cela revient à couvrir plusieurs fois une même case. 
@@ -57,8 +59,14 @@ Vos vaches broutent dans un terrain qui se modélise comme une grille composée 
 
 Réduisez ce problème vers un problème de couplage.
 
-
-
-
 \source{Muddy Fields, SPOJ.com/problems/MUDDY}
+
+\section{Flot maximum à coût minimum}
+
+On vous donne un graphe $G(V,E)$, de nouveau avec deux sommets distincts $s,t\in V$ ainsi que des capacités sur les arêtes $c:E \rightarrow \mathbb N$ mais cette fois-ci également avec un coût sur les arêtes $w: E\rightarrow \mathbb N$.  L'interprétation est que chaque unité de flot traversant une arête $e$ génère un coût de $w(e)$ Euros.
+
+Le but est de trouver un flot $f$ de $s$ à $t$ de valeur maximale, et qui minimise également le coût total $\sum_{e:f(e)>0} f(e) w(e)$.
+
+Proposez un algorithme pour ce problème, en s'inspirant des algorithmes pour le cas sans coût.  Analysez sa complexité.
+Indice~: vous pourriez par exemple chercher certains cycles dans le graphe.
 \end{document}
