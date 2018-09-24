@@ -5,7 +5,7 @@ title: Devoir maison
 École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun) - cours IS3005AD: Algorithmique avancée
 
 
-Les deux parties sont à faire.
+Les deux parties sont à faire et à rendre pour le mercredi 17 octobre à [cette page](http://www-desir.lip6.fr/~durrc/Iut/rendre/).
 
 ## Partie sur la programmation dynamique
 
@@ -13,7 +13,7 @@ Les deux parties sont à faire.
 On veut stocker \\(n\\) éléments comparables dans un arbre binaire de recherche.
 Pour simplifier on suppose que les éléments sont les entiers de \\(1\\) à \\(n\\).
 On pourrait pour cela prendre un arbre binaire équilibré, ce qui garantirait des temps d'accès dans le pire des cas de \\(O(\log n)\\).  Mais on s'intéresse à optimiser le temps d'accès moyen, pour des fréquences d'accès \\(f[1\ldots n]\\) données pour chaque élément.
-Concrètement si \\(p[i]\\) est la profondeur de l'élément \\(i\\) dans l'arbre produit alors on veut minimiser la somme \\(\sum_{i=1}^n f[i]\cdot p[i]$.
+Concrètement si \\(p[i]\\) est la profondeur de l'élément \\(i\\) dans l'arbre produit alors on veut minimiser la somme \\(\sum_{i=1}^n f[i]\cdot p[i]\\).
 Pour fixer les choses on dira que la racine a la profondeur \\(1\\), les descendants directs de la racine ont la profondeur \\(2\\) et ainsi de suite.
 
 Nous avons vu un algorithme par programmation dynamique de complexité \\(O(n^3)\\).
@@ -31,10 +31,10 @@ Si vous programmez en Python, donnez seulement le code de cette fonction. Si vou
 
 ## Partie sur les flots
 
-On vous donne une matrice A[1..m][1..n] de nombres fractionels non-négatifs.  Votre but est d'arrondir A vers une matrice entière B, en remplaçant chaque entrée \\(x\\) de \\(A\\) par \\(\lceil x\rceil\\)  ou par \\(\lfloor x\rfloor$, en préservant les sommes sur les entrées de toutes les lignes et de toutes les colonnes.  Pour cela on supposera que les sommes de toutes les colonnes et de toutes les lignes de \\(A\\) sont entières.
+On vous donne une matrice A[1..m][1..n] de nombres fractionels non-négatifs.  Votre but est d'arrondir A vers une matrice entière B, en remplaçant chaque entrée \\(x\\) de \\(A\\) par \\(\lceil x\rceil\\)  ou par \\(\lfloor x\rfloor\\), en préservant les sommes sur les entrées de toutes les lignes et de toutes les colonnes.  Pour cela on supposera que les sommes de toutes les colonnes et de toutes les lignes de \\(A\\) sont entières.
 Par exemple
 
-\[
+\\[
 		\left[ \begin{array}{ccc}
 		1.2 & 3.4 & 2.4 \\
 		3.9 & 4 & 2.1 \\
@@ -48,7 +48,7 @@ Par exemple
 		8 & 1 & 1 \\
 		\end{array}
 		\right]
-\]
+\\]
 
 Le devoir maison consiste en:
 
