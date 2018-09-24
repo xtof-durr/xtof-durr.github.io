@@ -34,21 +34,11 @@ Si vous programmez en Python, donnez seulement le code de cette fonction. Si vou
 On vous donne une matrice A[1..m][1..n] de nombres fractionels non-négatifs.  Votre but est d'arrondir A vers une matrice entière B, en remplaçant chaque entrée \\(x\\) de \\(A\\) par \\(\lceil x\rceil\\)  ou par \\(\lfloor x\rfloor\\), en préservant les sommes sur les entrées de toutes les lignes et de toutes les colonnes.  Pour cela on supposera que les sommes de toutes les colonnes et de toutes les lignes de \\(A\\) sont entières.
 Par exemple
 
-\\(
-		\left[ \begin{array}{ccc}
-		1.2 & 3.4 & 2.4 \\
-		3.9 & 4 & 2.1 \\
-		7.9 & 1.6 & 0.5 \\
-		\end{array}
-		\right]
-		\rightarrow
-		\left[ \begin{array}{ccc}
-		1 & 4 & 2 \\
-		4 & 4 & 2 \\
-		8 & 1 & 1 \\
-		\end{array}
-		\right]
-\\)
+
+		entrée                 sortie
+		[ 1.2  3.4  2.4 ]      [ 1   4   2 ]
+		[ 3.9  4    2.1 ]  ->  [ 4   4   2 ]
+		[ 7.9  1.6  0.5 ]      [ 8   1   1 ]
 
 Le devoir maison consiste en:
 
