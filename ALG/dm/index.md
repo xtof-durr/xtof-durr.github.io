@@ -5,13 +5,12 @@ title: Devoir maison
 École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun) - cours IS3005AD: Algorithmique avancée
 
 
-
 ## Sujet sur la programmation dynamique
 
 
 On veut stocker $n$ éléments comparables dans un arbre binaire de recherche.
-Pour simplifier on suppose que les éléments sont les entiers de $1$ à $n$.
-On pourrait pour cela prendre un arbre binaire équilibré, ce qui garantirait des temps d'accès dans le pire des cas de $O(\log n)$.  Mais on s'intéresse à optimiser le temps d'accès moyen, pour des fréquences d'accès $f[1\ldots n]$ données pour chaque élément.
+Pour simplifier on suppose que les éléments sont les entiers de $1$ à \\(n\\).
+On pourrait pour cela prendre un arbre binaire équilibré, ce qui garantirait des temps d'accès dans le pire des cas de \\(O(\log n)\)).  Mais on s'intéresse à optimiser le temps d'accès moyen, pour des fréquences d'accès $f[1\ldots n]$ données pour chaque élément.
 Concrètement si $p[i]$ est la profondeur de l'élément $i$ dans l'arbre produit alors on veut minimiser la somme $\sum_{i=1}^n f[i]\cdot p[i]$.
 Pour fixer les choses on dira que la racine a la profondeur $1$, les descendants directs de la racine ont la profondeur $2$ et ainsi de suite.
 
