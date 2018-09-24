@@ -79,9 +79,11 @@ A[i,i] = p[i] clairement. Et pour i < j, A[i,j] est l'optimum sur les deux possi
 
 A[i,j] = p[i] + ... + p[j] - min{A[i,j-1, A[i+1,j]]}.
 
+Et pour se convaincre que Judith peut gagner dans une configuration avec un nombre pair de pièces, il suffit d'observer qu'elle peut forcer son adversaire à prendre toutes les pièces dans les positions impaires. Ou dans les positions paires, selon ce qui est pire.
+
 ## Pavage par des dominos
 
-Fixez un pavage. Considérez la frontière entre deux colonnes j et j+1 de la grille.  Pour chacune des trois lignes, elle peut être traversée par un domino ou pas. Notons par un mot de \\(\{0,1\}^3\\) cette configuration, avec 1 représentant une traversée.  Il y a 8 configurations possibles.  
+Fixez un pavage. Considérez la frontière entre deux colonnes j et j+1 de la grille.  Pour chacune des trois lignes, la frontière peut être traversée par un domino ou pas. Notons par un mot de \\( \\{ 0,1 \\}^3\\) cette configuration, avec 1 représentant une traversée.  Il y a 8 configurations possibles.  
 
 ### Compatibilité des configurations
 
@@ -90,4 +92,6 @@ Alors \\(M^n(000,000)\\) est le nombre demandé.
 
 La matrice \\(M^n\\) peut être obtenue par exponentiation rapide en faisant \\(\log n\\) multiplications de matrices.
 
-Par contre les valeurs de la matrice \\(M^n\\) seront très grand, et nécessitent de l'ordre de n bits pour leur représentation.  Pour une analyse raisonable on devrait donc abandonner le modèle où chaque opération arithmétique coûte un temps constant, et considérer un modèle où on compte les opérations sur les bits.  Actuellement le meilleur algorithme de multiplication de matrice connue sur des entiers sur n bits a une complexité de \\(O(n\log n 2^{\log^* n})\\), ce qui en pratique est proche de \\(O(n\log n)\\). Bien qu'il y ait \\O(\log n)\\) multiplications d'entiers, comme leur longueur suit une série géométrique, le dernier terme domine et  \\(O(n\log n 2^{\log^* n})\\) est la complexité de l'algorithme qui calcule le nombre de pavages d'une grille 3 fois n par des dominos.
+### Modèle de manipulation de bits
+
+Par contre les valeurs de la matrice \\(M^n\\) seront très grand, et nécessitent de l'ordre de n bits pour leur représentation.  Pour une analyse raisonable on devrait donc abandonner le modèle où chaque opération arithmétique coûte un temps constant, et considérer un modèle où on compte les opérations sur les bits.  Actuellement le meilleur algorithme de multiplication d'entiers connue sur n bits a une complexité de \\(O(n\log n 2^{\log^* n})\\), ce qui en pratique est proche de \\(O(n\log n)\\). Bien qu'on fasse \\(O(\log n)\\) multiplications d'entiers, comme leur longueur suit une série géométrique, le dernier terme domine et  \\(O(n\log n 2^{\log^* n})\\) est la complexité de l'algorithme, qui calcule le nombre de pavages d'une grille 3 fois n par des dominos.
