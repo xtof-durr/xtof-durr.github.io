@@ -54,7 +54,7 @@ Rendu de monnaie.
 Plus longue sous séquence croissante.
 Plus grand rectangle sous un histogramme.
 
-[exercices](pc3/pc3.pdf). Plus grand carré dans une grille.
+[exercices](pc3/pc3.pdf).  [corrigés](pc3/cor3)Plus grand carré dans une grille.
 Plus long chemin dans un arbre.
 Jeux avec des pièces alignées.
 Pavage par des dominos.
