@@ -42,7 +42,7 @@ Multiplication d'une séquence de matrices.
 Voyageur de commerce.
 
 
-Arbre binaire de recherche optimal.
+[exercices](pc2/pc2.pdf). [corrigés](cor/cor1.pdf) Arbre binaire de recherche optimal.
 Distance d'édition de Levenshtein.
 Corriger un mot bien parenthésé.
 Parenthéser une expression booléenne.
@@ -54,7 +54,7 @@ Rendu de monnaie.
 Plus longue sous séquence croissante.
 Plus grand rectangle sous un histogramme.
 
-Plus grand carré dans une grille.
+[exercices](pc3/pc3.pdf). Plus grand carré dans une grille.
 Plus long chemin dans un arbre.
 Jeux avec des pièces alignées.
 Pavage par des dominos.
