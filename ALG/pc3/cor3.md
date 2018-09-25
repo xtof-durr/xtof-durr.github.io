@@ -31,9 +31,7 @@ Pour (i,j) avec i=1 ou j=1, si la case (i,j) est noire, A[i,j]=0, sinon A[i,j]=1
 
 Pour (i,j) avec i>1 et j>1, si la case (i,j) est noire, A[i,j]=0, sinon
 
-\\( A[i,j]=
-1+\min\{A[i, j-1], A[i-1,j]. A[i-1,j-1]\} 
-\\)
+\\( A[i,j]= 1+\min\\{A[i, j-1], A[i-1,j]. A[i-1,j-1]\\} \\)
 
 ## Plus long chemin dans un arbre
 
