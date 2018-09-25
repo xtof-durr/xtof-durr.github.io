@@ -65,9 +65,9 @@ où u1, u2 sont deux descendants de v dont les sous-arbres sont de profondeur ma
 Notons A[i,j] le plus grand score un joueur peut atteindre s'il est celui qui commence sur la configuration composée des pièces entre les indices i et j. Alors
 A[i,i] = p[i] clairement. Et pour i < j, A[i,j] est l'optimum sur les deux possibilités du premier coup, à savoir:
 
-A[i,j] = p[i] + ... + p[j] - min{A[i,j-1, A[i+1,j]]}.
+A[i,j] = p[i] + ... + p[j] - min{ A[i,j-1], A[i+1,j] }.
 
-Et pour se convaincre que Judith peut gagner dans une configuration avec un nombre pair de pièces, il suffit d'observer qu'elle peut forcer son adversaire à prendre toutes les pièces dans les positions impaires. Ou dans les positions paires, selon ce qui est pire.
+Et pour se convaincre que Judith peut gagner dans une configuration avec un nombre pair de pièces, il suffit d'observer qu'elle peut forcer son adversaire à prendre toutes les pièces des positions impaires. Ou ceux des positions paires, selon ce qui est pire.
 
 ## Pavage par des dominos
 
