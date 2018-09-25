@@ -25,24 +25,14 @@ pour toute case (i,j) blanche et i,j>1.  En résumé:
 
 Pour la première ligne et première colonne, les carrés sont de côté 0 ou 1 suivant la couleur de la case. Donc
 
-\\( \forall (i,j): i=1 \vee j=1 \Rightarrow A[i,j]=
-\left\{
-\begin{array}{ll}
-0 & \mbox{ si la case (i,j) est noire } \\
-1 & \mbox{ si la case (i,j) est blanche } \\
-\end{array}
-\right.
-\\)
+Pour (i,j) avec i=1 ou j=1, si la case (i,j) est noire, A[i,j]=0, sinon A[i,j]=1.
 
 ### Récursion
 
-\\( \forall (i,j): i,j>1 \Rightarrow A[i,j]=
-\left\{
-\begin{array}{ll}
-0 & \mbox{ si la case (i,j) est noire } \\
-1+\min\{A[i, j-1], A[i-1,j]. A[i-1,j-1]\} & \mbox{ sinon } \\
-\end{array}
-\right.
+Pour (i,j) avec i>1 et j>1, si la case (i,j) est noire, A[i,j]=0, sinon
+
+\\( A[i,j]=
+1+\min\{A[i, j-1], A[i-1,j]. A[i-1,j-1]\} 
 \\)
 
 ## Plus long chemin dans un arbre
