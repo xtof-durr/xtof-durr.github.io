@@ -44,7 +44,7 @@ Calculons d'abord la profondeur de l'arbre. La profondeur est égale à la longu
 
 Maintenant un plus long chemin P dans le sous-arbre enraciné en v, soit passe par v, soit ne passe pas par v.  Dans le dernier cas il est inclu dans un des sous-arbres des descendants directs de v.  Le premier cas se décompose en deux sous-cas.
 Soit v a un seul fils, alors la longueur de P est forcément Prof[v].
-Soit v a plusieurs fils, alors dans P v a deux voisins, disons u1 et u2. Et le chemin débute sur une feuille du sous-arbre enraciné en u1, passe par u1,v,u2 puis continue vers une feuille du sous-arbre enraciné en u2.
+Soit v a plusieurs fils, alors dans P v a deux voisins, disons u1 et u2. Et le chemin débute sur une feuille du sous-arbre enraciné en u1, passe par u1, v, u2 puis continue vers une feuille du sous-arbre enraciné en u2.
 On a donc les récursions suivantes. 
 
 ### Cas de base: v est une feuille
@@ -60,7 +60,7 @@ A[v] = max{ A[u], Prof[v] }
 
 Prof[v] = 1  + Prof[u].
 A[v] = max{ A[u], Prof[u1] + 2 + Prof[u2] },
-où u1,u2 sont deux descendants de v de profondeur maximale.
+où u1, u2 sont deux descendants de v dont les sous-arbres sont de profondeur maximale.
 
 ## Jeux avec des pièces alignées
 
