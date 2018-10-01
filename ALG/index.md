@@ -67,6 +67,8 @@ Amélioration de Edmonds-Karp.
 
 [exercices](pc4/pc4.pdf). Problèmes réduisant au problème du flot maximum.
 
+Annonce [devoir maison](dm).
+
 ### 5. (Lundi 8 oct 2018) - Flots et coupes 2
 
 Algorithme de Dinic ou de Goldberg et Tarjan.
@@ -74,7 +76,6 @@ Couverture par sommets dans les graphes bipartis (Bipartite Vertex Cover).
 
 Problèmes réduisant au problème du couplage.
 
-Annonce devoir maison.
 
 ### 6. (Lundi 15 oct 2018) - NP-complétude
 
