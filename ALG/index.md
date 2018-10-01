@@ -65,7 +65,7 @@ Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
 Amélioration de Edmonds-Karp.
 
-[exercices](pc4/pc4.pdf). Problèmes réduisant au problème du flot maximum.
+[exercices](pc4/pc4.pdf).  [corrigés](pc4/cor4).Problèmes réduisant au problème du flot maximum.
 
 Annonce [devoir maison](dm).
 
