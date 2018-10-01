@@ -25,9 +25,11 @@ Une solution S est de ratio au moins R, si
 
 \\[
 	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R   
-	\\
+\\]
+\\[
 	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i 
-	\\
+\\]
+\\[
 	\sum_{i} w_i \leq \sum_{i\in S} R p_i + \sum_{i\not\in S} w_i
 \\]
 
