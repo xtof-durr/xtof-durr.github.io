@@ -29,6 +29,9 @@ Une solution S est de ratio au moins R, si
 	\sum_{i} w_i \leq \sum_{i\in S} R p_i + \sum_{i\not\in S} w_i
 \\)
 
+On veut faire correspondre des ensembles initiaux S avec des coupes dans le graphe.  Une coupe est un ensemble de sommets, on veut donc que les tâches correspondent à des sommets dans le graphe.
+L'expression de la partie droite de l'inégalité contient des sommes sur les éléments de S, et donc il faudrait des arcs dans le graphe avec ces valeurs.  On peut aussi se servir d'arcs de capacité infinie, pour éviter de sélectionner des ensembles de sommets qui ne soient pas initiaux.
+
 Notre graphe aura une source, un sommet par tâche et un puits. La source est reliée à chaque tâche i avec une capacité \\(w_i\\).
 Chaque tache i est reliée au puits avec une capacité \\( R p_i \\). Pour chaque couple de tâches avec \\(i \prec j\\) il y a un arc de j à i avec capacité infinie.  Ces arcs ne feront jamais partie d'une coupe de valeur finie, et donc ces coupes correspondent à des ensembles initiaux.
-Chaque coupe \\( S\cup\{\textrm{source}\} \\) est de valeur au plus \\(\sum_{i} w_i \\) ssi l'ensemble S est initial est a un ratio \\(\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i} \\) au plus R.
+Chaque coupe \\( S\cup\{\textrm{source}\} \\) est de valeur au moins \\(\sum_{i} w_i \\) ssi l'ensemble S est initial est a un ratio \\(\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i} \\) au plus R.  Ainsi par recherche dichotomique sur R on peut trouver l'ensemble initial de plus grand ratio.
