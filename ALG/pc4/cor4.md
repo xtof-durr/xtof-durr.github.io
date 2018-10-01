@@ -12,20 +12,20 @@ On augmente G par deux sommets source et destination. La source est reliée à t
 ## Élimination dans le baseball
 
 
-Alors étant donnée $n$ équipes, le nombre $w_i$ de matchs déjà gagnés pour chaque équipe $i$, et la liste des matchs $(i,j)$ encore à jouer on cherche à déterminer si une équipe particulière $k$ a encore une chance de gagner.  
+Alors étant donnée \\(n\\) équipes, le nombre \\(w_i\\) de matchs déjà gagnés pour chaque équipe \\(i$, et la liste des matchs \\((i,j)\\) encore à jouer on cherche à déterminer si une équipe particulière \\(k\\) a encore une chance de gagner.  
 
 
-On va partir sur l'hypothèse la plus favorable pour l'équipe k, à savoir qu'elle gagnerait chacun de ses matchs. Soit a le nombre de match qu'elle a encore à jouer plus $w_k$, le nombre de matchs déjà joués et gagnés par k.
+On va partir sur l'hypothèse la plus favorable pour l'équipe k, à savoir qu'elle gagnerait chacun de ses matchs. Soit a le nombre de match qu'elle a encore à jouer plus \\(w_k\\), le nombre de matchs déjà joués et gagnés par k.
 
-On construit un graphe, composé d'une source s, d'un sommet (i,j) par match encore à jouer avec i,j différent de k, et d'un sommet i par équipe differente de k, ainsi que d'un sommet puits t. Il y a une arête de capacité 1 de la source à tous les sommets matchs. D'un sommet match (i,j) il y a une arête de capacité 1 à chacune des équipes i et j.  Dans un flot valide, une seule de ces arêtes serait utilisée et indiquerait l'équipe gagnante. Puis de chaque équipe i, il y a une arête vers le puits de capacité a - w_i.  Cette capacité assure qu'aucune équipe n'arriverait à gagner plus de matchs que l'équipe k.  En particulier si une arête a une capacité négative, il n'y aura pas de solution.
+On construit un graphe, composé d'une source s, d'un sommet (i,j) par match encore à jouer avec i,j différent de k, et d'un sommet i par équipe differente de k, ainsi que d'un sommet puits t. Il y a une arête de capacité 1 de la source à tous les sommets matchs. D'un sommet match (i,j) il y a une arête de capacité 1 à chacune des équipes i et j.  Dans un flot valide, une seule de ces arêtes serait utilisée et indiquerait l'équipe gagnante. Puis de chaque équipe i, il y a une arête vers le puits de capacité \\(a - w_i\\).  Cette capacité assure qu'aucune équipe n'arriverait à gagner plus de matchs que l'équipe k.  En particulier si une arête a une capacité négative, il n'y aura pas de solution.
 
 ## Entrepreneur cupide
 
 Une solution S est de ratio au moins R, si 
 
 \\( 
-	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R  
-	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i
+	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R  \\
+	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i \\
 	\sum_{i} w_i \leq \sum_{i\in S} R p_i + \sum_{i\not\in S} w_i
 \\)
 
