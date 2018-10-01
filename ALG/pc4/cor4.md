@@ -12,7 +12,7 @@ On augmente G par deux sommets source et destination. La source est reliée à t
 ## Élimination dans le baseball
 
 
-Alors étant donnée \\(n\\) équipes, le nombre \\(w_i\\) de matchs déjà gagnés pour chaque équipe \\(i$, et la liste des matchs \\((i,j)\\) encore à jouer on cherche à déterminer si une équipe particulière \\(k\\) a encore une chance de gagner.  
+Alors étant donnée \\(n\\) équipes, le nombre \\(w_i\\) de matchs déjà gagnés pour chaque équipe \\(i\\), et la liste des matchs \\((i,j)\\) encore à jouer on cherche à déterminer si une équipe particulière \\(k\\) a encore une chance de gagner.  
 
 
 On va partir sur l'hypothèse la plus favorable pour l'équipe k, à savoir qu'elle gagnerait chacun de ses matchs. Soit a le nombre de match qu'elle a encore à jouer plus \\(w_k\\), le nombre de matchs déjà joués et gagnés par k.
