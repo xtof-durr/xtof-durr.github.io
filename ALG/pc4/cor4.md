@@ -23,11 +23,13 @@ On construit un graphe, composé d'une source s, d'un sommet (i,j) par match enc
 
 Une solution S est de ratio au moins R, si 
 
-\\( 
-	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R  \\
-	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i \\
+\\[
+	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R   
+	\\
+	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i 
+	\\
 	\sum_{i} w_i \leq \sum_{i\in S} R p_i + \sum_{i\not\in S} w_i
-\\)
+\\]
 
 On veut faire correspondre des ensembles initiaux S avec des coupes dans le graphe.  Une coupe est un ensemble de sommets, on veut donc que les tâches correspondent à des sommets dans le graphe.
 L'expression de la partie droite de l'inégalité contient des sommes sur les éléments de S, et donc il faudrait des arcs dans le graphe avec ces valeurs.  On peut aussi se servir d'arcs de capacité infinie, pour éviter de sélectionner des ensembles de sommets qui ne soient pas initiaux.
