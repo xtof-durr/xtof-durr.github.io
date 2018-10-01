@@ -21,9 +21,14 @@ On construit un graphe, composé d'une source s, d'un sommet (i,j) par match enc
 
 ## Entrepreneur cupide
 
-Une solution S est de ratio au moins R, si \\( \sum_{i\in S} w_i  \leq R \sum_{i\in S} p_i \\), ou \\( \sum_{i\in S} w_i  \leq R \sum_{i\in S} p_i \\)
+Une solution S est de ratio au moins R, si 
 
-Notre graphe aura une source, un sommet par tâche et un puits. La source est reliée à chaque tâche avec une capacité 0.
-Chaque tache i est reliée au puits avec une capacité \\( R p_i - w_i \\). Pour chaque couple de tâches avec \\(i \prec j\\) il y a un arc de j à i avec capacité infinie.  Ces arcs ne feront jamais partie d'une coupe de valeur finie, et donc ces coupes correspondent à des ensembles initiaux.
+\\( 
+	\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i}  \leq R  
+	\sum_{i\in S} w_i  \leq R  \sum_{i\in S} p_i
+	\sum_{i} w_i \leq \sum_{i\in S} R p_i + \sum_{i\not\in S} w_i
+\\)
 
-.... à compléter....
+Notre graphe aura une source, un sommet par tâche et un puits. La source est reliée à chaque tâche i avec une capacité \\(w_i\\).
+Chaque tache i est reliée au puits avec une capacité \\( R p_i \\). Pour chaque couple de tâches avec \\(i \prec j\\) il y a un arc de j à i avec capacité infinie.  Ces arcs ne feront jamais partie d'une coupe de valeur finie, et donc ces coupes correspondent à des ensembles initiaux.
+Chaque coupe \\( S\cup\{\textrm{source}\} \\) est de valeur au plus \\(\sum_{i} w_i \\) ssi l'ensemble S est initial est a un ratio \\(\frac{\sum_{i\in S} w_i}{\sum_{i\in S} p_i} \\) au plus R.
