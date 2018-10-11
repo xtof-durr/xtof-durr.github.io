@@ -22,11 +22,11 @@ De même s'il existe un sommet marqué qui n'a que des voisins non-marqués, on 
 C'est un problème de couverture par sommets.  Considérez le graphe biparti suivant. Chaque segment maximal composé de cases adjacents boueuses, correspond à un emplacement potentiel de planche et génère un sommet.  Il y a donc des sommets correspondant aux segments horizontaux et des sommets correspondant aux segments horizontaux.  Par convention, les cases boueux isolées génèrent deux sommets.  Dans ce graphe il y aura une arête par case boueuse entre les sommets correspondant au segment vertical et horizontal dont l'intersection est cette case.  Le but est de trouver un ensemble minimal de sommets qui couvre toutes les arêtes.
 
 Comme chaque arête d'un couplage doit avoir au moins une extrémité dans $S$, la taille du couplage maximal est une borne inférieure sur la taille minimale dans la couverture minimale.  Le théorème de Kőnig dit qu'il y a en fait égalité entre les valeurs optimales.
-\index{Konig@Kőnig}
-La preuve du théorème est constructive et donne un algorithme pour trouver une couverture minimale à partir d'un couplage maximal $M$ pour le graphe $G(U,V,E)$.  Soit $Z$ l'ensemble des sommets non couplés par $M$, et qui sont dans $U$.  Ajoutons dans $Z$ tous les sommets atteignables à partir de $Z$ par des chemins alternants, voir Figure~\ref{fig:konig}.  On définit un ensemble
-\[
+
+La preuve du théorème est constructive et donne un algorithme pour trouver une couverture minimale à partir d'un couplage maximal $M$ pour le graphe $G(U,V,E)$.  Soit $Z$ l'ensemble des sommets non couplés par $M$, et qui sont dans $U$.  Ajoutons dans $Z$ tous les sommets atteignables à partir de $Z$ par des chemins alternants.  On définit un ensemble
+\\[
 S = (U\backslash Z) \cup (V\cap Z).
-\]
+\\]
 
 La construction de $Z$ implique que pour chaque arête $(u,v)\in M$, si $v\in Z$ alors $u\in Z$ également.  Et si $u\in Z$, comme $u$ n'était pas initialement dans $Z$ avec les sommets libres de $U$, $u$ a été ajouté à $Z$ grâce à l'arête du couplage, donc $v\in Z$.
 
@@ -34,14 +34,14 @@ Ceci implique que pour chaque arête du couplage $(u,v)\in M$, soit chacune de s
 
 Montrons que $S$ couvre toutes les arêtes du graphe.
 Soit $(u,v)$ une arête du graphe. Si $u \not\in Z$, l'arête est couverte, alors supposons que $u \in Z$.  Si $(u,v)$ n'est pas une arête du couplage, alors le caractère maximal de $Z$ fait que $v$ doit aussi être dans $Z$, et est donc dans $S$.
-Si $(u,v)$ est dans $M$, alors par l'observation précédente $v\in Z$, et donc $v\in S$. Ceci montre que $S$ est une couverture de sommets, ce qui implique que $|S|\leq |M|$, ainsi nous pouvons conclure que $|S|=|M|$.
+Si $(u,v)$ est dans $M$, alors par l'observation précédente $v\in Z$, et donc $v\in S$. Ceci montre que $S$ est une couverture de sommets, ce qui implique que $|S|\leq |M|$, ainsi nous pouvons conclure que \\(|S|=|M|\\).
 
 
 ![](konig.png "Calcul d'une couverture minimale par sommets. D'abord un couplage maximum est calculé, dont les arêtes sont montrées par des traits épais.  L'ensemble $Z$ est composé des sommets non couplés dans $U$ (en gris foncé), complété par les sommets atteignable de $Z$ par des chemins alternants (en gris clair).  Finalement la solution produite est l'ensemble $S=(U\backslash Z) \cup (V\cap Z)$, donc chacun des sommets est montré avec une ombre."){:width="600"}
 
 ## Flot maximum à coût minimum
 
-Ici on voulait que vous observez qu'une solution arbitraire non-optimale peut être améliorée en trouvant un cycle orienté C de valeur négative. La valeur serait définie comme la somme des coûts des arcs le long de C, le coût étant pris positivement quand C est orienté comme le flot sur l'arc, et négativement quand C est orienté à l'opposé du flot sur l'arc.  On peut alors définir $\delta$ comme la plus petite valeur par laquelle on peut modifier le flot le long de C sans violer les contraintes de capacité.  Les contraintes de préservation de flot sont préservées et le coût du flot diminuera de $\delta$ multiplié par la valeur de C. Ainsi on peut avoir une approche similaire à l'algorithme de Ford et Fulkerson.
+Ici on voulait que vous observiez qu'une solution arbitraire non-optimale peut être améliorée en trouvant un cycle orienté C de valeur négative. La valeur serait définie comme la somme des coûts des arcs le long de C, le coût étant pris positivement quand C est orienté comme le flot sur l'arc, et négativement quand C est orienté à l'opposé du flot sur l'arc.  On peut alors définir $\delta$ comme la plus petite valeur par laquelle on peut modifier le flot le long de C sans violer les contraintes de capacité.  Les contraintes de préservation de flot sont préservées et le coût du flot diminuera de $\delta$ multiplié par la valeur de C. Ainsi on peut avoir une approche similaire à l'algorithme de Ford et Fulkerson.
 
 
 
