@@ -77,11 +77,7 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnr17.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnr12.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnr17.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnti12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnbx12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -91,7 +87,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/vntex/vnr/vnti12.tfm
 INPUT radar-disc.pdf
 INPUT ./radar-disc.pdf
 OUTPUT pc1.pdf

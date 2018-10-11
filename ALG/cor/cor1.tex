@@ -1,7 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T5]{fontenc}
-\usepackage{graphicx,a4wide,framed}
+\usepackage{graphicx,a4wide,framed,amsmath}
 
 \newcommand{\source}[1]{\begin{flushright}\emph{[#1]}\end{flushright}}
 
@@ -67,6 +67,10 @@ L'idée est qu'il faut de toute façon couvrir $[l,r]$ et en choisissant la vale
 
 Pour se convaincre de l'optimalité, soit $S$ une solution optimale pour l'ensemble $I$ des intervalles déjà vues ainsi que $[l,r]$.  Soit $S$ est déjà une solution pour $I$, et dans ce cas $l\leq \max S$, soit $S\backslash \max S$ est une solution optimale pour $I$.
 
+\subsection{Gestion de cache}
+
+Cette question est peut-être parmi les plus difficiles.  Il faut donner un argument d'échanger pour montrer qu'on peut transformer toute solution $S$ en une qui suit la politique FF.  Le problème est que si on modifie un remplacement dans $S$, ceci a un effet sur toute la suite.  Il faut donc faire une autre transformation sur $S$ plus tard pour resynchroniser les caches dans les deux solutions.  Pour une explication complète nous vous renvoyons à la section 4.3 "Optimal Cachine: A more complex exchange argument".
+
 
 \section{Programmation dynamique 1}
 
@@ -114,6 +118,67 @@ A[i,j] = 1 + \min\{ \underbrace{A[ i,j-1 ]}_{\textrm{insertion $y_j$}},
  \underbrace{A[i-1,j]}_{\textrm{suppression $x_i$}}, 
  \underbrace{A[i-1,j-1]}_{\textrm{substitution $x_i \rightarrow y_j$}} \}.
 \]
+
+\subsection{Corriger un mot bien parenthésé}
+
+D'abord on peut observer qu'il suffit de supprimer des parenthèses pour corriger un mot. Une insertion n'a de but que pour coupler une parenthèse isolé, qu'on aurait pu supprimer.
+
+Soit $x$ le mot d'entrée de longueur $n$, avec les indices allant de $0$ à $n-1$.
+Notons $A[i,j]$ le plus petit nombre de suppressions nécessaires pour corriger le mot $x_i\ldots x_j$.  
+Si $j<i$, on a $A[i,j]=0$ pour le mot vide.
+
+Sinon, si $x_i=)$, alors $A[i,j]=1+A[i+1,j]$ clairement.
+Maintenant considérons le cas $x_i=($.  Soit on supprime cette lettre, soit on l'associe avec une autre lettre $x_k=)$, avec $i<k\leq j$. D'où la récursion
+\[
+A[i,j] = 
+\left\{
+    \begin{array}{ll}
+    1 + A[i+1,j] & \textrm{si } x_i=)
+    \\
+    \min\{1+A[i+1,j], \min_{i<k\leq j:x_k=)} A[i+1,k-1]+A[k+1,j]\} & \textrm{si } x_i=(.
+    \end{array}
+\right.
+\]
+
+\subsection{Parenthéser une expression booléenne}
+
+Notons $C_0,\ldots, C_{n-1}$ les constantes et $O_{0},\ldots,O_{n-2}$ les operateurs.
+Notons $A[i,j]$ le nombre de manières de placer des parenthèses pour que l'expression $C_i O_i \ldots C_j$ soit vraie.
+
+Notons $B[i,j]$ le nombre de placements de parenthèses qui rend l'expression fausse. 
+
+Pour le cas de base $A[i,i]$ est la valeur de $C_i$, (1 pour T et 0 pour F).
+Et $B[i,i]=1-A[i,i]$.
+
+Pour $j>i$, on les récusions suivantes.
+Pour un parenthèsage, la dernière opération est $O_k$ pour un indice $i\leq k < j$.
+Cette dernière opération décompose l'expression en deux parties. Donc
+$A[i,j]$ est la somme sur $k=i,\ldots,j-1$ de
+\begin{align*}
+    A[i,k]\cdot A[k+1,j] & \textrm{ si } C_k=\wedge \\
+    A[i,k]\cdot A[k+1,j] + B[i,k]\cdot A[k+1,j] + A[i,k]\cdot B[k+1,j] & \textrm{ si } C_k=\vee \\
+    B[i,k]\cdot A[k+1,j] + A[i,k]\cdot B[k+1,j] & \textrm{ si } C_k=\oplus.
+\end{align*}
+$B[i,j]$ peut être obtenu de manière similaire, c'est la somme sur $k=i,\ldots,j-1$ de
+\begin{align*}
+    B[i,k]\cdot B[k+1,j] + B[i,k]\cdot A[k+1,j] + A[i,k]\cdot B[k+1,j] & \textrm{ si } C_k=\wedge \\
+    B[i,k]\cdot B[k+1,j] & \textrm{ si } C_k=\vee \\
+    A[i,k]\cdot A[k+1,j] + B[i,k]\cdot B[k+1,j] & \textrm{ si } C_k=\oplus.
+\end{align*}
+
+\subsection{Rendu de monnaie}
+
+\begin{itemize}
+    \item Soient les pièces 1,4,5 et la valeur cible 8. Glouton produira 5+1+1+1 alors que l'optimum est 4+4.
+    \item Chaque chiffre de l'écriture décimale de $R$ est un sousproblème indépendant.  En analysant les 10 cas, on prouve l'affirmation.
+    \item
+    Déterminer le nombre minimal de billets: 
+    Soit $A[i,z]$ la solution optimale pour les pièces $x_0,x_1,\ldots,x_i$ et valeur cible $0\leq z\leq R$.
+    Par convention $A[-1,z]=\infty$ et $A[i,z]=\infty$ pour $z<0$.
+    Alors $A[0,0]=0$ et en géneral $A[i,z]=\min\{A[i-1,z],1+A[i,z-x_i]\}$.  
+
+    La solution optimale est $A[n,R]$, il y a $O(nR)$ variables, chacune étant l'optimum sur deux options. 
+\end{itemize}
 
 \subsection{Partage équitable}
 

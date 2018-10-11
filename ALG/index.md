@@ -42,7 +42,7 @@ Multiplication d'une séquence de matrices.
 Voyageur de commerce.
 
 
-[exercices](pc2/pc2.pdf). [corrigés](cor/cor1.pdf). Arbre binaire de recherche optimal.
+[exercices](pc2/pc2.pdf). [corrigés, mise à jour le 11oct2018](cor/cor1.pdf). Arbre binaire de recherche optimal.
 Distance d'édition de Levenshtein.
 Corriger un mot bien parenthésé.
 Parenthéser une expression booléenne.
@@ -65,12 +65,13 @@ Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
 Amélioration de Edmonds-Karp.
 
-[exercices](pc4/pc4.pdf).  [corrigés](pc4/cor4).Problèmes réduisant au problème du flot maximum.
+[exercices](pc4/pc4.pdf).  [corrigés](pc4/cor4). Problèmes réduisant au problème du flot maximum.
 
 Annonce [devoir maison](dm).
 
 ### 5. (Lundi 8 oct 2018) - Flots et coupes 2
 
+[exercices](pc5/pc5.pdf).  [corrigés](pc5/cor5). 
 Algorithme de Dinic ou de Goldberg et Tarjan.
 Couverture par sommets dans les graphes bipartis (Bipartite Vertex Cover).
 
