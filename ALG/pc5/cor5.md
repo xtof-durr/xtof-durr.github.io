@@ -37,7 +37,7 @@ Soit $(u,v)$ une arête du graphe. Si $u \not\in Z$, l'arête est couverte, alor
 Si $(u,v)$ est dans $M$, alors par l'observation précédente $v\in Z$, et donc $v\in S$. Ceci montre que $S$ est une couverture de sommets, ce qui implique que $|S|\leq |M|$, ainsi nous pouvons conclure que $|S|=|M|$.
 
 
-![](konig.svg "Calcul d'une couverture minimale par sommets. D'abord un couplage maximum est calculé, dont les arêtes sont montrées par des traits épais.  L'ensemble $Z$ est composé des sommets non couplés dans $U$ (en gris foncé), complété par les sommets atteignable de $Z$ par des chemins alternants (en gris clair).  Finalement la solution produite est l'ensemble $S=(U\backslash Z) \cup (V\cap Z)$, donc chacun des sommets est montré avec une ombre."){:width="600"}
+![](konig.png "Calcul d'une couverture minimale par sommets. D'abord un couplage maximum est calculé, dont les arêtes sont montrées par des traits épais.  L'ensemble $Z$ est composé des sommets non couplés dans $U$ (en gris foncé), complété par les sommets atteignable de $Z$ par des chemins alternants (en gris clair).  Finalement la solution produite est l'ensemble $S=(U\backslash Z) \cup (V\cap Z)$, donc chacun des sommets est montré avec une ombre."){:width="600"}
 
 ## Flot maximum à coût minimum
 
