@@ -80,10 +80,11 @@ Problèmes réduisant au problème du couplage.
 
 ### 6. (Lundi 15 oct 2018) - NP-complétude
 
-Les classes P, NP, APX.  Preuves de NP-complétude.
+Les classes P, NP.  Preuves de NP-complétude.
 Réductions.
-Exemples: sac à dos, partition, couplage numérique en 3 dimensions.
-Non approximabilité de la clique maximale, ensemble indépendant.
+Exemples: partition, Vertex Cover, etc.
+
+[exercices](pc6/pc6.pdf). 
 
 ### 7. (Vendredi 19 oct 2018) - Algorithmes d'approximations
 
