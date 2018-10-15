@@ -1,0 +1,120 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage{graphicx,a4wide,framed,amssymb,amsmath}
+\usepackage{tikz}
+\usetikzlibrary{decorations,decorations.pathmorphing,shadows}
+
+
+\usepackage{algorithm}
+\usepackage[noend]{algorithmic}
+
+
+\newcommand{\source}[1]{\begin{flushright}\emph{[#1]}\end{flushright}}
+
+\newcommand{\MakeScribeTop}[1]{
+\noindent
+\begin{framed}
+\noindent
+ Algorithmique Avancée 2018
+ \hfill
+ École Centrale-Supélec
+ \\[1em]
+ \centerline{ \Large
+#1
+ }
+ \\[1em]
+\centerline{  \it Christoph Dürr, Nguyễn Kim Thắng}
+\end{framed}
+}
+
+
+
+\begin{document}
+    \MakeScribeTop{PC7 : Algorithmes d'approximations}
+
+
+
+\section{Couverture des ensembles}
+
+Étant donné un universe $U = \{u_{1}, \ldots, u_{n}\}$ et de $m$ ensembles 
+$S_{1}, \ldots, S_{m}$ où chaque ensemble $S_{i} \subseteq U$ est associé avec un poids $w_{i}$ pour tout $1 \leq i \leq m$.
+Une \emph{couverture des ensembles} est une collection $\mathcal{C}$ de
+ces ensemble telle que $U \subseteq \bigcup_{S_{i} \in \mathcal{C}} S_{i}$. 
+L'objectif est de trouver une couverture des ensembles telle que le poids total 
+$\sum_{S_{i} \in \mathcal{C}} w_{i}$ soit minimal.
+%
+
+Ce problème est NP-complet. Nous allons chercher un algorithme d'approximation.
+Considérer l'algorithme suivant.
+
+\begin{algorithm}[ht]
+\begin{algorithmic}[1]  
+\STATE Initialement, $R \gets U$ and $\mathcal{C} \gets \emptyset$. 
+\WHILE{$R \neq \emptyset$}  
+	\STATE Soit $S_{i}$ un ensemble qui minimise $\frac{w_{i}}{|S_{i} \cap R|}$.
+	\STATE $\mathcal{C} \gets \mathcal{C} \cup S_{i}$.
+	\STATE $c_{u} \gets \frac{w_{i}}{|S_{i} \cap R|}$ pour tous $u \in S_{i} \cap R$. 
+		\COMMENT{cette définition est pour l'analyse seulement.}
+	\STATE $R \gets R \setminus S_{i}$.
+\ENDWHILE
+\STATE Retourner $\mathcal{C}$.
+\end{algorithmic}
+\caption{Algorithme glouton pour \textsc{Couverture des ensembles}.}
+\label{algo:covering}
+\end{algorithm}
+
+
+\begin{enumerate}
+	\item Donner une interprétation de $c_{u}$.
+	\item Montrer que $\sum_{S_{i} \in \mathcal{C}} w_{i} = \sum_{u \in U} c_{u}$.
+	\item Montrer que pour chaque ensemble $S_{i}$, 
+		$
+			\sum_{u \in S_{i}} c_{u} \leq \left( 1 + \frac{1}{2} + \ldots + \frac{1}{|S_{i}|} \right) \cdot w_{i}
+		$
+	\item Déduire que l'algorithm glouton ci-dessus est $O(\log n)$-approximation.
+\end{enumerate}
+
+\section{Couverture des arêtes}
+
+Étant donné un graph $G(V,E)$ où $|V| = n, |E| = m$ 
+et chaque sommet $v \in V$ est associé avec un poids $w_{v}$.
+Une \emph{couverture des arêtes} $S$ est un sous-ensemble des sommets tel que
+chaque arête $e \in E$ a au moins une extrémité dans $S$.
+L'objectif est de trouver une couverture des arêtes telle que le poids total 
+$w(S) = \sum_{v \in S} w_{v}$ soit minimal.
+%
+
+Ce problème est NP-complet. Nous allons chercher un algorithme d'approximation.
+Intuitivement, nous allons associer un prix $p_{e}$ à chaque arête. Les prix $p_{e}$ (pour $e \in E$) sont 
+\emph{équitables} si $\sum_{e = (\cdot,v) \in E} p_{e} \leq w_{v}$ pour chaque sommet $v$; c.a.d., 
+les arêtes adjacents à $v$ ne payent pas plus que le poids du sommet $v$. 
+
+\begin{enumerate}
+	\item Montrer que pour chaque couverture des arêtes $S$, on a $\sum_{e} p_{e} \leq w(S)$.
+\end{enumerate}
+
+ Etant donné les prix $p_{e}$ pour $e \in E$, 
+		un sommet $v$ est dit \emph{saturé} si $\sum_{e = (\cdot,v) \in E} p_{e} = w_{v}$.
+		Considérer l'algorithme suivant.
+		
+\begin{algorithm}[ht]
+\begin{algorithmic}[1]  
+\STATE Initialement, $p_{e} \gets 0$ pour toutes $e \in E$. 
+\WHILE{il y a une arête $e = (u,v)$ telle que soit $u$ ou $v$ n'est pas saturé}  
+	\STATE Choisir une telle arête $e$.
+	\STATE Augmenter $p_{e}$ sans violer la propriété équitable.
+\ENDWHILE
+\STATE Retourner l'ensemble $S$ des sommets saturés.
+\end{algorithmic}
+\caption{Algorithme pour \textsc{Couverture des arêtes}.}
+\label{algo:covering}
+\end{algorithm}
+
+\begin{enumerate}
+	\setcounter{enumi}{1}
+	\item Prouver que l'ensemble $S$ et les prix $p_{e}$ retournés par l'algorithme satisfait $w(S) \leq 2 \sum_{e \in E} p_{e}$.
+	\item Montrer que l'algorithme est 2-approximation.
+\end{enumerate}
+
+\end{document}
