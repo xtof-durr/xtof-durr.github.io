@@ -1,7 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T5]{fontenc}
-\usepackage{graphicx,a4wide,framed,amssymb,amsmath}
+\usepackage{graphicx,a4wide,framed,amssymb,amsmath,picinpar}
 \usepackage{tikz}
 \usetikzlibrary{decorations,decorations.pathmorphing,shadows}
 
@@ -35,18 +35,22 @@
 
 
 
-\section{Couverture des ensembles}
+\section{Problème de couverture par ensembles}
 
-Étant donné un universe $U = \{u_{1}, \ldots, u_{n}\}$ et de $m$ ensembles 
-$S_{1}, \ldots, S_{m}$ où chaque ensemble $S_{i} \subseteq U$ est associé avec un poids $w_{i}$ pour tout $1 \leq i \leq m$.
-Une \emph{couverture des ensembles} est une collection $\mathcal{C}$ de
-ces ensemble telle que $U \subseteq \bigcup_{S_{i} \in \mathcal{C}} S_{i}$. 
-L'objectif est de trouver une couverture des ensembles telle que le poids total 
-$\sum_{S_{i} \in \mathcal{C}} w_{i}$ soit minimal.
-%
+\begin{figwindow}[0,r,{\hspace*{0cm}\includegraphics[width=8cm]{set_cover.pdf}},{En gras une solution possible}]
+On vous donne un univers $U = \{u_{1}, \ldots, u_{n}\}$ et $m$ ensembles 
+$S_{1}, \ldots, S_{m}\subseteq U$ ainsi qu'une pondération $w_{i}\in \mathbb N$ pour tout chacun des ensembles $S_i$.
+Une \emph{couverture par ensembles} est une collection $\mathcal{C}$ de
+ces ensembles telle que $\bigcup_{S_{i} \in \mathcal{C}} S_{i} = U$. 
+L'objectif est de trouver une couverture telle que le poids total 
+$\sum_{i:S_{i} \in \mathcal{C}} w_{i}$ soit minimal.	
 
 Ce problème est NP-complet. Nous allons chercher un algorithme d'approximation.
-Considérer l'algorithme suivant.
+Considérez l'algorithme suivant.
+\end{figwindow}
+
+\vspace{1cm}
+
 
 \begin{algorithm}[ht]
 \begin{algorithmic}[1]  
@@ -75,11 +79,12 @@ Considérer l'algorithme suivant.
 	\item Déduire que l'algorithm glouton ci-dessus est $O(\log n)$-approximation.
 \end{enumerate}
 
-\section{Couverture des arêtes}
+\section{Couverture par sommets}
 
-Étant donné un graph $G(V,E)$ où $|V| = n, |E| = m$ 
+\begin{figwindow}[0,r,{\hspace*{0cm}\includegraphics[width=8cm]{vertex_cover.pdf}},{Le problème de couverture par sommets.}]
+On vous donne un graphe $G(V,E)$ avec $n=|V| , m=|E|$ 
 et chaque sommet $v \in V$ est associé avec un poids $w_{v}$.
-Une \emph{couverture des arêtes} $S$ est un sous-ensemble des sommets tel que
+Une \emph{couverture par sommets} est un sous-ensemble des sommets $S\subseteq V$ tel que
 chaque arête $e \in E$ a au moins une extrémité dans $S$.
 L'objectif est de trouver une couverture des arêtes telle que le poids total 
 $w(S) = \sum_{v \in S} w_{v}$ soit minimal.
@@ -87,15 +92,16 @@ $w(S) = \sum_{v \in S} w_{v}$ soit minimal.
 
 Ce problème est NP-complet. Nous allons chercher un algorithme d'approximation.
 Intuitivement, nous allons associer un prix $p_{e}$ à chaque arête. Les prix $p_{e}$ (pour $e \in E$) sont 
-\emph{équitables} si $\sum_{e = (\cdot,v) \in E} p_{e} \leq w_{v}$ pour chaque sommet $v$; c.a.d., 
-les arêtes adjacents à $v$ ne payent pas plus que le poids du sommet $v$. 
+\emph{équitables} si $\sum_{e\ni v} p_{e} \leq w_{v}$ pour chaque sommet $v$; c.a.d., 
+les arêtes adjacentes à $v$ ne payent pas plus que le poids du sommet $v$. 
+\end{figwindow}
 
 \begin{enumerate}
 	\item Montrer que pour chaque couverture des arêtes $S$, on a $\sum_{e} p_{e} \leq w(S)$.
 \end{enumerate}
 
  Etant donné les prix $p_{e}$ pour $e \in E$, 
-		un sommet $v$ est dit \emph{saturé} si $\sum_{e = (\cdot,v) \in E} p_{e} = w_{v}$.
+		un sommet $v$ est dit \emph{saturé} si $\sum_{e\ni v} p_{e} = w_{v}$.
 		Considérer l'algorithme suivant.
 		
 \begin{algorithm}[ht]

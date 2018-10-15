@@ -84,18 +84,18 @@ Les classes P, NP.  Preuves de NP-complétude.
 Réductions.
 Exemples: partition, Vertex Cover, etc.
 
-[exercices](pc6/pc6.pdf). 
+[exercices](pc6/pc6.pdf).  [corrigés](pc6/cor6). 
 
 ### 7. (Vendredi 19 oct 2018) - Algorithmes d'approximations
 
 2-approximation pour équilibrage de charge.
 Sac à dos.
 Algorithme de Christofides pour le problème de voyageur de commerce.
-
 2-approximation pour ordonnancer sur une machine pour minimiser le temps d'attente pondéré avec ordre de précédence.
+
+[exercices](pc7/pc7.pdf).
 Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
-(evt. Bin Packing)
 
 ### 8. (Lundi 22 oct 2018) - Algorithmes randomisés
 
