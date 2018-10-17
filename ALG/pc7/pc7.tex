@@ -101,13 +101,12 @@ Intuitivement, nous allons associer un prix $p_{e}$ à chaque arête. Les prix $
 les arêtes adjacentes à $v$ ne payent pas plus que le poids du sommet $v$. 
 \end{figwindow}
 
-\begin{enumerate}
-	\item Montrer que pour chaque couverture des arêtes $S$, on a $\sum_{e} p_{e} \leq w(S)$.
-\end{enumerate}
+% \begin{enumerate}
+% \end{enumerate}
 
- Etant donné les prix $p_{e}$ pour $e \in E$, 
-		un sommet $v$ est dit \emph{saturé} si $\sum_{e\ni v} p_{e} = w_{v}$.
-		Considérer l'algorithme suivant.
+ % Etant donné les prix $p_{e}$ pour $e \in E$, 
+		Un sommet $v$ est dit \emph{saturé} si $\sum_{e\ni v} p_{e} = w_{v}$.
+		Considérez l'algorithme suivant.
 		
 \begin{algorithm}[ht]
 \begin{algorithmic}[1]  
@@ -123,7 +122,8 @@ les arêtes adjacentes à $v$ ne payent pas plus que le poids du sommet $v$.
 \end{algorithm}
 
 \begin{enumerate}
-	\setcounter{enumi}{1}
+	\item Montrer que pour chaque couverture des arêtes $S$, on a $\sum_{e} p_{e} \leq w(S)$.
+	% \setcounter{enumi}{1}
 	\item Prouver que l'ensemble $S$ et les prix $p_{e}$ retournés par l'algorithme satisfait $w(S) \leq 2 \sum_{e \in E} p_{e}$.
 	\item Montrer que l'algorithme est 2-approximation.
 \end{enumerate}
