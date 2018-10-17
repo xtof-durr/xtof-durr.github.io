@@ -20,7 +20,7 @@ Remarques que dans la notation décimale de chacun des nombres, il n'y a que les
 Soit $B = k \cdot 10^m + \sum_{i=0}^{m-1} 2 \cdot 10^i$,
 donc le nombre $k$ en notation décimale suivi de $m$ fois le chiffre 2.
 
-On va montrer qu'il existe un ensemble $T\subseteq \{0,n+m-1\}$ tel que $\sum_{i\in T} a_i = B$ ssi il existe un ensemble $S\subset V$ avec $|S|=k$ qui couvre chaque arête.
+On va montrer qu'il existe un ensemble $T\subseteq \{0,n+m-1\}$ tel que $\sum_{i\in T} a_i = B$ ssi il existe un ensemble $S\subset V$ avec \\(|S|=k\\) qui couvre chaque arête.
 
 ### $\Rightarrow$
 
@@ -34,7 +34,7 @@ Soit $S\subseteq V$ une couverture par sommets de taille $k$. On pose $T=\{j:v_j
 
 ### base 3
 
-On aurait pu faire cette construction également avec la base 3 au lieu de 10.  Dans ce cas il faut montrer que pour une solution $T \{0,n+m-1\}$ on a que pour tout $e_i=(v_j,v_{j'})$, $T$ contient $j$ ou $j'$ (ou les deux). Par induction sur les positions des chiffres dans la somme $\sum_{i\in T} a_i$. Considérons la position $i$. Par hypothèse d'induction il n'y a pas eu de retenu de la position $i-1$ vers la position $i$.  Donc la seule manière d'obtenir un $2$ en cette position est par au moins un $0\leq j\leq n-1$ dans $T$ avec $v_j$ étant une extrémité de $e_i$. Et dans ce cas la position $i$ ne provoque pas de retenue vers la position $i+1$.
+On aurait pu faire cette construction également avec la base 3 au lieu de 10.  Dans ce cas il faut montrer que pour une solution \\(T \subseteq \{0,n+m-1\}\\) on a que pour tout $e_i=(v_j,v_{j'})$, $T$ contient $j$ ou $j'$ (ou les deux). Par induction sur les positions des chiffres dans la somme $\sum_{i\in T} a_i$. Considérons la position $i$. Par hypothèse d'induction il n'y a pas eu de retenu de la position $i-1$ vers la position $i$.  Donc la seule manière d'obtenir un $2$ en cette position est par au moins un $0\leq j\leq n-1$ dans $T$ avec $v_j$ étant une extrémité de $e_i$. Et dans ce cas la position $i$ ne provoque pas de retenue vers la position $i+1$.
 
 ## 2-Partition
 

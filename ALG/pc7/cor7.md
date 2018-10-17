@@ -12,7 +12,7 @@ title: Corrigé
 \\[
 		c_u \leq \frac{\textrm{OPT}}{|R|} \leq  \frac{\textrm{OPT}}{n-i+1}.
 \\] 
-4. On utilise le fait que le n-ème nombre harmonique satisfasse $1+1/2+1/3+\ldots+1/n=O(\log n)$.
+4. On utilise le fait que le n-ème nombre harmonique satisfait $1+1/2+1/3+\ldots+1/n=O(\log n)$.
 
 Voir [chapitre 2.1, Approximation Algorithms, Vijay V. Vazirani, Springer, 2001, traduction française 2006]
 
