@@ -20,7 +20,7 @@ Remarques que dans la notation décimale de chacun des nombres, il n'y a que les
 Soit $B = k \cdot 10^m + \sum_{i=0}^{m-1} 2 \cdot 10^i$,
 donc le nombre $k$ en notation décimale suivi de $m$ fois le chiffre 2.
 
-On va montrer qu'il existe un ensemble $T\subseteq \{0,n+m-1\}$ tel que $\sum_{i\in T} a_i = B$ ssi il existe un ensemble $S\subset V$ avec \\(|S|=k\\) qui couvre chaque arête.
+On va montrer qu'il existe un ensemble $T\subseteq \{0,n+m-1\}$ tel que $\sum_{i\in T} a_i = B$ ssi il existe un ensemble $S\subset V$ de cardinalité $k$ qui couvre chaque arête.
 
 ### $\Rightarrow$
 
