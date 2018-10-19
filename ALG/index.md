@@ -88,12 +88,10 @@ Exemples: partition, Vertex Cover, etc.
 
 ### 7. (Vendredi 19 oct 2018) - Algorithmes d'approximations
 
-2-approximation pour équilibrage de charge.
-Sac à dos.
 Algorithme de Christofides pour le problème de voyageur de commerce.
-2-approximation pour ordonnancer sur une machine pour minimiser le temps d'attente pondéré avec ordre de précédence.
+Bin packing, 2-approximation et schema d'approximation asymptotique.
 
-[exercices](pc7/pc7.pdf).
+[exercices](pc7/pc7.pdf). [corrigés](pc7/cor7). 
 Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 
