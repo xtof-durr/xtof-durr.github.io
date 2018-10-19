@@ -1,0 +1,96 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage{graphicx,a4wide,framed,amssymb,amsmath,picinpar}
+\usepackage{tikz}
+\usetikzlibrary{decorations,decorations.pathmorphing,shadows}
+
+
+\usepackage{algorithm}
+\usepackage[noend]{algorithmic}
+\usepackage{eqparbox}
+\renewcommand{\algorithmiccomment}[1]{\hfill\eqparbox{COMMENT}{\# \small \tt #1}}
+
+\newcommand{\source}[1]{\begin{flushright}\emph{[#1]}\end{flushright}}
+
+\newcommand{\MakeScribeTop}[1]{
+\noindent
+\begin{framed}
+\noindent
+ Algorithmique Avancée 2018
+ \hfill
+ École Centrale-Supélec
+ \\[1em]
+ \centerline{ \Large
+#1
+ }
+ \\[1em]
+\centerline{  \it Christoph Dürr, Nguyễn Kim Thắng}
+\end{framed}
+}
+
+
+
+\begin{document}
+    \MakeScribeTop{PC8 : Algorithmes randomisés}
+
+
+
+\section{MAX 3-SAT}
+
+\textsc{Max 3-Sat} est similaire au \textsc{3-Sat} --- il y $n$ littéraux (variables booléennes) $x_{1}, \ldots, x_{n}$
+et $m$ clauses $C_{1}, \ldots, C_{m}$. Chaque clause contient 3 littéraux et la clause est satisfait si au moins un des trois littéraux
+s'évalue à vrai. L'objectif est de trouver une affectation $x_{i}$ à \textsf{Vrai} ou \textsf{Faux} telle que le nombre de clauses 
+satisfaites soit maximum.
+Considérer l'algorithme (extrêmement) simple suivant:
+
+\begin{quote}
+	\em Affecter $x_{i}$ pour $1 \leq i \leq n$ uniformément aléatoirement à \textsf{Vrai} ou \textsf{Faux}. 
+\end{quote} 
+
+Montrer que le nombre d'espérance des clauses satisfaites est $7/8 \cdot m$.\\
+\emph{Indice: Définir $X_{j} = 1$ si la clause $C_{j}$ est satisfaite et 0 sinon.}
+
+\section{Médian}
+
+Soit $S$ un ensemble des $n$ entiers $\{a_{1}, \ldots, a_{n}\}$.
+L'élément \emph{médian} de $S$ est le $k^{\text{ième}}$ plus grand élément de $S$
+où $k = \lceil n/2 \rceil$. Considérer l'algorithme $\texttt{Select}(S,k)$ suivant.
+
+\begin{algorithm}[ht]
+\begin{algorithmic}[1]  
+\STATE Choisir un élément arbitraire $a_{i} \in S$.	\label{det}
+\STATE $S^{+} \gets \{a_{j}: a_{j} > a_{i}\}$ et $S^{-} \gets \{a_{j}: a_{j} < a_{i}\}$.
+\IF{$|S^{-}| = k - 1$}
+	\RETURN $a_{i}$
+\ELSE
+	\IF[l'élément est dans $S^{-}$]{$|S^{-}| \geq k$}
+		\RETURN $\texttt{Select}(S^{-},k)$
+	\ELSE[l'élément est dans $S^{+}$]
+		\RETURN $\texttt{Select}(S^{+},k - 1 - |S^{-}|)$
+	\ENDIF
+\ENDIF
+\end{algorithmic}
+\caption{Algorithme déterministe pour \textsc{Médian}.}
+\label{algo:median}
+\end{algorithm}
+
+\begin{enumerate}
+	\item Prouver que $\texttt{Select}(S,k)$ retourne toujours l'élément médian. Quelle est sa complexité?
+	\item Modifier la ligne \ref{det} par:
+		\begin{quote}
+			\em  Choisir un élément $a_{i} \in S$ \underline{uniformément aléatoirement}.
+		\end{quote} 
+		Prouver que le temps d'espérance de ce nouveau algorithme est $O(n)$. 
+\end{enumerate}
+
+\section{Collectionneur de coupons}
+Supposons que chaque boîte de céréales contient un des $n$ différents coupons. Dès que vous avez tous les coupons de différents
+types, vous allez gagner un prix. Supposons que chaque fois vous achetez une boîte de céréale, le coupon dedans est mis de fa\c cons
+uniformément aléatoirement des $n$ différentes types. 
+\begin{enumerate}
+	\item Combien de boîtes de céréales (en espérance) que vous devrez acheter pour gagner le prix?
+	\item Quelle est la probabilité de ne pas gagner le prix après avoir acheté $2n \log n$ boîtes de céréales?
+\end{enumerate}
+
+\end{document}
