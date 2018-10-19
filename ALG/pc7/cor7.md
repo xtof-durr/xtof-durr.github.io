@@ -8,7 +8,7 @@ title: Corrigé
 
 1. Le coût d'un ensemble est réparti uniformément sur les éléments qu'il couvre et qui n'étaient pas encore couverts au moment de la sélection de l'ensemble. Appelons cette fraction *l'efficacité de coût*.  $c_u$ est la partie du coût qui revient à l'élément $u$.
 2. Les deux sommes sont juste deux manières de compter le même coût.
-3. Soit $R$ l'ensemble des éléments restant à couvrir au moment où $u_i$ s'appretait à être couvert. On a $|R|\geq n-i+1$. À tout moment les ensembles restants peuvent couvrir les éléments restants avec un coût au plus OPT.  Un de ces ensembles doit avoir une efficacité de coût au plus OPT/|R|. Mais $u_i$ a été couvert par l'ensemble le plus efficace et donc 
+3. Soit $R$ l'ensemble des éléments restant à couvrir au moment où $u_i$ s'appretait à être couvert. On a $|R|\geq n-i+1$. À tout moment les ensembles restants peuvent couvrir les éléments restants avec un coût total au plus OPT.  Un de ces ensembles doit avoir une efficacité de coût au plus OPT/|R|. Mais $u_i$ a été couvert par l'ensemble le plus efficace et donc 
 \\[
 		c_u \leq \frac{\textrm{OPT}}{|R|} \leq  \frac{\textrm{OPT}}{n-i+1}.
 \\] 
