@@ -4,6 +4,12 @@ title: Corrigé
 
 École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun) - cours IS3005AD: Algorithmique Avancée
 
+## Bin Packing
+
+Si une boîte peut contenir au plus M éléments, et qu'il n'y a que K tailles possibles pour les éléments alors il n'y a que $\binom{M+K}{M}$ configurations de boîtes distinctes.  Ajoutons pour la forme une K+1 -ième taille de valeur 0.   Alors une configuration de boîte dit combien d'éléments il y a de chaque taille.  Ceci revient a placer M boules dans K+1 boîtes, la dernière correspondant à des éléments de taille 0 fictifs pour avoir exactement M éléments par boîte.  
+
+![](balls_in_bins.png)
+
 ## Couverture par ensembles
 
 1. Le coût d'un ensemble est réparti uniformément sur les éléments qu'il couvre et qui n'étaient pas encore couverts au moment de la sélection de l'ensemble. Appelons cette fraction *l'efficacité de coût*.  $c_u$ est la partie du coût qui revient à l'élément $u$.

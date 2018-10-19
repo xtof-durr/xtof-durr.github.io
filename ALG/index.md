@@ -91,7 +91,7 @@ Exemples: partition, Vertex Cover, etc.
 Algorithme de Christofides pour le problème de voyageur de commerce.
 Bin packing, 2-approximation et schema d'approximation asymptotique.
 
-[exercices](pc7/pc7.pdf). [corrigés](pc7/cor7). 
+[exercices](pc7/pc7.pdf). [corrigés, mis à jour 19/oct/2018](pc7/cor7). 
 Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 
