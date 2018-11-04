@@ -25,13 +25,6 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 
-### Densité Expanded Polypropylene (EPP)
-
-|nom                                            |densité     |
-|-----------------------------------------------|------------|
-| dollar tree                                   | 297 g/m^2  | 
-|rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
-| Depron 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
 
 ## Élastique
 
@@ -40,6 +33,30 @@ Voici des avions proposé par élastique.
 - [depron et bambou](https://www.youtube.com/watch?v=IIxm27JYnOI&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=11&t=0s)
 - [bambou et sac nylon](https://www.youtube.com/watch?v=MzL8wztyVMU&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=12&t=0s)
 
+
+## polystyrène expansé
+
+Des gros blocs d'isolants, souvent rose, un peu orange ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour coler sur la surface.
+
+![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
+
+## polypropylène expansé, ou EPP
+
+C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur. Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.
+
+![(C) Jivaro models](http://www.jivaro-models.org/p47_thunderbolt/012s.jpg)
+
+|nom                                            |densité     |
+|-----------------------------------------------|------------|
+| dollar tree                                   | 297 g/m^2  | 
+|rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
+| [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 3 ou 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
+
+## polypropylène extrudé
+
+C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un nez d'avion dans ce matériel est idéal pour absorber les chocs. Difficile de traiter la surface, comme elle n'est pas lisse, les rubans adhésifs n'adhèrent pas. Un peu trop flexible pour fabriquer le reste de l'avion avec cette mousse.
+
+![(C) Sapronit](https://www.sapronit.com/system/image_de_galeries/fichiers/000/000/342/vignette/Fabricant-Plaques-Mousse-PE-Multilam.JPG?1442929493)
 
 ## F3K
 
@@ -57,19 +74,19 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 
 ## Monde
 
-[Vietnam](https://www.youtube.com/watch?v=nDO9c2nMylU)
-[Thailand](https://www.youtube.com/watch?v=148qPteAXQ0)
-[Corée](https://www.youtube.com/watch?v=BXKDoljaN5M&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=2&t=0s)
-[Cambodge?](https://www.youtube.com/watch?v=VTY1XNBB7Zw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=7&t=0s)
-[Malaisie](https://www.youtube.com/watch?v=3lq_Rbq6jxo&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=9&t=0s)
-[Inde (Bengal)](https://www.youtube.com/watch?v=phg_-ze8iuE&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=10&t=0s)
-[Inde, dans les arrières cours](https://www.youtube.com/watch?v=LU1qoYxjeyw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=6&t=0s)
-[France, Dune du Pyla](https://www.youtube.com/watch?v=LvHpH7abGMw)
-[Maroc](https://www.youtube.com/watch?v=EZlvMI35p5I&t=5s)
-[Chili](https://www.youtube.com/watch?v=uR6z-mhI2Rw)
-[Japon](https://www.youtube.com/watch?v=JmRkxZT4XhY)
-[Suisse](https://www.youtube.com/watch?v=xa-jmbQRw_8)
-[Allemagne](https://www.youtube.com/watch?v=5IoODRH1TWg)
+[Allemagne](https://www.youtube.com/watch?v=5IoODRH1TWg),
+[Cambodge?](https://www.youtube.com/watch?v=VTY1XNBB7Zw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=7&t=0s),
+[Chili](https://www.youtube.com/watch?v=uR6z-mhI2Rw),
+[Corée](https://www.youtube.com/watch?v=BXKDoljaN5M&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=2&t=0s),
+[France, Dune du Pyla](https://www.youtube.com/watch?v=LvHpH7abGMw),
+[Inde (Bengal)](https://www.youtube.com/watch?v=phg_-ze8iuE&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=10&t=0s),
+[Inde, dans les arrières cours](https://www.youtube.com/watch?v=LU1qoYxjeyw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=6&t=0s),
+[Japon](https://www.youtube.com/watch?v=JmRkxZT4XhY),
+[Malaisie](https://www.youtube.com/watch?v=3lq_Rbq6jxo&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=9&t=0s),
+[Maroc](https://www.youtube.com/watch?v=EZlvMI35p5I&t=5s),
+[Suisse](https://www.youtube.com/watch?v=xa-jmbQRw_8),
+[Thailand](https://www.youtube.com/watch?v=148qPteAXQ0),
+[Vietnam](https://www.youtube.com/watch?v=nDO9c2nMylU).
 
 ## Papier
 
