@@ -5,7 +5,12 @@ title: Mon abécédaire de l'aéromodélisme
 
 ## Ahh!
 
-Cri a produire juste avant un crash.
+Cri à produire juste avant un crash. Oh, et puis non, bien évité, bravo!
+
+## Clubs
+
+- [Les Goélands à Montreuil](http://goelmodaero.wixsite.com/goelmod/rc-exterieure)
+- [Queue en brie](https://www.google.com/maps/@48.7742232,2.5729774,157m/data=!3m1!1e3?hl=en), notre terrain officiel avec piste
 
 ## Construction maison
 
@@ -20,13 +25,6 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 
-## Modèles
-
-Les nodèles que j'aime bien, et que j'aimerais fabriquer.
-
-- [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arondis, sans dièdre.
-- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
-
 ### Densité Expanded Polypropylene (EPP)
 
 |nom                                            |densité     |
@@ -35,5 +33,48 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 |rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
 | Depron 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
 
+## Élastique
+
+Voici des avions proposé par élastique.
+
+- [depron et bambou](https://www.youtube.com/watch?v=IIxm27JYnOI&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=11&t=0s)
+- [bambou et sac nylon](https://www.youtube.com/watch?v=MzL8wztyVMU&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=12&t=0s)
 
 
+## F3K
+
+Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcémemnt une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
+
+- [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
+
+
+## Modèles
+
+Les nodèles que j'aime bien, et que j'aimerais fabriquer.
+
+- [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arondis, sans dièdre.
+- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
+
+## Monde
+
+[Vietnam](https://www.youtube.com/watch?v=nDO9c2nMylU)
+[Thailand](https://www.youtube.com/watch?v=148qPteAXQ0)
+[Corée](https://www.youtube.com/watch?v=BXKDoljaN5M&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=2&t=0s)
+[Cambodge?](https://www.youtube.com/watch?v=VTY1XNBB7Zw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=7&t=0s)
+[Malaisie](https://www.youtube.com/watch?v=3lq_Rbq6jxo&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=9&t=0s)
+[Inde (Bengal)](https://www.youtube.com/watch?v=phg_-ze8iuE&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=10&t=0s)
+[Inde, dans les arrières cours](https://www.youtube.com/watch?v=LU1qoYxjeyw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=6&t=0s)
+[France, Dune du Pyla](https://www.youtube.com/watch?v=LvHpH7abGMw)
+[Maroc](https://www.youtube.com/watch?v=EZlvMI35p5I&t=5s)
+[Chili](https://www.youtube.com/watch?v=uR6z-mhI2Rw)
+[Japon](https://www.youtube.com/watch?v=JmRkxZT4XhY)
+[Suisse](https://www.youtube.com/watch?v=xa-jmbQRw_8)
+[Allemagne](https://www.youtube.com/watch?v=5IoODRH1TWg)
+
+## Papier
+
+[The paper airplane guy](https://www.youtube.com/watch?v=3BNg4fDJC8A&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=4&t=384s)
+
+## Terrains
+
+Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. Cependant il y a des gens qui volent dans le bois de Vincennes, l'aire de jeu du polygone, ou des terrains à côté, le parc de Bagatelle dans le bois de Boulogne, le parc des Baumettes à Montreuil.
