@@ -25,10 +25,13 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 
+## Drones
+
+- [acrobatique et sportive](https://www.youtube.com/watch?v=Iz42lvAVbiI)
 
 ## Élastique
 
-Voici des avions proposé par élastique.
+Voici des avions propulsés par un moteur avec élastique.
 
 - [depron et bambou](https://www.youtube.com/watch?v=IIxm27JYnOI&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=11&t=0s)
 - [bambou et sac nylon](https://www.youtube.com/watch?v=MzL8wztyVMU&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=12&t=0s)
@@ -36,7 +39,7 @@ Voici des avions proposé par élastique.
 
 ## polystyrène expansé
 
-Des gros blocs d'isolants, souvent rose, un peu orange ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour coler sur la surface.
+Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface.
 
 ![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
 
@@ -94,4 +97,10 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 
 ## Terrains
 
-Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. Cependant il y a des gens qui volent dans le bois de Vincennes, l'aire de jeu du polygone, ou des terrains à côté, le parc de Bagatelle dans le bois de Boulogne, le parc des Baumettes à Montreuil.
+Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. Cependant il y a des gens qui volent dans les grands parcs.  Ne pas voler au dessous des gens, ne pas les mettre en danger ou mal à l'aise.
+
+## Volets
+
+En anglais : *flaps*. Servent à augmenter la portance de l'aile et à attérir et décoler avec des vitesses plus faible.
+
+- [la rolls royce des volets](https://www.youtube.com/watch?v=_VjWMka-bxQ)
