@@ -12,6 +12,10 @@ Cri à produire juste avant un crash. Oh, et puis non, bien évité, bravo!
 - [Les Goélands à Montreuil](http://goelmodaero.wixsite.com/goelmod/rc-exterieure)
 - [Queue en brie](https://www.google.com/maps/@48.7742232,2.5729774,157m/data=!3m1!1e3?hl=en), notre terrain officiel avec piste
 
+## Cockpits
+
+- [jolie collection de photos](http://www.laboiteverte.fr/21-cockpits-davions/)
+
 ## Construction maison
 
 En anglais: *scratch build*.
@@ -27,7 +31,7 @@ C'est difficile de trouver du matériel équivalent en France.
 
 ## Drones
 
-- [acrobatique et sportive](https://www.youtube.com/watch?v=Iz42lvAVbiI)
+- [acrobatique et sportif](https://www.youtube.com/watch?v=Iz42lvAVbiI)
 
 ## Élastique
 
@@ -51,9 +55,9 @@ C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec u
 
 |nom                                            |densité     |
 |-----------------------------------------------|------------|
-| dollar tree                                   | 297 g/m^2  | 
+| dollar tree foam board                        | 297 g/m^2  | 
 |rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
-| [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 3 ou 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
+| [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
 
 ## polypropylène extrudé
 
@@ -66,6 +70,11 @@ C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un 
 Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcémemnt une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
 
 - [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
+
+## Marouflage
+
+- Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
+- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caracteristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
 
 ## Modèles
@@ -97,7 +106,7 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 
 ## Terrains
 
-Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. Cependant il y a des gens qui volent dans les grands parcs.  Ne pas voler au dessous des gens, ne pas les mettre en danger ou mal à l'aise.
+Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. 
 
 ## Volets
 
