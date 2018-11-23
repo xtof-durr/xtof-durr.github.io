@@ -10,14 +10,14 @@ Les deux parties sont à faire et à rendre pour le mercredi 17 octobre à [cett
 ## Partie sur la programmation dynamique
 
 
-On veut stocker \\(n\\) éléments comparables dans un arbre binaire de recherche.
-Pour simplifier on suppose que les éléments sont les entiers de \\(1\\) à \\(n\\).
-On pourrait pour cela prendre un arbre binaire équilibré, ce qui garantirait des temps d'accès dans le pire des cas de \\(O(\log n)\\).  Mais on s'intéresse à optimiser le temps d'accès moyen, pour des fréquences d'accès \\(f[1\ldots n]\\) données pour chaque élément.
-Concrètement si \\(p[i]\\) est la profondeur de l'élément \\(i\\) dans l'arbre produit alors on veut minimiser la somme \\(\sum_{i=1}^n f[i]\cdot p[i]\\).
-Pour fixer les choses on dira que la racine a la profondeur \\(1\\), les descendants directs de la racine ont la profondeur \\(2\\) et ainsi de suite.
+On veut stocker $n$ éléments comparables dans un arbre binaire de recherche.
+Pour simplifier on suppose que les éléments sont les entiers de $1$ à $n$.
+On pourrait pour cela prendre un arbre binaire équilibré, ce qui garantirait des temps d'accès dans le pire des cas de $O(\log n)$.  Mais on s'intéresse à optimiser le temps d'accès moyen, pour des fréquences d'accès $f[1\ldots n]$ données pour chaque élément.
+Concrètement si $p[i]$ est la profondeur de l'élément $i$ dans l'arbre produit alors on veut minimiser la somme $\sum_{i=1}^n f[i]\cdot p[i]$.
+Pour fixer les choses on dira que la racine a la profondeur $1$, les descendants directs de la racine ont la profondeur $2$ et ainsi de suite.
 
-Nous avons vu un algorithme par programmation dynamique de complexité \\(O(n^3)\\).
-En 1971 Donald Knuth a publié un algorithme de meilleure complexité \\(O(n^2)\\).
+Nous avons vu un algorithme par programmation dynamique de complexité $O(n^3)$.
+En 1971 Donald Knuth a publié un algorithme de meilleure complexité $O(n^2)$.
 
 1. Comprenez l'algorithme proposé par D. Knuth. [Optimum Binary Search Trees, D. E. KNUTH , Acta Informatica 1, 14-25 (1971) ](http://www.inrg.csie.ntu.edu.tw/algorithm2014/presentation/Knuth71.pdf)
 2. Expliquez l'algorithme formellement en pseudo-code et prouver l'optimalité de la solution produite.
@@ -29,7 +29,7 @@ Si vous programmez en Python, donnez seulement le code de cette fonction. Si vou
 
 ## Partie sur les flots
 
-On vous donne une matrice A[1..m][1..n] de nombres fractionnels non-négatifs.  Votre but est d'arrondir A vers une matrice entière B, en remplaçant chaque entrée \\(x\\) de \\(A\\) par \\(\lceil x\rceil\\)  ou par \\(\lfloor x\rfloor\\), en préservant les sommes sur les entrées de toutes les lignes et de toutes les colonnes.  Pour cela on supposera que les sommes de toutes les colonnes et de toutes les lignes de \\(A\\) sont entières.
+On vous donne une matrice A[1..m][1..n] de nombres fractionnels non-négatifs.  Votre but est d'arrondir A vers une matrice entière B, en remplaçant chaque entrée $x$ de $A$ par $\lceil x\rceil$  ou par $\lfloor x\rfloor$, en préservant les sommes sur les entrées de toutes les lignes et de toutes les colonnes.  Pour cela on supposera que les sommes de toutes les colonnes et de toutes les lignes de $A$ sont entières.
 Par exemple
 
 

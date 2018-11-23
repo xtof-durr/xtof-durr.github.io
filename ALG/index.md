@@ -67,7 +67,7 @@ Amélioration de Edmonds-Karp.
 
 [exercices](pc4/pc4.pdf).  [corrigés](pc4/cor4). Problèmes réduisant au problème du flot maximum.
 
-Annonce [devoir maison](dm).
+Annonce [devoir maison](dm). [Éléments de correction](dm/cor_dm).
 
 ### 5. (Lundi 8 oct 2018) - Flots et coupes 2
 
