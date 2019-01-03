@@ -104,6 +104,18 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 
 [The paper airplane guy](https://www.youtube.com/watch?v=3BNg4fDJC8A&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=4&t=384s)
 
+## Simulateur
+
+J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
+Nécessite une manette connecté en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coutait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
+
+La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai pas encore réussit à l'utiliser.  [https://github.com/davyloots/rcdeskpilot](Rc Desk Pilot) est un autre projet sous licence GNU.  Je n'ai pas trouvé d'exécutable à télécharger, mais on peut le compiler.
+
+On peut connecter son émetteur via le port d'écolage à l'entrée audio de l'ordinateur et utiliser le programme [SmartPropoPlus] pour émuler un Joystick.  Ceci ne fonctionne pas avec Phoenix.
+
+Pas facile de trouver une combinaison qui fonctionne.
+ 
+
 ## Terrains
 
 Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. 
