@@ -1,378 +1,484 @@
-![](think_write_ps.gif) Publications
-====================================
+<br>
+Computers are useless. They can only give you answers. — Pablo Picasso
+<p>
 
-\
-Computers are useless. They can only give you answers. --- Pablo Picasso
+![](http://www-desir.lip6.fr/~durrc/bib/think_write_ps.gif)
 
-[hal](https://cv.archives-ouvertes.fr/christoph-durr?lang=en)
+## Papers
 
-Papers
-------
+<dl>
+<dt class="bib">Best-of-two-worlds analysis of online search
+</dt>
+<dd class="bib">with Spyros Angelopoulos and Shendan Jin. The 36th International Symposium on Theoretical Aspects of Computer Science (STACS), 2019.
+<br>
+<i>[<a href="http://arxiv.org/abs/1810.08109">paper</a>, <a href="/~durrc/Talks/19discovery_ratio.pdf">slides</a>]
+</i>
+</dd>
 
-Best-of-two-worlds analysis of online search 
-:   with Spyros Angelopoulos and Shendan Jin. The 36th International
-    Symposium on Theoretical Aspects of Computer Science (STACS), 2019.\
-    *\[[paper](http://arxiv.org/abs/1810.08109),
-    [slides](/~durrc/Talks/19discovery_ratio.pdf)\]*
+<dt class="bib">Online Bin Packing with Advice of Small Size
+</dt>
+<dd class="bib">with Spyros Angelopoulos, Shahin Kamali, Marc Renault and Adi Rosén. Theory of Computing Systems, 1-29, 2018. DOI: 10.1007/s00224-018-9862-5. Preliminary version was presented at  The Algorithms and Data Structures Symposium (WADS), august 2015.
+<br>
+<i>[<a href="http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8VKheP3mFKNIHoEybIiKxIc-3D_SkRDVRwsqNx9g2TRjiO8VfBx5m69u7d16nfWojjcAxS2y-2BMrDeoDdS-2BSls6TXq-2Bkgv6ECqvFkfBAePD2ZxY6Ld91sOQDAf9b9Bq5nbPtVLChZ8VMLyoo-2FStiNqmm329OxojtrUPxVkIl4hNKHXpSOWssp90gqKDS00-2Fj0uqw2NDCHs98xgxySPS6J0f8e5JTluPQf9-2Boice7ZFQMN-2BQooqWd7OWuWe4K6CZ9nuSc1Y0z8XzdrsWGcloFs1SeeF7Gnrpv1USQ7cV6canmmq5bIA-3D-3D">paper</a>]
+</i>
+</dd>
 
-Online Bin Packing with Advice of Small Size 
-:   with Spyros Angelopoulos, Shahin Kamali, Marc Renault and Adi Rosén.
-    Theory of Computing Systems, 1-29, 2018. DOI:
-    10.1007/s00224-018-9862-5. Preliminary version was presented at The
-    Algorithms and Data Structures Symposium (WADS), august 2015.\
-    *\[[paper](http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8VKheP3mFKNIHoEybIiKxIc-3D_SkRDVRwsqNx9g2TRjiO8VfBx5m69u7d16nfWojjcAxS2y-2BMrDeoDdS-2BSls6TXq-2Bkgv6ECqvFkfBAePD2ZxY6Ld91sOQDAf9b9Bq5nbPtVLChZ8VMLyoo-2FStiNqmm329OxojtrUPxVkIl4hNKHXpSOWssp90gqKDS00-2Fj0uqw2NDCHs98xgxySPS6J0f8e5JTluPQf9-2Boice7ZFQMN-2BQooqWd7OWuWe4K6CZ9nuSc1Y0z8XzdrsWGcloFs1SeeF7Gnrpv1USQ7cV6canmmq5bIA-3D-3D)\]*
+<dt class="bib">Online Maximum Matching with Recourse</dt>
+<dd class="bib">with Spyros Angelopoulos, Shendan Jin. International Symposium on
+Mathematical Foundations of Computer Science (MFCS), August 2018. Also will be presented at the Modern Online Algorithms workshop (MOLI), July 2018.
+<br>
+<i>[<a href="http://arxiv.org/abs/1801.03462">paper</a>, <a href="/~durrc/Talks/18moli.pdf">slides</a>]
+</i>
+</dd>
 
-Online Maximum Matching with Recourse
-:   with Spyros Angelopoulos, Shendan Jin. International Symposium on
-    Mathematical Foundations of Computer Science (MFCS), August 2018.
-    Also will be presented at the Modern Online Algorithms workshop
-    (MOLI), July 2018.\
-    *\[[paper](http://arxiv.org/abs/1801.03462),
-    [slides](/~durrc/Talks/18moli.pdf)\]*
+<dt class="bib">Scheduling with Explorable Uncertainty</dt>
+<dd class="bib">with  Thomas Erlebach, Nicole Megow, Julie Meißner. The 9th Innovations in Theoretical Computer Science Conference (ITCS), Jan 2018.
+<br>
+<i>[<a href="http://arxiv.org/abs/1709.02592">paper</a>, <a href="/~durrc/Talks/18aussois.pdf">slides</a>]
+</i>
+</dd>
 
-Scheduling with Explorable Uncertainty
-:   with Thomas Erlebach, Nicole Megow, Julie Meißner. The 9th
-    Innovations in Theoretical Computer Science Conference (ITCS), Jan
-    2018.\
-    *\[[paper](http://arxiv.org/abs/1709.02592),
-    [slides](/~durrc/Talks/18aussois.pdf)\]*
+<dt class="bib">Mechanism design for aggregating energy consumption and quality of service in speed scaling scheduling</dt>
+<dd class="bib">with  Łukasz Jeż and Oscar C. Vasquez, Theoretical Computer Science, 695, 28-41, 2017. DOI: 10.1016/j.tcs.2017.07.020.
+Preliminary version was presented at The 9th Conference on Web and Internet Economics (WINE), 2013.
+<br>
+<i>[<a href="http://arxiv.org/abs/1504.03586">paper</a>, <a href="/~durrc/Talks/13adgo.pdf">slides</a>]
+</i>
+</dd>
 
-Mechanism design for aggregating energy consumption and quality of service in speed scaling scheduling
-:   with Łukasz Jeż and Oscar C. Vasquez, Theoretical Computer Science,
-    695, 28-41, 2017. DOI: 10.1016/j.tcs.2017.07.020. Preliminary
-    version was presented at The 9th Conference on Web and Internet
-    Economics (WINE), 2013.\
-    *\[[paper](http://arxiv.org/abs/1504.03586),
-    [slides](/~durrc/Talks/13adgo.pdf)\]*
+<dt class="bib">The triangle scheduling problem</dt>
+<dd class="bib">with Zdeněk Hanzálek, Christian Konrad, Yasmina Seddik, René Sitters, Óscar C. Vásquez and Gerhard Woeginger, Journal of Scheduling, 21(3), 305-312, 2018. DOI: 10.1007/s10951-017-0533-1.
+<br>
+<i>[<a href="http://arxiv.org/abs/1602.04365">paper</a>, <a href="/~durrc/Talks/16triangles.pdf">slides</a>, <a href="/~durrc/TriangleScheduling/">program</a>]
+</i>
+</dd>
 
-The triangle scheduling problem
-:   with Zdeněk Hanzálek, Christian Konrad, Yasmina Seddik, René
-    Sitters, Óscar C. Vásquez and Gerhard Woeginger, Journal of
-    Scheduling, 21(3), 305-312, 2018. DOI: 10.1007/s10951-017-0533-1.\
-    *\[[paper](http://arxiv.org/abs/1602.04365),
-    [slides](/~durrc/Talks/16triangles.pdf),
-    [program](/~durrc/TriangleScheduling/)\]*
+<dt class="bib">The local-global conjecture for scheduling with non-linear cost</dt>
+<dd class="bib">with Nikhil Bansal, Nguyễn Kim Thắng and Oscar C. Vásquez, Journal of Scheduling, 20(3), 2017.  DOI:10.1007/s10951-015-0466-5. 
+Preliminary version was presented at
+ The 16th Workshop on Algorithm Engineering and Experiments (ALENEX), 2014, 
+under the title "Order constraints for single machine scheduling with non-linear cost".
+<br>
+<i>[<a href="http://arxiv.org/abs/1304.6188">paper</a>, <a href="http://www-desir.lip6.fr/~durrc/1_sumwjCjbeta/">program</a>]
+</i>
+</dd>
 
-The local-global conjecture for scheduling with non-linear cost
-:   with Nikhil Bansal, Nguyễn Kim Thắng and Oscar C. Vásquez, Journal
-    of Scheduling, 20(3), 2017. DOI:10.1007/s10951-015-0466-5.
-    Preliminary version was presented at The 16th Workshop on Algorithm
-    Engineering and Experiments (ALENEX), 2014, under the title \"Order
-    constraints for single machine scheduling with non-linear cost\".\
-    *\[[paper](http://arxiv.org/abs/1304.6188),
-    [program](http://www-desir.lip6.fr/~durrc/1_sumwjCjbeta/)\]*
+<dt class="bib">Infinite linear programming and online searching with turn cost</dt>
+<dd class="bib">with Spyros Angelopoulos and Diogo Arsénio.
+Theoretical Computer Science, 2017. DOI: 10.1016/j.tcs.2017.01.013
 
-Infinite linear programming and online searching with turn cost
-:   with Spyros Angelopoulos and Diogo Arsénio. Theoretical Computer
-    Science, 2017. DOI: 10.1016/j.tcs.2017.01.013
+</dd>
 
-Multi-processor Search and Scheduling Problems with Setup Cost
-:   with Spyros Angelopoulos, Diogo Arsénio and Alejandro López-Ortiz.
-    Theory of Computing Systems, 2016. DOI: 10.1007/s00224-016-9691-3
+<dt class="bib">Multi-processor Search and Scheduling Problems with Setup Cost</dt>
+<dd class="bib">with Spyros Angelopoulos, Diogo Arsénio and Alejandro López-Ortiz.  Theory of Computing Systems, 2016. DOI: 10.1007/s00224-016-9691-3
 
-Online Clique Clustering
-:   with Marek Chrobak, Aleksander Fabijan and Bengt Nilsson.
-    Preliminary version was presented in Proc. of the 9th International
-    Conference on Algorithms and Complexity, (CIAC) May 2015, under the
-    title \"Competitive Strategies for Online Clique Clustering\".\
-    *\[[paper](http://arxiv.org/abs/1411.4274),
-    [slides](/~durrc/Talks/16cliqueClustering.pdf)\]*
+</dd>
 
-On the Power of Advice and Randomization for Online Bipartite Matching 
-:   with Christian Konrad and Marc Renault, The 24th European Symposium
-    on Algorithms (ESA), August 2016.\
-    *\[[paper](http://arxiv.org/abs/1602.07154)\]*
 
-Online Algorithms for Multi-Level Aggregation 
-:   with Marcin Bienkowski, Martin Böhm, Jaroslaw Byrka, Marek Chrobak,
-    Lukáš Folwarczný, Łukasz Jeż, Jiří Sgall, Nguyen Kim Thang, Pavel
-    Veselý. The 24th European Symposium on Algorithms (ESA), August
-    2016. Preliminary version was presented in The 12th Workshop on
-    Models and Algorithms for Planning and Scheduling Problems (MAPSP)
-    june 2015, under the title \"Online Multilevel Acknowledgment with
-    Bounded Depth\".\
-    *\[[paper](http://arxiv.org/abs/1507.02378),
-    [slides](/~durrc/Talks/15onlinealgorithms.pdf)\]*
+<dt class="bib">Online Clique Clustering</dt>
+<dd class="bib">with Marek Chrobak, Aleksander Fabijan and Bengt Nilsson. Preliminary version was presented in Proc. of the 9th International Conference on
+Algorithms and Complexity, (CIAC)  May 2015, under the title "Competitive Strategies for Online Clique Clustering".
+<br>
+<i>[<a href="http://arxiv.org/abs/1411.4274">paper</a>, <a href="/~durrc/Talks/16cliqueClustering.pdf">slides</a>]</i>
+</dd>
 
-The expanding search ratio of a graph
-:   with Spyros Angelopoulos and Thomas Lidbetter, The 33rd
-    International Symposium on Theoretical Aspects of Computer Science
-    (STACS), 2016\
-    \[[paper](http://arxiv.org/pdf/1602.06258.pdf),
-    [slides](/~durrc/Talks/16expanding.pdf)\]
+<dt class="bib">On the Power of Advice and Randomization for Online Bipartite Matching
+</dt>
+<dd class="bib">with Christian Konrad and Marc Renault, The 24th European Symposium on Algorithms (ESA), August 2016.
+<br>
+<i>[<a href="http://arxiv.org/abs/1602.07154">paper</a>]
+</i>
+</dd>
 
-[\...](javascript:suite()){#suite1}
+<dt class="bib">Online Algorithms for Multi-Level Aggregation
+</dt>
+<dd class="bib">with Marcin Bienkowski, Martin Böhm, Jaroslaw Byrka, Marek Chrobak, Lukáš Folwarczný, Łukasz Jeż, Jiří Sgall, Nguyen Kim Thang, Pavel Veselý. 
+The 24th European Symposium on Algorithms (ESA), August 2016.
+Preliminary version was presented in 
+The 12th Workshop on Models and Algorithms for Planning and Scheduling Problems (MAPSP) june 2015,
+under the title "Online Multilevel Acknowledgment with Bounded Depth".
 
-::: {#suite2 style="display:none"}
+<br>
+<i>[<a href="http://arxiv.org/abs/1507.02378">paper</a>, <a href="/~durrc/Talks/15onlinealgorithms.pdf">slides</a>]
+</i>
+</dd>
 
-A Note on NP-Hardness of Preemptive Mean Flow-Time Scheduling for Parallel Machines 
-:   with Odile Bellenguez-Morineau, Marek Chrobak and Damien Prot.
-    Journal of Scheduling, 18(3): 299-304, 2015.\
-    *\[[paper](http://arxiv.org/abs/1404.5424)\]*\
-    Corrects an erroneous proof from **The Complexity of Mean Flow Time
-    Scheduling Problems with Release Times** with Philippe Baptiste,
-    Peter Brucker, Marek Chrobak, Svetlana A. Kravchenko and Francis
-    Sourd, Journal of Scheduling, 10(2): 139-146, 2007. Part of this
-    work was presented at MAPSP 2005 workshop under the title
-    \"Preemptive Multi-Machine Scheduling of Equal-Length Jobs to
-    Minimize the Average Flow Time\".
-    *\[[paper](http://www.arxiv.org/abs/cs/0605078/),
-    [slides](../Talks/P_rj_pmtn_pjp_sumCj/talk_P_rj_pmtn_pjp_sumCj.pdf),
-    [program](/%7Edurrc/P_rj_pmtn_pjp_sumCj/)\]*
+<dt class="bib">The expanding search ratio of a graph</dt>
+<dd class="bib">with Spyros Angelopoulos and Thomas Lidbetter,
+The 33rd International Symposium on Theoretical Aspects of Computer Science (STACS), 2016 
 
-Scheduling under dynamic speed-scaling for minimizing weighted completion time and energy consumption 
-:   with Łukasz Jeż and Oscar C. Vasquez, Discrete Applied Mathematics,
-    196: 20-27, 2015.\
-    *\[[paper](http://arxiv.org/abs/1805.11297)\]*
+<br>
+[<a href="http://arxiv.org/pdf/1602.06258.pdf">paper</a>, <a href="/~durrc/Talks/16expanding.pdf">slides</a>]
+</i>
 
-The Wide Partition Conjecture and the Atom Problem in Discrete Tomography 
-:   with Flavio Guíñez, Electronic Notes in Discrete Mathematics,
-    351-356, 2013. The VII Latin-American Algorithms, Graphs and
-    Optimization Symposium (LAGOS), 2013.\
+</dl>
+<a id="suite1" href="javascript:suite()">...</a>
+<script type="text/javascript">
+function suite(){
+if (!document.getElementById)
+return
+document.getElementById("suite1").style.display="none";
+document.getElementById("suite2").style.display="block";
+}
+</script>
+<div id="suite2" style="display:none">
+<dl class="bib">
 
-A φ-Competitive Algorithm for Collecting Items with Increasing Weights from a Dynamic Queue 
-:   with Marcin Bienkowski, Marek Chrobak, Mathilde Hurand, Artur Jeż,
-    Łukasz Jeż, Grzegorz Stachowiak. Theoretical Computer Science, 475,
-    92-102, 2013.\
-    \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.1601&rep=rep1&type=pdf)\]
+<br>
+[<a href="/~durrc/Talks/15eurandom.pdf">slides</a>]
+</dd>
 
-Collecting Weighted Items from a Dynamic Queue 
-:   with Marcin Bienkowski, Marek Chrobak, Mathilde Hurand, Artur Jeż,
-    Łukasz Jeż, Grzegorz Stachowiak. [DOI
-    10.1007/s00453-011-9574-6](http://link.springer.com/article/10.1007%2Fs00453-011-9574-6),
-    Algorithmica 65(1):60-94, 2013. Preliminary version in Proc. of the
-    ACM-SIAM Symposium on Discrete Algorithms (SODA), 2009.\
-    *\[[paper](http://arxiv.org/abs/0802.1685),
-    [program](/~durrc/WhacAMole/)\]*
+<dt class="bib">A Note on NP-Hardness of Preemptive Mean Flow-Time Scheduling for Parallel Machines
+<dd class="bib"> with Odile Bellenguez-Morineau, Marek Chrobak and  Damien Prot. Journal of Scheduling, 18(3): 299-304, 2015.
+<br>
+<i>[<a href="http://arxiv.org/abs/1404.5424">paper</a>]</i>
+<br>
+Corrects an erroneous proof from 
+  <font color=black><b>The Complexity of Mean Flow Time Scheduling Problems with Release Times
+  </b></font>with
+ Philippe Baptiste, Peter Brucker, Marek Chrobak, Svetlana A. Kravchenko and Francis Sourd, Journal of Scheduling, 10(2): 139-146, 2007.
+ Part of this work was presented at MAPSP 2005 workshop under the title
+  "Preemptive Multi-Machine
+Scheduling of Equal-Length Jobs to Minimize the Average Flow Time".
+    <i>[<a href="http://www.arxiv.org/abs/cs/0605078/">paper</a>, <a
+ href="../Talks/P_rj_pmtn_pjp_sumCj/talk_P_rj_pmtn_pjp_sumCj.pdf">slides</a>,
+    <a href="/%7Edurrc/P_rj_pmtn_pjp_sumCj/">program</a>]
+    </i> 
+</dd>
 
-Speed scaling with power down scheduling for agreeable deadlines 
-:   with Evripidis Bampis, Fadi Kacem and Ioannis Milis. [Sustainable
-    Computing: Informatics and
-    Systems](http://dx.doi.org/10.1016/j.suscom.2012.10.003),
-    2(4):184-189, 2012.\
-    *\[[paper](http://arxiv.org/abs/1111.3398),
-    [slides](../Talks/11_SSPD_agreeable.pdf),
-    [program](http://www-desir.lip6.fr/~durrc/SpeedScalingPowerDownAgreeable/)\]*
+<dt class="bib">Scheduling under dynamic speed-scaling for minimizing weighted completion time and energy consumption
+<dd class="bib">with  Łukasz Jeż and Oscar C. Vasquez,
+Discrete Applied Mathematics, 196: 20-27, 2015.
+<br>
+<i>[<a href="http://arxiv.org/abs/1805.11297">paper</a>]</i>
 
-Smooth Inequalities and Equilibrium Inefficiency in Scheduling Games 
-:   with Johanne Cohen and Nguyễn Kim Thắng. Proc. of the 8th Workshop
-    on Internet & Network Economics (WINE), 2012.\
-    *\[[paper](http://arxiv.org/abs/1202.4302),
-    [slides](../Talks/12wine%20smooth.pdf)\]*
+<dt class="bib">The Wide Partition Conjecture and the Atom Problem in Discrete Tomography
+<dd class="bib">with  Flavio Gu&iacute;&ntilde;ez,
+Electronic Notes in Discrete Mathematics,  351-356, 2013.
+The VII Latin-American Algorithms, Graphs and Optimization Symposium (LAGOS),
+2013.
+<br>
 
-Approximating the Throughput by Coolest First Scheduling 
-:   with Ioannis Milis, Julien Robert and Georgios Zois. Proc. of the
-    10th Workshop on Approximation and Online Algorithms (WAOA), 2012.\
-    *\[[slides](../Talks/12%20waoa%20coolestFirst.pdf)\]*
+<dt class="bib">A &phi;-Competitive Algorithm for Collecting Items with Increasing Weights from a Dynamic Queue
+<dd class="bib">with Marcin Bienkowski, Marek Chrobak, Mathilde Hurand, Artur Jeż,  Łukasz Jeż, Grzegorz Stachowiak.
+Theoretical Computer Science, 475, 92-102, 2013.
+<br>
+[<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.1601&rep=rep1&type=pdf">paper</a>]
 
-Online Scheduling of Bounded Length Jobs to Maximize Throughput 
-:   with Łukasz Jeż and Nguyễn Kim Thắng. Journal of Scheduling
-    15(5):653-664, 2012. Preliminary version in Proc. of the 7th
-    Workshop on Approximation and Online Algorithms (WAOA), 2009.\
-    *\[[paper](http://arxiv.org/abs/0902.2209),
-    [slides](../Talks/OnlineItemsEnglish/onlineItemsTalk.pdf)\]*
+<dt class="bib">Collecting Weighted Items from a Dynamic Queue
+<dd class="bib">with Marcin Bienkowski, Marek Chrobak, Mathilde Hurand, Artur Jeż,  Łukasz Jeż, Grzegorz Stachowiak.
+<a href="http://link.springer.com/article/10.1007%2Fs00453-011-9574-6">DOI 10.1007/s00453-011-9574-6</a>,
+Algorithmica 65(1):60-94, 2013. Preliminary version in
+Proc. of the ACM-SIAM Symposium on Discrete Algorithms (SODA), 2009. 
+<br>
+<i>[<a href="http://arxiv.org/abs/0802.1685">paper</a>, <a href="/~durrc/WhacAMole/">program</a>]
+</i>
 
-Polynomial Time Algorithms for Minimum Energy Scheduling 
-:   with Philippe Baptiste, Marek Chrobak, Journal ACM Transactions on
-    Algorithms 8(3), article no 26, 2012. Preliminary version in Proc.
-    of the 15th Annual European Symposium on Algorithms (ESA), 136-150,
-    2007.\
-    *\[[paper](http://arxiv.org/abs/0908.3505), slides
-    [1](../Talks/minEnergy.pdf),
-    [2](http://www.cs.pitt.edu/~kirk/cs3150spring2010/10071.ChrobakMarek.Slides.pdf),
-    program [1](/~durrc/MinBlocks/), [2](/~durrc/1_rj_pmtn_E/)\]*
+<dt class="bib">Speed scaling with power down scheduling for agreeable deadlines
+<dd class="bib">with Evripidis Bampis, Fadi Kacem and Ioannis Milis.
+<a href="http://dx.doi.org/10.1016/j.suscom.2012.10.003">Sustainable Computing: Informatics and Systems</a>, 2(4):184-189, 2012.
 
-Tile Packing Tomography is NP-hard 
-:   with Marek Chrobak, Flavio Guíñez, Antoni Lozano, Nguyễn Kim Thắng.
-    Algorithmica, 64(2): 267-278, 2012. Preliminary version in Proc. of
-    the 16th Annual International Computing and Combinatorics Conference
-    (Cocoon), 254-263, 2010\
-    *\[[paper](http://arxiv.org/abs/0911.2567),
-    [slides](../Talks/cocoon10Tiling.pdf)\]*
+<br>
+<i>[<a href="http://arxiv.org/abs/1111.3398">paper</a>, 
+<a href="../Talks/11_SSPD_agreeable.pdf">slides</a>,
+<a href="http://www-desir.lip6.fr/~durrc/SpeedScalingPowerDownAgreeable/">program</a>]
+</i>
 
-Reconstructing 3-colored grids from horizontal and vertical projections is NP-hard
-:   with Flavio Guíñez, Martín Matamala, SIAM J. on Discrete Math,
-    26(1): 330-352, 2012. Preliminary version in Proc. of the 17th
-    Annual European Symposium on Algorithms (ESA), 2009. ♥ best paper
-    award\
-    *\[[paper](http://arxiv.org/abs/0904.3169),
-    [slides](/~durrc/Talks/3couleurs.pdf),
-    [program](/~durrc/Xray/2atoms/)\]*
+<dt class="bib">Smooth Inequalities and Equilibrium Inefficiency in Scheduling Games
+<dd class="bib">with Johanne Cohen and Nguyễn Kim Thắng.
+Proc. of the 8th Workshop on Internet &amp; Network Economics (WINE), 2012.
 
-The interval ordering problem 
-:   with Maurice Queyranne, Frits C.R. Spieksma, Fabrice Talla Nobibon
-    and Gerhard J. Woeginger. Discrete Applied Mathematics 160:
-    1094-1103, 2012.\
-    *\[[paper](http://arxiv.org/abs/1112.0534),
-    [slides](../Talks/IntervalOrdering.pdf)\]*
+<br>
+<i>[<a href="http://arxiv.org/abs/1202.4302">paper</a>,
+<a href="../Talks/12wine smooth.pdf">slides</a>]
+</i>
 
-Algorithms for Temperature-Aware Task Scheduling in Microprocessor Systems 
-:   with Marek Chrobak, Mathilde Hurand, Julien Robert. Sustainable
-    Computing: Informatics and Systems, 1(3):241-247, 2011. Preliminary
-    version in Proc. of the 4th International Conference on Algorithmic
-    Aspects in Information and Management (AAIM), 2008.\
-    *\[[paper](http://arxiv.org/abs/0801.4238)\]*
+<dt class="bib">Approximating the Throughput by Coolest First Scheduling 
+<dd class="bib">with Ioannis Milis, Julien Robert and Georgios Zois.
+Proc. of the 10th Workshop on Approximation and Online Algorithms (WAOA), 2012.
 
-Non-Clairvoyant Scheduling Games 
-:   with Johanne Cohen and Nguyễn Kim Thắng. Theory of Computing Systems
-    49(1): 3-23, 2011. Preliminary version in Proc. of the 2nd
-    International Symposium on Algorithmic Game Theory (SAGT), 2009.\
-    *\[[paper](http://arxiv.org/abs/1101.1256),
-    [slides](../Talks/SchedulingGame/equi-game.pdf)\]*
+<br>
+<i>[<a href="../Talks/12 waoa coolestFirst.pdf">slides</a>]</i>
 
-Finding total unimodularity in optimization problems solved by linear programs
-:   with Mathilde Hurand, Algorithmica, 59(2): 256-268, 2011.
-    Preliminary version in Proc. of the 14th Annual European Symposium
-    on Algorithms (ESA), 315-326, 2006. Contains results from a
-    technical report called \"A simple algorithm for scheduling equal
-    sized jobs on parallel machines with release times and deadlines\".\
-    *\[[paper](http://arxiv.org/abs/cs/0602016),
-    [slides](../Talks/Unimodularity_july07/Unimodularity_july07.pdf),
-    programs [1](/~durrc/P_rj_pjp_Dj_sumCj/),
-    [2](/~durrc/P_rj_pj1_size1m/), [3](/~durrc/prefetch/)\]*
+<dt class="bib">Online Scheduling of Bounded Length Jobs to Maximize Throughput
+<dd class="bib">with Łukasz Jeż and Nguyễn Kim Thắng. 
+ Journal of Scheduling 15(5):653-664, 2012. 
+	Preliminary version in
+Proc. of the 7th Workshop on Approximation and Online Algorithms (WAOA), 2009.
 
-Runway scheduling with holding loop
-:   with Konstantin Artiouchine and Philippe Baptiste. *[European
-    Journal of Operational
-    Research](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VCT-4P1X7GX-3&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a507dff4d48945a639739ed28a7cd3ab),
-    189(3): 1254-1266, 2008. Preliminary version in Proceedings of
-    Discrete Optimization Methods in Production and Logistics (DOM)*,
-    pp. 96-101, Omsk-Irkutsk, Russia, 2004.\
-    *\[[program](/%7Edurrc/runway/)\]*
+<br>
+<i>[<a href="http://arxiv.org/abs/0902.2209">paper</a>, <a href="../Talks/OnlineItemsEnglish/onlineItemsTalk.pdf">slides</a>]
+</i>
 
-Nash equilibria in Voronoi games on graphs 
-:   with Nguyễn Kim Thắng. Proc. of the 15th Annual European Symposium
-    on Algorithms (ESA), 17-28, 2007.\
-    *\[[paper](http://arxiv.org/abs/cs.IT/0702054),
-    [slides](../Talks/Voronoi.pdf), [program](/~durrc/VoronoiTorus/)\]*
+<dt class="bib">Polynomial Time Algorithms for Minimum Energy Scheduling
+<dd class="bib">with Philippe Baptiste, Marek Chrobak,
+    Journal ACM Transactions on Algorithms 8(3), article no 26, 2012.
+	Preliminary version in
+	Proc. of the 15th Annual European Symposium
+    on Algorithms (ESA), 136-150, 2007. 
+<br>
+<i>[<a href="http://arxiv.org/abs/0908.3505">paper</a>,
+    slides <a href="../Talks/minEnergy.pdf">1</a>, 
+    <a href="http://www.cs.pitt.edu/~kirk/cs3150spring2010/10071.ChrobakMarek.Slides.pdf">2</a>,
+    program <a href="/~durrc/MinBlocks/">1</a>, <a href="/~durrc/1_rj_pmtn_E/">2</a>] 
+</i>
 
-Competitive Analysis of Scheduling Algorithms for Aggregated Links
-:   with Wojciech Jawor (first author) and Marek Chrobak.
-    *Algorithmica*, 51(4): 367-386, 2008. Preliminary version in Proc.
-    of the conference Latin American Theoretical INformatics (LATIN),
-    pp. 617-628, 2006.\
-    *\[[paper](link.pdf)\]*
+<dt class="bib">Tile Packing Tomography is NP-hard
+<dd class="bib">with Marek Chrobak, Flavio Gu&iacute;&ntilde;ez, Antoni Lozano, 
+Nguyễn Kim Thắng.
+Algorithmica, 64(2): 267-278, 2012. Preliminary version in Proc. of the 16th Annual International Computing and Combinatorics Conference (Cocoon), 254-263,  2010 <br>
+<i>[<a href="http://arxiv.org/abs/0911.2567">paper</a>, 
+<a href="../Talks/cocoon10Tiling.pdf">slides</a>]
+</i>
 
-Quantum Query Complexity in Computational Geometry
-:   with Abhinav Bahadur, Raghav Kulkarni and Thibault Lafaye. Proc. of
-    the Conference on Quantum Information and Computation IV by The
-    International Society for Optical Engineering (SPIE) 2006.\
-    *\[[paper](http://spie.org/x648.html?product_id=661591)\]*
+<dt class="bib">Reconstructing 3-colored grids from horizontal and vertical projections is NP-hard</dt>
+<dd class="bib">with Flavio Gu&iacute;&ntilde;ez, Mart&iacute;n Matamala,
+  SIAM J. on Discrete Math, 26(1): 330-352, 2012. Preliminary version in 
+ Proc. of the 17th Annual European Symposium on Algorithms (ESA),  2009. &hearts; best paper award<br>
+<i>[<a href="http://arxiv.org/abs/0904.3169">paper</a>,
+<a href="/~durrc/Talks/3couleurs.pdf">slides</a>,
+<a href="/~durrc/Xray/2atoms/">program</a>]</i>
 
-Quantum query complexity of some graph problems
-:   with Mark Heiligman, Peter Høyer and Mehdi Mhalla, *SIAM J. of
-    Computing.* 35 (6):1310-1328, 2006. Preliminary version in *Proc. of
-    the 31st International Colloquium on Automata, Languages and
-    Programming (ICALP)*, pp. 481-493, 2004. ♥ track A best paper award\
-    *\[[paper](http://fr.arXiv.org/abs/quant-ph/0401091),
-    [slides](../Talks/GraphQuery/)\]*
+<dt class="bib">The interval ordering problem
+<dd class="bib"> with Maurice Queyranne, Frits C.R. Spieksma, Fabrice Talla Nobibon and Gerhard J. Woeginger.
+Discrete Applied Mathematics 160: 1094-1103, 2012.
 
-A Note on Scheduling Equal-Length Jobs to Maximize Throughput
-:   with Marek Chrobak, Wojciech Jawor, Łukasz Kowalik, Maciej Kurowski,
-    Journal of Scheduling, Volume 9, Number 1, 71-73, 2006.\
-    *\[[long version](http://fr.arXiv.org/abs/cs/0410046)\]*
+<br>
+<i>[<a href="http://arxiv.org/abs/1112.0534">paper</a>,
+<a href="../Talks/IntervalOrdering.pdf">slides</a>]
+</i>
 
-\
-Quantum Algorithms for Element Distinctness
-:   with Harry Buhrman, Mark Heiligman, Peter Høyer, Fréderic Magniez,
-    Miklos Santha, Ronald de Wolf. *SIAM J. of Computing*, vol. 34 (6),
-    pp.1324-1330, 2005. Preliminary version in *Proc. of the 16th IEEE
-    Conference on Computational Complexity*, pp. 131-137, 2001.\
-    *\[[conference](http://arxiv.org/abs/quant-ph/0007016),
-    [journal](edj2.pdf), [slides](../Talks/Collision/)\]*
+<dt class="bib">Algorithms for Temperature-Aware Task Scheduling in Microprocessor Systems
+<dd class="bib">with Marek Chrobak, Mathilde Hurand, Julien Robert.
+Sustainable Computing: Informatics and Systems, 1(3):241-247, 2011.
+Preliminary version in Proc. of the 4th International Conference on
+Algorithmic Aspects in Information and Management (AAIM), 2008.
+<br>
+<i>[<a href="http://arxiv.org/abs/0801.4238">paper</a>]
+</i>
 
-Cellular automata and communication complexity
-:   with Ivan Rapaport and Guillaume Theyssier, *Theoretical Computer
-    Science*, vol. 322, pp. 355-368, 2004.\
-    *\[[paper](http://fr.arXiv.org/abs/cs.CC/0210008),
-    [slides](../Talks/cacc.ppt), [webpage](/~durrc/CACC/)\]*
+<dt class="bib">Non-Clairvoyant Scheduling Games
+<dd class="bib">with Johanne Cohen and Nguyễn Kim Thắng.
+Theory of Computing Systems 49(1): 3-23, 2011.
+	Preliminary version in
+Proc. of the 2nd International Symposium on Algorithmic Game Theory (SAGT), 2009.
 
-Preemptive Scheduling of Equal-Length Jobs to Maximize Weighted Throughput
-:   with Philippe Baptiste, Marek Chrobak, Wojciech Jawor and Nodari
-    Vakhania, *Operation Research Letters*, vol. 32 (3), pp. 258-264,
-    2004.\
-    *\[[paper](http://fr.arXiv.org/abs/cs.DS/0209033),
-    [program](/~durrc/1_rj_pmtn_pjp_sumwjUj/)\]*
+<br>
+<i>[<a href="http://arxiv.org/abs/1101.1256">paper</a>, <a href="../Talks/SchedulingGame/equi-game.pdf">slides</a>]
+</i>
 
-Tiling with bars under tomographic constraints
-:   with Eric Goles, Ivan Rapaport, Eric Rémila. *Theoretical Computer
-    Science*, vol. 290, pp. 1317\--1329, 2003.\
-    *\[[paper](http://fr.arXiv.org/abs/cs/9903020),
-    [program](/%7Edurrc/Xray/VertOnly/)\]*
+    <dt class="bib">Finding total unimodularity in optimization problems solved by linear programs</dt>
+    <dd class="bib">with Mathilde Hurand, 
+    Algorithmica, 59(2): 256-268, 2011.
+	Preliminary version in
+    Proc. of the 14th Annual European Symposium
+    on Algorithms (ESA), 315-326, 2006. 
+    Contains results from a technical report called "A simple algorithm for scheduling equal sized jobs on parallel machines with release times and deadlines".<br>
+    <i>[<a href="http://arxiv.org/abs/cs/0602016">paper</a>, 
+        <a href="../Talks/Unimodularity_july07/Unimodularity_july07.pdf">slides</a>, 
+	programs 
+        <a href="/~durrc/P_rj_pjp_Dj_sumCj/">1</a>,
+        <a href="/~durrc/P_rj_pj1_size1m/">2</a>,
+        <a href="/~durrc/prefetch/">3</a>]
+    </i>
 
-A Note on Tiling under Tomographic Constraints
-:   with Marek Chrobak, Peter Couperus and Gerhard Woeginger.
-    *Theoretical Computer Science*, vol. 290, pp. 2125-2136, 2003.\
-    *\[[paper](http://fr.arXiv.org/abs/cs.CC/0108010),
-    [slides](../Talks/tomoTilingLyon02/)\]*
+  <dt class="bib">Runway scheduling with
+holding loop</dt>
+  <dd class="bib">with Konstantin Artiouchine and Philippe Baptiste. <em>
+<a href="http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VCT-4P1X7GX-3&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a507dff4d48945a639739ed28a7cd3ab">European Journal of Operational Research</a>, 189(3): 1254-1266, 2008.
+Preliminary version in Proceedings of Discrete Optimization Methods in Production and
+Logistics (DOM)</em>, pp. 96-101,
+Omsk-Irkutsk, Russia, 2004.  
+<br>
+    <i>[<a href="/%7Edurrc/runway/">program</a>] </i></dd>
 
-A decision procedure for unitary quantum linear cellular automata
-:   with Miklos Santha. *SIAM J. of Computing*, vol. 31 (4),
-    pp.1076-1089, 2002. Preliminary version in *Proc. of the 37th
-    Symposium on Foundations of Computer Science (FOCS)*, pp. 37-45,
-    1996.\
-    *\[[paper](http://fr.arXiv.org/abs/quant-ph/9604007),
-    [slides](../Talks/Unitary/), [program](../Attic/LQCA.tar.gz)\]*
+<dt class="bib">Nash equilibria in Voronoi games on graphs
+<dd class="bib">with Nguyễn Kim Thắng.
+    Proc. of the 15th Annual European Symposium
+    on Algorithms (ESA), 17-28, 2007. 
+<br>
+<i>[<a href="http://arxiv.org/abs/cs.IT/0702054">paper</a>,
+<a href="../Talks/Voronoi.pdf">slides</a>,
+<a href="/~durrc/VoronoiTorus/">program</a>] 
+</i>
 
-Reconstructing Polyatomic Structures from Discrete X-Rays: NP-Completeness Proof for Three Atoms
-:   with Marek Chrobak. *Theoretical Computer Science*, vol 259, pp.
-    81-98, 2001. Preliminary version in *Proc. of the 23rd International
-    Symposium on Mathematical Foundations of Computer Science (MFCS)*,
-    LNCS vol 1450, pp. 185-193, 1998.\
-    *\[[paper](http://fr.arXiv.org/abs/cs/9906018),
-    [slides](../Talks/3atoms)\]*
+  <dt class="bib">Competitive Analysis of Scheduling Algorithms for Aggregated Links</dt>
+  <dd class="bib">with
+Wojciech Jawor (first author) and Marek Chrobak. 
+<em>Algorithmica</em>, 51(4): 367-386, 2008.
+Preliminary version in Proc. of the conference Latin American Theoretical INformatics (LATIN),  pp. 617-628, 2006.
 
-Reconstructing hv-Convex Polyominoes from Orthogonal Projections
-:   with Marek Chrobak. *Information Processing Letters*, vol. 69, pp.
-    283-289, 1999.\
-    *\[[paper](http://fr.arXiv.org/abs/cs/9906021),
-    [slides](../Talks/hvConvPolyomino/),
-    [program](/%7Edurrc/Xray/Polyomino/polyomino.php)\]*
+<br>
+<i>[<a href="link.pdf">paper</a>]</i>
+</dd>
 
- Enumération et génération aléatoire de polyominos en réseau hexagonal
-:   with Alain Denise and Fouad Ibn-Majdoub-Hassani. *Proc. of the 9-th
-    International Conference on Formal Power Series and Algebraic
-    Combinatorics
-    ([FPSAC](http://radon.mat.univie.ac.at/People/kratt/fpsac97.html)),*
-    pp. 222-234, 1997.\
-    *\[[paper](http://www.fpsac.org/FPSAC97/ARTICLES/Denise.ps.gz),
-    [program](/%7Edurrc/Polyomino/)\]*
+  <dt class="bib">Quantum Query Complexity in Computational Geometry</dt>
+  <dd class="bib">with Abhinav Bahadur, Raghav Kulkarni and Thibault Lafaye.
+  Proc. of the Conference on Quantum Information and Computation IV by The International Society for Optical Engineering (SPIE) 2006.
+  <br><i>[<a href="http://spie.org/x648.html?product_id=661591">paper</a>]</i>
 
-A decision procedure for well formed quantum cellular automata
-:   with Hương LêThanh and Miklos Santha. *Random Structures &
-    Algorithms*, vol. 11, pp. 381-394, 1997. Preliminary version  in
-    *Proc. of the 13rd International Symposium on Theoretical Aspects of
-    Computer Science (STACS)*, pp. 281-292, 1996.\
-    *\[[paper](http://fr.arXiv.org/abs/cs/9906024)\]*
+  <dt class="bib">Quantum query complexity of
+some graph problems</dt>
+  <dd class="bib">with Mark Heiligman, Peter H&oslash;yer and Mehdi Mhalla, 
+<em>SIAM
+J. of Computing.</em> 35 (6):1310-1328, 2006.
+Preliminary version in <em>Proc. of the 31st International Colloquium on Automata, Languages and
+Programming (ICALP)</em>,
+pp. 481-493, 2004. &hearts; track A best paper award<br>
+    <i>[<a href="http://fr.arXiv.org/abs/quant-ph/0401091">paper</a>, <a
+ href="../Talks/GraphQuery/">slides</a>] </i></dd>
 
-Invited talks/tutorials
------------------------
+  <dt class="bib">A Note on Scheduling
+Equal-Length Jobs to Maximize Throughput</dt>
+  <dd class="bib">with
+Marek Chrobak, Wojciech Jawor, &#321;ukasz Kowalik, Maciej Kurowski, 
+Journal of Scheduling, Volume 9, Number 1, 71-73, 2006. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs/0410046">long version</a>] </i></dd>
+  <dt class="bib"><dt class="bib">Quantum Algorithms for
+Element Distinctness</dt>
+  </dt>
+  <dd class="bib">with Harry Buhrman, Mark Heiligman, Peter H&oslash;yer,
+Fr&eacute;deric Magniez, Miklos Santha, Ronald de Wolf. <i>SIAM
+J. of
+Computing</i>, vol. 34 (6),
+pp.1324-1330, 2005.
+Preliminary version in <i>Proc. of the 16th IEEE
+Conference on Computational Complexity</i>,
+pp. 131-137, 2001.<br>
+    <i>[<a href="http://arxiv.org/abs/quant-ph/0007016">conference</a>,
+    <a href="edj2.pdf">journal</a>, <a
+ href="../Talks/Collision/">slides</a>] </i></dd>
 
-Optimizing with explorable uncertainty 
-:   LAGOS - The Latin and American Algorithms, Graphs and Optimization
-    Symposium, 2017\
-    \[[slides](http://www-desir.lip6.fr/~durrc/Talks/17lagos.pdf)\]
+  <dt class="bib">Cellular automata and
+communication complexity</dt>
+  <dd class="bib">with Ivan Rapaport and Guillaume Theyssier, <em>Theoretical
+Computer Science</em>, vol. 322, pp.
+355-368, 2004. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs.CC/0210008">paper</a>, <a
+ href="../Talks/cacc.ppt">slides</a>, <a
+ href="/~durrc/CACC/">webpage</a>] </i></dd>
 
-A survey on discrete tomography 
-:   ECCO - Conference of the European Chapter on Combinatorial
-    Optimization, 2014\
-    \[[slides](/~durrc/Talks/14surveyTomogr.pdf)\]
+  <dt class="bib">Preemptive Scheduling of
+Equal-Length Jobs to Maximize Weighted Throughput</dt>
+  <dd class="bib">with Philippe Baptiste, Marek Chrobak, Wojciech Jawor and
+Nodari
+Vakhania, <i>Operation Research
+Letters</i>, vol. 32 (3), pp.
+258-264, 2004. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs.DS/0209033">paper</a>, <a
+ href="/~durrc/1_rj_pmtn_pjp_sumwjUj/">program</a>]
+    </i> </dd>
 
-Gestion de tampon en ligne, 
-:   ROADEF - Congrès annuel de la Société française de recherche
-    opérationnelle et d'aide à la décision, 2014\
-    \[[abstract](http://roadef2014.sciencesconf.org/31461),
-    [slides](/~durrc/Talks/14gestionTamponEnLigne.pdf)\]
+  <dt class="bib">Tiling with bars under
+tomographic constraints</dt>
+  <dd class="bib">with Eric Goles, Ivan Rapaport, Eric R&eacute;mila. <i>Theoretical
+Computer Science</i>,
+vol. 290, pp. 1317--1329, 2003. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs/9903020">paper</a>,
+<a href="/%7Edurrc/Xray/VertOnly/">program</a>]  </i>
+  </dd>
 
-Manuscripts (in french)
------------------------
+  <dt class="bib">A Note on Tiling under
+Tomographic Constraints</dt>
+  <dd class="bib">with Marek Chrobak, Peter Couperus and Gerhard Woeginger. <i>Theoretical
+Computer Science</i>,
+vol. 290, pp. 2125-2136, 2003. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs.CC/0108010">paper</a>, <a
+ href="../Talks/tomoTilingLyon02/">slides</a>] </i></dd>
 
-\"Deux mariages et aucun enterrement\" (sur une chaîne de Markov)
-:   [mémoire de DEA](grille.ps.gz), 1994.
+  <dt class="bib">A decision procedure for
+unitary quantum linear cellular automata</dt>
+  <dd class="bib">with Miklos Santha. <i>SIAM J. of
+Computing</i>, vol. 31 (4),
+pp.1076-1089, 2002.
+Preliminary version in <i>Proc.
+of the 37th Symposium on Foundations of
+Computer Science (FOCS)</i>, pp.
+37-45, 1996. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/quant-ph/9604007">paper</a>, <a
+ href="../Talks/Unitary/">slides</a>, <a
+ href="../Attic/LQCA.tar.gz">program</a>] </i></dd>
 
-\"Automates cellulaires quantiques finis\" 
-:   [thèse](t.a4.ps.gz) , 1997.
+  <dt class="bib">Reconstructing Polyatomic
+Structures from Discrete X-Rays:
+NP-Completeness Proof for Three Atoms</dt>
+  <dd class="bib">with Marek Chrobak. <i>Theoretical Computer Science</i>,
+vol 259, pp. 81-98, 2001. Preliminary version
+in <i>Proc. of the 23rd
+International Symposium on Mathematical
+Foundations of Computer Science (MFCS)</i>,
+LNCS vol 1450,
+pp. 185-193, 1998. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs/9906018">paper</a>, <a
+ href="../Talks/3atoms">slides</a>] </i></dd>
 
-\"Tomographie discrète, calcul quantique et ordonnancement\" 
-:   [habilitation](h.pdf) , 2005.
-:::
+  <dt class="bib">Reconstructing hv-Convex
+Polyominoes from Orthogonal
+Projections</dt>
+  <dd class="bib">with Marek Chrobak. <i>Information Processing
+Letters</i>, vol. 69, pp. 283-289,
+1999. <br>
+    <i>[<a href="http://fr.arXiv.org/abs/cs/9906021">paper</a>, <a
+ href="../Talks/hvConvPolyomino/">slides</a>, <a
+ href="/%7Edurrc/Xray/Polyomino/polyomino.php">program</a>] </i></dd>
+
+  <dt class="bib"> Enum&eacute;ration et
+g&eacute;n&eacute;ration al&eacute;atoire de polyominos en
+r&eacute;seau hexagonal</dt>
+  <dd class="bib">with Alain Denise
+and Fouad Ibn-Majdoub-Hassani. <i>Proc. of the 9-th
+International Conference on Formal Power Series and Algebraic
+Combinatorics (<a
+ href="http://radon.mat.univie.ac.at/People/kratt/fpsac97.html">FPSAC</a>),
+    </i> pp. 222-234, 1997. <br>
+    <i>[<a href="http://www.fpsac.org/FPSAC97/ARTICLES/Denise.ps.gz">paper</a>,
+    <a href="/%7Edurrc/Polyomino/">program</a>] </i></dd>
+
+  <dt class="bib">A decision procedure for
+well formed quantum cellular automata</dt>
+  <dd class="bib">with
+Hương L&ecirc;Thanh and Miklos Santha. <i>Random
+Structures &amp; Algorithms</i>,
+vol. 11, pp. 381-394,
+1997. Preliminary version&nbsp; in <i>Proc.
+of the 13rd International
+Symposium on Theoretical Aspects of Computer Science (STACS)</i>,
+pp. 281-292, 1996. <br>
+    <i> [<a href="http://fr.arXiv.org/abs/cs/9906024">paper</a>] </i></dd>
+</dl>
+
+<h2>Invited talks/tutorials</h2>
+<dl>
+<dt class="bib">Optimizing with explorable uncertainty
+<dd class="bib">
+LAGOS - The Latin and American Algorithms, Graphs and Optimization Symposium, 2017
+<br>
+[<a href="http://www-desir.lip6.fr/~durrc/Talks/17lagos.pdf">slides</a>]
+<dt class="bib">A survey on discrete tomography
+<dd class="bib">ECCO - Conference of the European Chapter on Combinatorial Optimization, 2014
+   <br>
+   [<a href="/~durrc/Talks/14surveyTomogr.pdf">slides</a>]
+
+<dt class="bib">Gestion de tampon en ligne, 
+   <dd class="bib">ROADEF - Congrès annuel de la Société française de recherche opérationnelle et d’aide à la décision, 2014
+   <br>
+   [<a href="http://roadef2014.sciencesconf.org/31461">abstract</a>,
+    <a href="/~durrc/Talks/14gestionTamponEnLigne.pdf">slides</a>]
+</dl>
+
+<h2>Manuscripts (in french)</h2>
+<dl>
+  <dt class="bib">"Deux mariages et aucun
+enterrement" (sur une cha&icirc;ne de Markov)</dt>
+  <dd class="bib"> <a href="grille.ps.gz">m&eacute;moire
+de DEA</a>, 1994. </dd>
+  <dt class="bib">"Automates cellulaires
+quantiques finis" </dt>
+  <dd class="bib"> <a href="t.a4.ps.gz">th&egrave;se</a>
+, 1997. </dd>
+  <dt class="bib">"Tomographie discr&egrave;te, calcul quantique et ordonnancement" </dt>
+  <dd class="bib"> <a href="h.pdf">habilitation</a> 
+, 2005. </dd>
+
+</dl>
+
