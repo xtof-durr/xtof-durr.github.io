@@ -3,9 +3,20 @@ title: Mon abécédaire de l'aéromodélisme
 ---
 
 
-## Ahh!
+## Armin Wing
 
-Cri à produire juste avant un crash. Oh, et puis non, bien évité, bravo!
+Une construction d'aile en dépron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.
+
+## Canaux
+
+Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
+
+1. right aileron
+2. elevator
+3. throttle
+4. rudder
+5. left aileron
+6. flaps
 
 ## Clubs
 
@@ -76,7 +87,6 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 - Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
 - [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caracteristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
-
 ## Modèles
 
 Les nodèles que j'aime bien, et que j'aimerais fabriquer.
@@ -84,9 +94,16 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 - [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arondis, sans dièdre.
 - [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 
+### Notre version du planeur de Andrew Newton
+
+- Le fuselage est en forme de boîte en dépron 5mm.
+- Le stabilisateur horizontal est démontable.
+- [Voici](model3.ini) le fichier de configuration pour notre radio commande sous Deviation.
+
 ## Monde
 
 [Allemagne](https://www.youtube.com/watch?v=5IoODRH1TWg),
+[Algérie](https://www.youtube.com/watch?v=pkT6ph5hnI0),
 [Cambodge?](https://www.youtube.com/watch?v=VTY1XNBB7Zw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=7&t=0s),
 [Chili](https://www.youtube.com/watch?v=uR6z-mhI2Rw),
 [Corée](https://www.youtube.com/watch?v=BXKDoljaN5M&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=2&t=0s),
