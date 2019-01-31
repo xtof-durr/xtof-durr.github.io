@@ -1,12 +1,13 @@
 ---
 title: Page Maison de Christoph Dürr
--
+---
 
 ![photo.html](img/durr08.jpeg)
 
 
-> chercheur au CNRS DR2
+> chercheur au CNRS DR2,
 > Sorbonne Universit&eacute;
+
 > [http://www.lip6.fr](LIP6), &eacute;quipe [Op&eacute;rationnelle](http://www.lip6.fr/recherche/team.php?id=320)
 > case 169, 4 place Jussieu,
 75252 Paris Cedex 05
