@@ -10,12 +10,13 @@ Une construction d'aile en dépron, décrite par Ed de [Experimental Airlines](h
 ## Canaux
 
 Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
+Écrire AETR ou AgETRAd près du recepteur pour mémoriser l'ordre de connexion. Également marquer les cables pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
 
-1. right aileron
+1. left aileron
 2. elevator
 3. throttle
 4. rudder
-5. left aileron
+5. right aileron
 6. flaps
 
 ## Clubs
@@ -130,7 +131,9 @@ La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai p
 
 On peut connecter son émetteur via le port d'écolage à l'entrée audio de l'ordinateur et utiliser le programme [SmartPropoPlus] pour émuler un Joystick.  Ceci ne fonctionne pas avec Phoenix.
 
-Pas facile de trouver une combinaison qui fonctionne.
+J'ai fini par trouver une solution, qui me permet de commander le simulateur Phoenix avec la radio commande Jumper. C'est ce [dongle](https://www.aliexpress.com/item/22-in-1-RC-USB-Flight-Simulator-with-Cables-for-Realflight-G7-G6-G5-Aero-Fly/32835905606.html) qui se branche sur la sortie PPM avec le cable audio fourni.  Il faut alors créer un modèle au protocole PPM.
+
+On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows via le cable USB, avec un modèle via le protocole USBHID.  Mais je n'ai pas réussit à la faire fonctionner ainsi, avec différents simulateurs.
  
 
 ## Terrains
