@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Page Maison de Christoph Dürr
 ---
 
-![photo.html](img/durr08.jpeg)
+![photo](/~durrc/img/durr08.jpeg)
 
 
 > chercheur au CNRS DR2,
