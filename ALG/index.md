@@ -111,5 +111,6 @@ de 13:45  à  16:45.
 Toutes les notes sont autorisées.  Mais pas de livres.
 Ni de calculatrices.
 
-[corrigé](examens/examen_2018.pdf)
+[corrigé de l'examen](examens/examen_2018.pdf),
+[corrigé du rattrapage](examens/rattr_2019.pdf)
 
