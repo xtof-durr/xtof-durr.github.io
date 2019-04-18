@@ -1,5 +1,6 @@
 ---
 title: Mon abécédaire de l'aéromodélisme
+lang: fr-FR
 ---
 
 
@@ -10,7 +11,7 @@ Une construction d'aile en dépron, décrite par Ed de [Experimental Airlines](h
 ## Canaux
 
 Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
-Écrire AETR ou AgETRAd près du recepteur pour mémoriser l'ordre de connexion. Également marquer les cables pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
+Écrire AETR ou AgETRAd près du récepteur pour mémoriser l'ordre de connexion. Également marquer les câbles pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
 
 1. left aileron
 2. elevator
@@ -33,11 +34,11 @@ Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
 En anglais: *scratch build*.
 Plusieurs sites web ou canaux vidéos que je j'aime.
 
-- [FliteTest](https://www.flitetest.com/) des vidés très professionels, avec des américains qui se la pêtent un peu, et vendent leur kits de fabrication.  Ils font tout avec du Dollar Tree Foam  et de la colle chaude. Fabrication rapide.
-C'est difficile de trouver du matériel équivalent en France. 
+- [FliteTest](https://www.flitetest.com/) des vidéos très professionnels, avec des américains qui se la pêtent un peu, et vendent leur kits de fabrication.  Ils font tout avec du Dollar Tree Foam  et de la colle chaude. Fabrication rapide.
+C'est difficile de trouver du matériel équivalent en France.
 - [Experimental Airlines](https://www.youtube.com/user/ExperimentalAirlines) : un autre américain, apprend bien comment faire des ailes, recouvrir de ruban adhésif la surface.  Des constructions simples et robustes.
 - [Andrew Newton](http://newtonairlines.blogspot.com/) un australien, qui a la chance d'aller voler facilement au bord d'une pente au bord de la mer.  Beaucoup de comparaison de matériels.
-- [Erwin Beizeiten](https://www.youtube.com/channel/UCjSQBeTUKgqESVG9P7XJhmg) un autrichien qui construit dans un atélier tout rangé.
+- [Erwin Beizeiten](https://www.youtube.com/channel/UCjSQBeTUKgqESVG9P7XJhmg) un autrichien qui construit dans un atelier tout rangé.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 
@@ -67,9 +68,9 @@ C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec u
 
 |nom                                            |densité     |
 |-----------------------------------------------|------------|
-| dollar tree foam board                        | 297 g/m^2  | 
+| dollar tree foam board                        | 297 g/m^2  |
 |rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
-| [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  | 
+| [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  |
 
 ## polypropylène extrudé
 
@@ -79,20 +80,20 @@ C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un 
 
 ## F3K
 
-Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcémemnt une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
+Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcément une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
 
 - [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
 
 ## Marouflage
 
 - Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
-- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caracteristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
+- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
 ## Modèles
 
-Les nodèles que j'aime bien, et que j'aimerais fabriquer.
+Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
-- [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arondis, sans dièdre.
+- [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arrondis, sans dièdre.
 - [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 
 ### Notre version du planeur de Andrew Newton
@@ -109,6 +110,7 @@ Les nodèles que j'aime bien, et que j'aimerais fabriquer.
 [Chili](https://www.youtube.com/watch?v=uR6z-mhI2Rw),
 [Corée](https://www.youtube.com/watch?v=BXKDoljaN5M&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=2&t=0s),
 [France, Dune du Pyla](https://www.youtube.com/watch?v=LvHpH7abGMw),
+[France, Île d'Oléron](https://www.youtube.com/watch?v=YOiyY4KO8Ko),
 [Inde (Bengal)](https://www.youtube.com/watch?v=phg_-ze8iuE&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=10&t=0s),
 [Inde, dans les arrières cours](https://www.youtube.com/watch?v=LU1qoYxjeyw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=6&t=0s),
 [Japon](https://www.youtube.com/watch?v=JmRkxZT4XhY),
@@ -131,17 +133,17 @@ La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai p
 
 On peut connecter son émetteur via le port d'écolage à l'entrée audio de l'ordinateur et utiliser le programme [SmartPropoPlus] pour émuler un Joystick.  Ceci ne fonctionne pas avec Phoenix.
 
-J'ai fini par trouver une solution, qui me permet de commander le simulateur Phoenix avec la radio commande Jumper. C'est ce [dongle](https://www.aliexpress.com/item/22-in-1-RC-USB-Flight-Simulator-with-Cables-for-Realflight-G7-G6-G5-Aero-Fly/32835905606.html) qui se branche sur la sortie PPM avec le cable audio fourni.  Il faut alors créer un modèle au protocole PPM.
+J'ai fini par trouver une solution, qui me permet de commander le simulateur Phoenix avec la radio commande Jumper. C'est ce [dongle](https://www.aliexpress.com/item/22-in-1-RC-USB-Flight-Simulator-with-Cables-for-Realflight-G7-G6-G5-Aero-Fly/32835905606.html) qui se branche sur la sortie PPM avec le câble audio fourni.  Il faut alors créer un modèle au protocole PPM.
 
-On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows via le cable USB, avec un modèle via le protocole USBHID.  Mais je n'ai pas réussit à la faire fonctionner ainsi, avec différents simulateurs.
- 
+On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows via le câble USB, avec un modèle via le protocole USBHID.  Mais je n'ai pas réussit à la faire fonctionner ainsi, avec différents simulateurs.
+
 
 ## Terrains
 
-Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler. 
+Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler.
 
 ## Volets
 
-En anglais : *flaps*. Servent à augmenter la portance de l'aile et à attérir et décoler avec des vitesses plus faible.
+En anglais : *flaps*. Servent à augmenter la portance de l'aile et à atterrir et décoller avec des vitesses plus faibles. Pas nécessaire pour des petits avions.
 
-- [la rolls royce des volets](https://www.youtube.com/watch?v=_VjWMka-bxQ)
+- [la Rolls Royce des volets](https://www.youtube.com/watch?v=_VjWMka-bxQ)
