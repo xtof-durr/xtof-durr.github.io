@@ -105,6 +105,8 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 - Le stabilisateur horizontal est démontable.
 - [Voici](model3.ini) le fichier de configuration pour notre radio commande sous Deviation.
 
+![](https://photos.app.goo.gl/r7ZCCruSGqaFpYWL7)
+
 
 ## Monde
 
