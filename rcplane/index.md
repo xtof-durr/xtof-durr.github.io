@@ -96,11 +96,15 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 - [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arrondis, sans dièdre.
 - [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 
-### Notre version du planeur de Andrew Newton
+## Mes avions
+
+[Le planeur libellule d'Andrew Newton](libellule)
+Notre version du planeur de Andrew Newton.
 
 - Le fuselage est en forme de boîte en dépron 5mm.
 - Le stabilisateur horizontal est démontable.
 - [Voici](model3.ini) le fichier de configuration pour notre radio commande sous Deviation.
+
 
 ## Monde
 

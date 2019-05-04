@@ -1,5 +1,5 @@
 ---
-title: Mon modèle: Libellule
+title: Mon avion libellule
 lang: fr-FR
 ---
 
@@ -7,7 +7,7 @@ lang: fr-FR
 
 ## La conception
 
-Cet avion a été conçu par Lionel Mlinaric, et décrit dans le journal Modèle Magazine juin 2009. L'original est fait tout en structure balsa, entoilé. Il devrait peser 380 grammes. Mais en lisant ce (forum)[https://www.modelisme.com/forum/aero-planeurs/131648-aide-construction-planeur-libellule-mlinaric-34.html] il semble que la plupart des constructeurs arrivent plutôt à un poids autour de 470 grammes.
+Cet avion a été conçu par Lionel Mlinaric, et décrit dans le journal Modèle Magazine juin 2009. L'original est fait tout en structure balsa, entoilé. Il devrait peser 380 grammes. Mais en lisant ce [forum](https://www.modelisme.com/forum/aero-planeurs/131648-aide-construction-planeur-libellule-mlinaric-34.html) il semble que la plupart des constructeurs arrivent plutôt à un poids autour de 470 grammes.
 
 J'ai acheté d'occasion le fuselage avec ses moteurs servos et l'empannage. J'ai juste ajouté une hélice pliable, et une paire d'ailes, un récepteur et une batterie Lipo 3S 1000mA.
 
@@ -27,7 +27,7 @@ Les ailerons sont un peu courbées par rapport à leur emplacement. J'ai décid�
 
 ## Surface
 
-J'ai ajouté une couche de tissu en fibre de verre de 25 g/m2, collé avec un mélange de colle universelle Tesa et d'alcool, en suivant la technique décrite par (Papy Kilowatt)[http://papykilowatt.free.fr/html/page_trucs.htm].  Puis j'ai ajouté un scotch jaune pour avoir une surface lisse. Le scotch a ajouté 19 grammes par aile, ce qui représente  20% de son poids.
+J'ai ajouté une couche de tissu en fibre de verre de 25 g/m2, collé avec un mélange de colle universelle Tesa et d'alcool, en suivant la technique décrite par [Papy Kilowatt](http://papykilowatt.free.fr/html/page_trucs.htm).  Puis j'ai ajouté un scotch jaune pour avoir une surface lisse. Le scotch a ajouté 19 grammes par aile, ce qui représente  20% de son poids.
 
 ## Problème de poids
 
@@ -41,4 +41,4 @@ Fabriqué en carton plume, recouvert d'un film épais, issue d'un publicité pou
 
 ## Premier accident
 
-Au bout d'une minute de vol. En tentant d'attérir je suis entré dans un arbre.  Erreur 1: mauvaise position par rapport au soleil. Erreur 2: mauvse prise en compte de la dérive par le vent.
+Au bout d'une minute de vol. En tentant d'attérir je suis entré dans un arbre.  Erreur 1: mauvaise position par rapport au soleil. Erreur 2: mauvaise prise en compte de la dérive par le vent.
