@@ -98,8 +98,8 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 ## Mes avions
 
-[Le planeur libellule d'Andrew Newton](libellule)
-Notre version du planeur de Andrew Newton.
+1. [Le planeur libellule](libellule)
+2. Notre version du planeur de Andrew Newton.
 
 - Le fuselage est en forme de boîte en dépron 5mm.
 - Le stabilisateur horizontal est démontable.
