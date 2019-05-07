@@ -53,6 +53,9 @@ Voici des avions propulsés par un moteur avec élastique.
 - [depron et bambou](https://www.youtube.com/watch?v=IIxm27JYnOI&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=11&t=0s)
 - [bambou et sac nylon](https://www.youtube.com/watch?v=MzL8wztyVMU&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=12&t=0s)
 
+## Empannage
+
+Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pièce délicate à transporter d'autant plus qu'elle doit être super legère. Chaque gramme de plus dans l'empennage nécessite peut être 3 grammes de plus dans le nez.  [Voici](https://mikaeromodelisme.wordpress.com/2013/08/31/empennage-papillon-demontable/) une jolie méthode pour rendre le tout démontable.
 
 ## polystyrène expansé
 

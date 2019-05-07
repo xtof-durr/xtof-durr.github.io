@@ -13,7 +13,7 @@ J'ai acheté d'occasion le fuselage avec ses moteurs servos et l'empannage. J'ai
 
 ## L'aile
 
-Mon aile est découpée au fil chaud dans un bloc de mousse EPO rose. J'ai pris le profil S7037 comme choisi par le constructeur.
+Mon aile est découpée au fil chaud dans un bloc de mousse EPO rose. J'ai pris le profil [S7037](http://airfoiltools.com/airfoil/details?airfoil=sd7037-il) comme choisi par le constructeur.
 
 ## Problème lors de la découpe
 
