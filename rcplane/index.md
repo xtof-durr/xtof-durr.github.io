@@ -41,6 +41,67 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Erwin Beizeiten](https://www.youtube.com/channel/UCjSQBeTUKgqESVG9P7XJhmg) un autrichien qui construit dans un atelier tout rangé.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
+- [Paul K. Johnson, seulement balsa](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm)
+
+## Deviation
+
+Voici comment j'ai configuré le logiciel de l'émetteur Jumper.
+D'abord pour mettre un minuteur proportionel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée Throttle qui varie de -100 à +100 vers un canal variant entre 0 et +100.
+
+~~~
+[virtchan1]
+name=gaz100
+template=simple
+[mixer]
+src=THR
+dest=Virt1
+scalar=50
+offset=50
+curvetype=expo
+points=0,0
+~~~
+
+Puis je programme deux minuteur. Un premier commandé par l'interrupteur H, qui compte juste le temps de vol. Puis un deuxième qui est un compte à rebours, qui diminue proportionnelement au canal Virt1.
+
+~~~
+[timer1]
+src=SW H1
+resetsrc=SW H0
+[timer2]
+type=cntdn-prop
+src=Virt1
+resetsrc=SW H0
+time=360
+~~~
+
+Pour les ailerons j'ai programmé les canaux 1 et 5, pour l'aileron gauche et droite. Sur l'interrupteur C2 je les mets tous les deux en position haute maximale.  Avec mon règlage les ailerons débattent de +/- 1 centimètre et l'aérofrein monte à +3cm.
+
+~~~
+[channel1]
+template=complex
+[mixer]
+src=AIL
+dest=Ch1
+scalar=60
+[mixer]
+src=AIL
+dest=Ch1
+switch=SW C2
+scalar=-125
+curvetype=fixed
+
+[channel5]
+template=complex
+[mixer]
+src=AIL
+dest=Ch5
+scalar=60
+[mixer]
+src=AIL
+dest=Ch5
+switch=SW C2
+curvetype=fixed
+~~~
 
 ## Drones
 
