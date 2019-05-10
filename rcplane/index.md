@@ -46,7 +46,7 @@ C'est difficile de trouver du matériel équivalent en France.
 ## Deviation
 
 Voici comment j'ai configuré le logiciel de l'émetteur Jumper.
-D'abord pour mettre un minuteur proportionel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée Throttle qui varie de -100 à +100 vers un canal variant entre 0 et +100.
+D'abord pour mettre un minuteur proportionel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée *Throttle* qui varie de -100 à +100 vers un canal variant entre 0 et +100.
 
 ~~~
 [virtchan1]
@@ -61,7 +61,7 @@ curvetype=expo
 points=0,0
 ~~~
 
-Puis je programme deux minuteur. Un premier commandé par l'interrupteur H, qui compte juste le temps de vol. Puis un deuxième qui est un compte à rebours, qui diminue proportionnelement au canal Virt1.
+Puis je programme deux minuteurs, les deux commandés par l'interrupteur H. Le premier compte juste le temps de vol. Le deuxième est un compte à rebours, qui diminue proportionnelement au canal Virt1.
 
 ~~~
 [timer1]
@@ -74,7 +74,7 @@ resetsrc=SW H0
 time=360
 ~~~
 
-Pour les ailerons j'ai programmé les canaux 1 et 5, pour l'aileron gauche et droite. Sur l'interrupteur C2 je les mets tous les deux en position haute maximale.  Avec mon règlage les ailerons débattent de +/- 1 centimètre et l'aérofrein monte à +3cm.
+Pour les ailerons j'ai programmé les canaux 1 et 5, pour l'aileron gauche et droite. Sur l'interrupteur C2 je les mets tous les deux en position haute maximale, ce qui est la position de l'aérofrein.  Avec mon règlage les ailerons débattent de +/- 1 centimètre et l'aérofrein monte à +3cm.
 
 ~~~
 [channel1]
@@ -167,9 +167,8 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 - Le fuselage est en forme de boîte en dépron 5mm.
 - Le stabilisateur horizontal est démontable.
-- [Voici](model3.ini) le fichier de configuration pour notre radio commande sous Deviation.
 
-![](https://photos.app.goo.gl/r7ZCCruSGqaFpYWL7)
+![](newton_pusher_freres.jpg)
 
 
 ## Monde
