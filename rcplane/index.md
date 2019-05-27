@@ -153,12 +153,6 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 - Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
 - [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
-## Modèles
-
-Les modèles que j'aime bien, et que j'aimerais fabriquer.
-
-- [Newton Airlines 3 channel trainer](http://newtonairlines.blogspot.com/2015/12/simple-3-channel-trainer.html) j'ai déplacé les servos dans le fuselage pour gagner de poids et j'ai mis des ailerons et des bouts d'ailes arrondis, sans dièdre.
-- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 
 ## Mes avions
 
@@ -168,6 +162,13 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 Et d'autres modèles sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
+## Modèles
+
+Les modèles que j'aime bien, et que j'aimerais fabriquer.
+
+- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
+- [Pyth 700](http://www.jivaro-models.org/pyth700/page_pyth_700.html) une aile volante pour l'adrénaline. Facile à fabriquer et très solide.
+- [Piper 120cm en Balsa](https://fr.aliexpress.com/item/32823979442.html)
 
 ## Monde
 
