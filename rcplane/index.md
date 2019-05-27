@@ -163,7 +163,7 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 ## Mes avions
 
 1. [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
-2. Notre [a_newton_pusher](version) du planeur de Andrew Newton.
+2. Notre [version](a_newton_pusher) du planeur de Andrew Newton.
 3. [Le planeur libellule](libellule)
 
 Et d'autres modèles sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
