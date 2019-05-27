@@ -43,4 +43,4 @@ Fabriqué en carton plume, recouvert d'un film épais, issue d'un publicité pou
 
 Au bout d'une minute de vol. En tentant d'attérir je suis entré dans un arbre.  Erreur 1: mauvaise position par rapport au soleil. Erreur 2: mauvaise prise en compte de la dérive par le vent. J'ai réparé en remplaçant une partie par du dépron, poncé pour reprendre la forme et recouvert de deux couches de fibre de verre.
 
-![](repair1.JPG)
+![](repair1.jpg)
