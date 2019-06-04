@@ -19,6 +19,10 @@ D'abord j'ai fait une boîte en forme de T pour transporter le *newton pusher*.
 
 ![](T.jpg)
 
-Puis une fois que j'avais rendu l'empennage complètement démontable, comme sur cette photo j'ai pu faire une boîte plus petite.
+Puis j'ai rendu l'empennage complètement démontable, comme sur cette photo.
+
+![](empennage_demontable.jpg)
+
+Ce qui m'a permis de faire une boîte plus petite.
 
 ![](boite_pour_demontable.jpg)
