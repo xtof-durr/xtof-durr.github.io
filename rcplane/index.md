@@ -3,6 +3,7 @@ title: Mon abécédaire de l'aéromodélisme
 lang: fr-FR
 ---
 
+| The Wright Bothers weren't the first to fly. They were just the first not to crash.
 
 ## Armin Wing
 
@@ -11,7 +12,7 @@ Une construction d'aile en dépron, décrite par Ed de [Experimental Airlines](h
 ## Canaux
 
 Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
-Écrire AETR ou AgETRAd près du récepteur pour mémoriser l'ordre de connexion. Également marquer les câbles pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
+Écrire AETR ou AETRA près du récepteur pour mémoriser l'ordre de connexion (le premier A en rouge, le dernier en vert). Également marquer les câbles pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
 
 1. left aileron
 2. elevator
@@ -36,7 +37,7 @@ Plusieurs sites web ou canaux vidéos que je j'aime.
 
 - [FliteTest](https://www.flitetest.com/) des vidéos très professionnels, avec des américains qui se la pêtent un peu, et vendent leur kits de fabrication.  Ils font tout avec du Dollar Tree Foam  et de la colle chaude. Fabrication rapide.
 C'est difficile de trouver du matériel équivalent en France.
-- [Experimental Airlines](https://www.youtube.com/user/ExperimentalAirlines) : un autre américain, apprend bien comment faire des ailes, recouvrir de ruban adhésif la surface.  Des constructions simples et robustes.
+- [Experimental Airlines](https://www.youtube.com/user/ExperimentalAirlines) : un autre américain, apprend bien comment faire des ailes, recouvrir de ruban adhésif la surface.  Des constructions simples et robustes. A arrêté ce loisir depuis quelques années.
 - [Andrew Newton](http://newtonairlines.blogspot.com/) un australien, qui a la chance d'aller voler facilement au bord d'une pente au bord de la mer.  Beaucoup de comparaison de matériels.
 - [Erwin Beizeiten](https://www.youtube.com/channel/UCjSQBeTUKgqESVG9P7XJhmg) un autrichien qui construit dans un atelier tout rangé.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
