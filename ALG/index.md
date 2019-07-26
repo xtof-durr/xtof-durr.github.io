@@ -2,7 +2,7 @@
 title: Algorithmique avancée
 ---
 
-École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://www.isia.ecp.fr/welcome_to_www_ecp_fr_cms_site_isia/isia___formation/cours_tronc_commun) - cours IS3005AD
+École Centrale-Supélec - parcours Informatique et Systèmes Avancés - [Tronc commun](http://option-isia.centralesupelec.fr/en/node/119) - cours IS3005AD
 
 intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim Thắng](https://www.ibisc.univ-evry.fr/~thang/)
 
@@ -17,85 +17,105 @@ intervenants: [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), [Nguyễn Kim
 # Plan du cours
 
 > Ce plan peut être sujet à des ajustements.
-> Toutes les séances sont de 8h30 à 11h45, dans l'amphi F209 pour le cours, puis en F209 et F207 pour les petites classes.
+> Toutes les séances sont de 8h30 à 10h00, puis de 10h15 à 11h45, dans l'amphi F3.05 Breguet pour le cours, puis en F209 et F210 pour les petites classes.
 
-### 1. (Vendredi 14 sep 2018) — Diviser pour régner et algorithmes gloutons
+### 1. (Vendredi 13 sep 2019) — Techniques classiques : Diviser pour régner, algorithmes gloutons et programmation dynamique : cours
 
-cours 11:00-12:30
+Les deux séances sont dans l'amphi F3.05
 
-Introduction.  Diviser pour régner: Compter le nombre d'inversions en O(n log n).
+Introduction.  
+
+Diviser pour régner: Compter le nombre d'inversions en O(n log n).
+
 Glouton: Ordonnancement d'intervalles.  Ordonnancer sur une machine pour minimiser le temps d'attente pondéré.
-
-### 1. (Lundi 17 sep 2018) — Diviser pour régner et algorithmes gloutons
-
-[exercices](pc1/pc1.pdf). 10:15-11:45
-
-Exercice des cartes bancaires.
-Placement d'antennes.
-Problème de cache.
-
-### 2. (Mercredi 19 sep 2018) - Programmation dynamique
 
 Plus long/court chemin dans un graphe orienté acyclique.
 Plus longue sous séquence commune.
 Multiplication d'une séquence de matrices.
 Voyageur de commerce.
 
+### 2. (Lundi 16 sep 2019) — Techniques classiques : exercices
 
-[exercices](pc2/pc2.pdf). [corrigés, mise à jour le 11oct2018](cor/cor1.pdf). Arbre binaire de recherche optimal.
+Les deux séances sont dans les salles F209 et F210.
+
+[exercices](pc1/pc1.pdf) :
+Exercice des cartes bancaires.
+Placement d'antennes.
+Problème de cache.
+
+[exercices](pc2/pc2.pdf) :   
+Arbre binaire de recherche optimal.
 Distance d'édition de Levenshtein.
 Corriger un mot bien parenthésé.
 Parenthéser une expression booléenne.
 Partage équitable.
 Rendu de monnaie.
 
-### 3. (Lundi 24 sep 2018) - Algorithme par balayage
+[//]: # [corrigés](cor/cor1.pdf).
+
+### 3. (Lundi 23 sep 2019) - Programmation dynamique
+
+La première séance est dans l'amphi F3.05 et la deuxième dans les salles F209 et F2010. Il en sera de même les autres semaines.
+
+
+### 4. (Lundi 30 sep 2019) - Algorithme par balayage
 
 Plus longue sous séquence croissante.
 Plus grand rectangle sous un histogramme.
 
-[exercices](pc3/pc3.pdf).  [corrigés](pc3/cor3). Plus grand carré dans une grille.
+[exercices](pc3/pc3.pdf) :
+Plus grand carré dans une grille.
 Plus long chemin dans un arbre.
 Jeux avec des pièces alignées.
 Pavage par des dominos.
 
-### 4. (Lundi 1 oct 2018) - Flots et coupes 1
+<!-- [corrigés](pc3/cor3). -->
+
+### 5. (Lundi 14 oct 2019) - Flots et coupes 1
 
 Théorème max-flot min-coupe.
 Algorithme de Ford Fulkerson.
 Amélioration de Edmonds-Karp.
 
-[exercices](pc4/pc4.pdf).  [corrigés](pc4/cor4). Problèmes réduisant au problème du flot maximum.
+[exercices](pc4/pc4.pdf) : Problèmes réduisant au problème du flot maximum.
+
+[//]: #  [corrigés](pc4/cor4).
 
 Annonce [devoir maison](dm). [Éléments de correction](dm/cor_dm).
 
-### 5. (Lundi 8 oct 2018) - Flots et coupes 2
+### 6. (Lundi 21 oct 2019) - Flots et coupes 2
 
-[exercices](pc5/pc5.pdf).  [corrigés](pc5/cor5). 
+<!-- [corrigés](pc5/cor5). -->
+
+[exercices](pc5/pc5.pdf) :  
 Algorithme de Dinic ou de Goldberg et Tarjan.
 Couverture par sommets dans les graphes bipartis (Bipartite Vertex Cover).
 
 Problèmes réduisant au problème du couplage.
 
 
-### 6. (Lundi 15 oct 2018) - NP-complétude
+### 7. (Lundi 28 oct 2019) - NP-complétude
 
 Les classes P, NP.  Preuves de NP-complétude.
 Réductions.
 Exemples: partition, Vertex Cover, etc.
 
-[exercices](pc6/pc6.pdf).  [corrigés](pc6/cor6). 
+[exercices](pc6/pc6.pdf).
 
-### 7. (Vendredi 19 oct 2018) - Algorithmes d'approximations
+ <!-- [corrigés](pc6/cor6). -->
+
+### 8. (Lundi 18 nov 2019) - Algorithmes d'approximations
 
 Algorithme de Christofides pour le problème de voyageur de commerce.
 Bin packing, 2-approximation et schema d'approximation asymptotique.
 
-[exercices](pc7/pc7.pdf). [corrigés, mis à jour 19/oct/2018](pc7/cor7). 
+[exercices](pc7/pc7.pdf).
 Couverture par sommets (Vertex Cover).
 Couverture des ensembles (Set Cover).
 
-### 8. (Lundi 22 oct 2018) - Algorithmes randomisés
+<!-- [corrigés](pc7/cor7). -->
+
+### 9. (Lundi 25 nov 2019) - Algorithmes randomisés
 
 Rappel probabilités.
 Coupe minimale dans un graphe.
@@ -104,13 +124,12 @@ Collecteur de coupons.
 Boules dans des urnes.
 Quicksort. (evt. Uwe Schoening pour 2-SAT)
 
-### -1. (Lundi 22 novembre 2018) - Examen
+### -1. (Lundi 16 novembre 2018) - Examen
 
-de 13:45  à  16:45.
 
 Toutes les notes sont autorisées.  Mais pas de livres.
 Ni de calculatrices.
 
+Pour vous entraîner :
 [corrigé de l'examen](examens/examen_2018.pdf),
 [corrigé du rattrapage](examens/rattr_2019.pdf)
-

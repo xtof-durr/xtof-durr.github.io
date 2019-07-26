@@ -1,0 +1,6 @@
+_sass
+_site
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
