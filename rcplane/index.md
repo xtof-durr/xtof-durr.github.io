@@ -193,6 +193,18 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 [The paper airplane guy](https://www.youtube.com/watch?v=3BNg4fDJC8A&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=4&t=384s)
 
+## Pitcheron
+
+Quand les ailes entiers tournent autour d'un axe, gauche et droite indépendament. Permet de simuler la profondeur et les ailerons.
+Sur la radio commande faire les mêmes règlages comme pour une aile volante je pense.
+
+D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-How-to-set-up-a-pitcheron):
+
+- To go down, the leading edge (LE) of both wings goes down
+- To bank right, right wing LE goes down, left LE goes up
+- To bank left, vice versa of above
+
+
 ## Simulateur
 
 J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
