@@ -204,6 +204,9 @@ D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-H
 - To bank right, right wing LE goes down, left LE goes up
 - To bank left, vice versa of above
 
+## Sandow
+
+Propulser un planeur par treuil élestique, c'est expliqué en [français](http://www.aeromod.eu/Catapulte_fra.htm) et en [anglais](https://www.instructables.com/id/Greenest-Way-to-Fly-RC/).
 
 ## Simulateur
 
