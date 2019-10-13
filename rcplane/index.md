@@ -1,4 +1,4 @@
----
+--
 title: Mon abécédaire de l'aéromodélisme
 lang: fr-FR
 ---
@@ -7,7 +7,7 @@ lang: fr-FR
 
 ## Armin Wing
 
-Une construction d'aile en dépron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.
+Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.
 
 ## Canaux
 
@@ -153,15 +153,15 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 ## Marouflage
 
 - Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
-- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un coeur dépron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
+- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un cœur depron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
 
 ## Mes avions
 
 - [MinimumRC CJ-6](https://fr.aliexpress.com/item/32826439827.html) --- Ma première construction. L'électronique est difficile à acheter, en tout cas à un prix raisonnable.  Leçon d'un premier vol : il faut absolument des ailerons pour une aile basse, sinon ce n'est pas stable.
 - [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
-- [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, recepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
-- Notre [version](a_newton_pusher) du planeur de Andrew Newton.
+- [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
+- Notre [version](a_newton_pusher) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.
 - [Le planeur libellule](libellule)
 - Planeur Savattero 60 --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler.
