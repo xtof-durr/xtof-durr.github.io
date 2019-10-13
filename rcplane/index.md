@@ -163,7 +163,7 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 - [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
 - Notre [version](a_newton_pusher) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.
 - [Le planeur libellule](libellule)
-- Planeur Savattero 60 --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
+- [Planeur Savattero 60](https://photos.app.goo.gl/FyKPBxDqGvVzvd3W8) --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler.
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
