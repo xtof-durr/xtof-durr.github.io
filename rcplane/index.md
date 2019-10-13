@@ -164,7 +164,7 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 - Notre [version](a_newton_pusher) du planeur de Andrew Newton.
 - [Le planeur libellule](libellule)
 - Planeur Savattero 60 --- première création personnelle, inspiré de ce (planeur)[https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance] --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
-- Planeur LIDL avec des ailes à incidence intégrale. Intéressant à voler.
+- (Planeur LIDL)[LIDL-pitcherons] avec des ailes à incidence intégrale. Intéressant à voler.
 
 Certains photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
