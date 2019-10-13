@@ -45,7 +45,7 @@ C'est difficile de trouver du matériel équivalent en France.
 
 ## Deviation
 
-C'est le logiciel qui tourne sur ma radio commande, (Jumper T8SG)[https://www.banggood.com/Jumper-T8SG-V2_0-Plus-Hall-Gimbal-Multi-protocol-Advanced-2_7-OLED-Transmitter-for-Flysky-Frsky-p-1257102.html].  J'ai choisi cette radio commande pour pouvoir parler à des récepteurs de plusieurs marques.  Avec un peu de bricolage on peut la faire (parler)[https://www.deviationtx.com/wiki/voiceoutput].  
+C'est le logiciel qui tourne sur ma radio commande, [Jumper T8SG](https://www.banggood.com/Jumper-T8SG-V2_0-Plus-Hall-Gimbal-Multi-protocol-Advanced-2_7-OLED-Transmitter-for-Flysky-Frsky-p-1257102.html).  J'ai choisi cette radio commande pour pouvoir parler à des récepteurs de plusieurs marques.  Avec un peu de bricolage on peut la faire [parler](https://www.deviationtx.com/wiki/voiceoutput). Gadget? En tout cas on a un retour des commandes sans perdre des yeux son avion.  
 
 Voici comment j'ai configuré le logiciel de l'émetteur Jumper.
 D'abord pour mettre un minuteur proportionnel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée *Throttle* qui varie de -100 à +100 vers un canal variant entre 0 et +100.
@@ -221,7 +221,7 @@ Propulser un planeur par treuil élastique, c'est expliqué en [français](http:
 J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
 Nécessite une manette connecté en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coûtait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
 
-La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai pas encore réussit à l'utiliser.  [https://github.com/davyloots/rcdeskpilot](Rc Desk Pilot) est un autre projet sous licence GNU.  Je n'ai pas trouvé d'exécutable à télécharger, mais on peut le compiler.
+La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai pas encore réussit à l'utiliser.  [RC Desk Pilot](https://github.com/davyloots/rcdeskpilot) est un autre projet sous licence GNU.  Je n'ai pas trouvé d'exécutable à télécharger, mais on peut le compiler.
 
 On peut connecter son émetteur via le port d'écolage à l'entrée audio de l'ordinateur et utiliser le programme [SmartPropoPlus] pour émuler un Joystick.  Ceci ne fonctionne pas avec Phoenix.
 
