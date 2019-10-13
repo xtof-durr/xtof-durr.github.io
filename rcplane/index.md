@@ -19,7 +19,6 @@ Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
 3. throttle
 4. rudder
 5. right aileron
-6. flaps
 
 ## Clubs
 
@@ -46,8 +45,10 @@ C'est difficile de trouver du matériel équivalent en France.
 
 ## Deviation
 
+C'est le logiciel qui tourne sur ma radio commande, (Jumper T8SG)[https://www.banggood.com/Jumper-T8SG-V2_0-Plus-Hall-Gimbal-Multi-protocol-Advanced-2_7-OLED-Transmitter-for-Flysky-Frsky-p-1257102.html].  J'ai choisi cette radio commande pour pouvoir parler à des récepteurs de plusieurs marques.  Avec un peu de bricolage on peut la faire (parler)[https://www.deviationtx.com/wiki/voiceoutput].  
+
 Voici comment j'ai configuré le logiciel de l'émetteur Jumper.
-D'abord pour mettre un minuteur proportionel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée *Throttle* qui varie de -100 à +100 vers un canal variant entre 0 et +100.
+D'abord pour mettre un minuteur proportionnel à la commande moteur, je dois créer un canal virtuel, appelé disons "gaz100".  L'idée est de traduire l'entrée *Throttle* qui varie de -100 à +100 vers un canal variant entre 0 et +100.
 
 ~~~
 [virtchan1]
@@ -121,13 +122,13 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 ## polystyrène expansé
 
-Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface.
+Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface. Si du ruban adhésif n'adhère pas, on peut passer d'abord une fine couche de colle universelle diluée pour lisser la surface.
 
 ![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
 
 ## polypropylène expansé, ou EPP
 
-C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur. Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.
+C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur, puis la plier sur un tube ou un coin de table arrondi. Il parait que de la vapeur d'eau ou un sèche cheveux peut aussi faire l'affaire, mais je n'ai pas réussi, pas assez chaud.  Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.  De toute façon recouvrir cette mousse permet de la rendre plus solide. Par exemple avec un ruban adhésif coloré, comme ceux vendus par exemple chez Leroy Merlin pour les déménagements (une couleur par chambre). Sinon voir la section Marouflage.
 
 ![(C) Jivaro models](http://www.jivaro-models.org/p47_thunderbolt/012s.jpg)
 
@@ -157,19 +158,25 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 
 ## Mes avions
 
-1. [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
-2. Notre [version](a_newton_pusher) du planeur de Andrew Newton.
-3. [Le planeur libellule](libellule)
+- [MinimumRC CJ-6](https://fr.aliexpress.com/item/32826439827.html) --- Ma première construction. L'électronique est difficile à acheter, en tout cas à un prix raisonnable.  Leçon d'un premier vol : il faut absolument des ailerons pour une aile basse, sinon ce n'est pas stable.
+- [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
+- [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, recepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
+- Notre [version](a_newton_pusher) du planeur de Andrew Newton.
+- [Le planeur libellule](libellule)
+- Planeur Savattero 60 --- première création personnelle, inspiré de ce (planeur)[https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance] --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
+- Planeur LIDL avec des ailes à incidence intégrale. Intéressant à voler.
 
-Et d'autres modèles sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
+Certains photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
 ## Modèles
 
 Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
+- [Piper Cherokee](http://paper-replika.com/index.php?option=com_content&view=article&id=9597:piper-cherokee-rc-plane&catid=144:rc-projects&Itemid=207908) par [Julius Perdana](https://www.youtube.com/channel/UC64lnLfKm09f13iayaCOX0A), un Indonésien très doué et sympathique.
 - [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 - [Pyth 700](http://www.jivaro-models.org/pyth700/page_pyth_700.html) une aile volante pour l'adrénaline. Facile à fabriquer et très solide.
 - [Piper 120cm en Balsa](https://fr.aliexpress.com/item/32823979442.html)
+
 
 ## Monde
 
@@ -195,8 +202,9 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 ## Pitcheron
 
-Quand les ailes entiers tournent autour d'un axe, gauche et droite indépendament. Permet de simuler la profondeur et les ailerons.
-Sur la radio commande faire les mêmes règlages comme pour une aile volante je pense.
+Aussi appelé *ailes à incidence intégrale*.
+Quand les ailes entiers tournent autour d'un axe, gauche et droite indépendamment. Permet de simuler la profondeur et les ailerons.
+Sur la radio commande faire les mêmes réglages comme pour une aile volante je pense.
 
 D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-How-to-set-up-a-pitcheron):
 
@@ -206,12 +214,12 @@ D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-H
 
 ## Sandow
 
-Propulser un planeur par treuil élestique, c'est expliqué en [français](http://www.aeromod.eu/Catapulte_fra.htm) et en [anglais](https://www.instructables.com/id/Greenest-Way-to-Fly-RC/).
+Propulser un planeur par treuil élastique, c'est expliqué en [français](http://www.aeromod.eu/Catapulte_fra.htm) et en [anglais](https://www.instructables.com/id/Greenest-Way-to-Fly-RC/).
 
 ## Simulateur
 
 J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
-Nécessite une manette connecté en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coutait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
+Nécessite une manette connecté en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coûtait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
 
 La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai pas encore réussit à l'utiliser.  [https://github.com/davyloots/rcdeskpilot](Rc Desk Pilot) est un autre projet sous licence GNU.  Je n'ai pas trouvé d'exécutable à télécharger, mais on peut le compiler.
 
