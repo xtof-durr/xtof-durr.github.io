@@ -39,9 +39,13 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Experimental Airlines](https://www.youtube.com/user/ExperimentalAirlines) : un autre américain, apprend bien comment faire des ailes, recouvrir de ruban adhésif la surface.  Des constructions simples et robustes. A arrêté ce loisir depuis quelques années.
 - [Andrew Newton](http://newtonairlines.blogspot.com/) un australien, qui a la chance d'aller voler facilement au bord d'une pente au bord de la mer.  Beaucoup de comparaison de matériels.
 - [Erwin Beizeiten](https://www.youtube.com/channel/UCjSQBeTUKgqESVG9P7XJhmg) un autrichien qui construit dans un atelier tout rangé.
-- [Papy Kilowatt](http://papykilowatt.free.fr/) un français qui avait atteint un niveau de précision et de réalisme incroyable.
+- [Papy Kilowatt](http://papykilowatt.free.fr/) un belge qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 - [Paul K. Johnson, seulement balsa](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm)
+
+## Découpe par ordinateur
+
+- [CncFab](https://cncfab.renaudiltis.com/) par Renaud Iltis.
 
 ## Deviation
 
@@ -120,13 +124,21 @@ Voici des avions propulsés par un moteur avec élastique.
 
 Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pièce délicate à transporter d'autant plus qu'elle doit être super legère. Chaque gramme de plus dans l'empennage nécessite peut être 3 grammes de plus dans le nez.  [Voici](https://mikaeromodelisme.wordpress.com/2013/08/31/empennage-papillon-demontable/) une jolie méthode pour rendre le tout démontable.
 
-## polystyrène expansé
+## Mousses
+
+Voici différentes mousses qui servent pour la construction.
+
+### GVector
+
+Une mousse vendue par [Graupner](https://www.modelisme.com/forum/aero-construction/207566-construire-vector-board.html), en planches de 1m fois 30cm.  Je ne l'ai pas encore essayé ni vue de mes propres yeux.
+
+### polystyrène expansé
 
 Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface. Si du ruban adhésif n'adhère pas, on peut passer d'abord une fine couche de colle universelle diluée pour lisser la surface.
 
 ![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
 
-## polypropylène expansé, ou EPP
+### polypropylène expansé, ou EPP
 
 C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur, puis la plier sur un tube ou un coin de table arrondi. Il parait que de la vapeur d'eau ou un sèche cheveux peut aussi faire l'affaire, mais je n'ai pas réussi, pas assez chaud.  Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.  De toute façon recouvrir cette mousse permet de la rendre plus solide. Par exemple avec un ruban adhésif coloré, comme ceux vendus par exemple chez Leroy Merlin pour les déménagements (une couleur par chambre). Sinon voir la section Marouflage.
 
@@ -138,7 +150,7 @@ C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec u
 |rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
 | [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  |
 
-## polypropylène extrudé
+### polypropylène extrudé
 
 C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un nez d'avion dans ce matériel est idéal pour absorber les chocs. Difficile de traiter la surface, comme elle n'est pas lisse, les rubans adhésifs n'adhèrent pas. Un peu trop flexible pour fabriquer le reste de l'avion avec cette mousse.
 
