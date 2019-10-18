@@ -3,7 +3,7 @@ title: Mon abécédaire de l'aéromodélisme
 lang: fr-FR
 ---
 
-    The Wright Bothers weren't the first to fly. They were just the first not to crash.
+    Ahhh ... fais gaffe quand même !
 
 ## Armin Wing
 
@@ -161,6 +161,11 @@ C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un 
 Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcément une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
 
 - [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
+
+## Frein moteur
+
+Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionnalité qui se programme sur le ESC. Sans le frein, quand le moteur est à l’arrêt il reste en rotation libre, et l'hélice continue à tourner sous l'effet du vent, et augmente ainsi la résistance dans l'air. Avec le frein, le moteur a une résistance interne à l’arrêt et en général l'hélice reste immobile et parfois bien alignée avec l'aile.  Autre avantage : à l'atterrissage l'hélice risque moins de casser. 
+
 
 ## Marouflage
 
