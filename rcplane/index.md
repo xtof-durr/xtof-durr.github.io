@@ -124,6 +124,12 @@ Voici des avions propulsés par un moteur avec élastique.
 
 Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pièce délicate à transporter d'autant plus qu'elle doit être super legère. Chaque gramme de plus dans l'empennage nécessite peut être 3 grammes de plus dans le nez.  [Voici](https://mikaeromodelisme.wordpress.com/2013/08/31/empennage-papillon-demontable/) une jolie méthode pour rendre le tout démontable.
 
+## Hayao Miyazaki
+
+- [Flaptter 19-5 of LAPUTA Castle in the Sky](https://www.youtube.com/watch?v=a6dGygmGo8M&t=175s)
+- [Nausicaa avec pilote humain](https://www.youtube.com/watch?v=X0x7GS53EbA)
+- [Nausicaa en radiocommandé](https://www.youtube.com/watch?v=4yYKNSY-TQI)
+
 ## Mousses
 
 Voici différentes mousses qui servent pour la construction.
