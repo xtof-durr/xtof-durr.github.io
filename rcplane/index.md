@@ -193,9 +193,9 @@ Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionn
 - Notre [version](a_newton_pusher) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.
 - [Le planeur libellule](libellule)
 - [Planeur Savattero 60](https://photos.app.goo.gl/FyKPBxDqGvVzvd3W8) --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
-- Micro Sky Walker: conception de Andrew Newton
-- LIDL Flying Wing
-- Slowly: conception de Christian Huber
+- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter): un petit avion bien pour le vol en immersion.  Conception Andrew Newton.
+- LIDL Newfidl: conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s)
+- [Slowly](https://www.rcgroups.com/forums/showthread.php?1686460-Sowly-A-magnificent-Land-and-Lake-Build): conception Christian Huber
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
@@ -204,7 +204,6 @@ Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 - [Piper Cherokee](http://paper-replika.com/index.php?option=com_content&view=article&id=9597:piper-cherokee-rc-plane&catid=144:rc-projects&Itemid=207908) par [Julius Perdana](https://www.youtube.com/channel/UC64lnLfKm09f13iayaCOX0A), un Indonésien très doué et sympathique.
-- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter) un petit avion bien pour le vol en immersion.  Peut-être il serait bien avec un empannage en A.
 - [Pyth 700](http://www.jivaro-models.org/pyth700/page_pyth_700.html) une aile volante pour l'adrénaline. Facile à fabriquer et très solide.
 - [Piper 120cm en Balsa](https://fr.aliexpress.com/item/32823979442.html)
 
