@@ -42,6 +42,8 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un belge qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 - [Paul K. Johnson, seulement balsa](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm)
+- [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique.
+- [Julius Perdana](https://www.youtube.com/user/julescrafter) un malaisien. Fait de beaux modèles et montre tous les détails.
 
 ## Découpe par ordinateur
 
