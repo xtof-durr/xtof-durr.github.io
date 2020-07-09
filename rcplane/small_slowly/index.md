@@ -3,7 +3,7 @@ title: Christian Huber Slowly (version petite)
 lang: fr-FR
 ---
 
-![](nutball.JPG)
+![](small_slowly.JPG)
 
 ## Small Slowly
 
@@ -11,3 +11,8 @@ C'est la petite version de l'avion *Slowly* conçu par Christian Huber. Il vole 
 
 Le moteur est conçu pour un avion de 35 grams, alors que celui-ci en pèse 60.  Résultat, il peine à prendre de l'altitude et en cas de vent vole prèsque sur place.
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="path/to/small_slowly.mp4" type="video/mp4">
+  </video>
+</figure>

@@ -3,7 +3,7 @@ title: micro sky hunter
 lang: fr-FR
 ---
 
-![](https://photos.app.goo.gl/ZAySsyWsz6DLMibU8)
+![](micro_sky_hunter.jpg)
 
 ## Micro Sky Hunter
 
