@@ -9,6 +9,10 @@ lang: fr-FR
 
 Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.
 
+## Atterissage
+
+[Voici](https://www.modelairplanenews.com/land-like-a-pro/#visitor_pref_pop) la procédure bien décrite.
+
 ## Canaux
 
 Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
@@ -136,17 +140,17 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 Voici différentes mousses qui servent pour la construction.
 
-### GVector
+### Mousse GVector
 
 Une mousse vendue par [Graupner](https://www.modelisme.com/forum/aero-construction/207566-construire-vector-board.html), en planches de 1m fois 30cm.  Je ne l'ai pas encore essayé ni vue de mes propres yeux.
 
-### polystyrène expansé
+###  Mousse polystyrène expansé
 
 Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair.  Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface. Si du ruban adhésif n'adhère pas, on peut passer d'abord une fine couche de colle universelle diluée pour lisser la surface.
 
 ![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
 
-### polypropylène expansé, ou EPP
+###  Mousse polypropylène expansé, ou EPP
 
 C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur, puis la plier sur un tube ou un coin de table arrondi. Il parait que de la vapeur d'eau ou un sèche cheveux peut aussi faire l'affaire, mais je n'ai pas réussi, pas assez chaud.  Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.  De toute façon recouvrir cette mousse permet de la rendre plus solide. Par exemple avec un ruban adhésif coloré, comme ceux vendus par exemple chez Leroy Merlin pour les déménagements (une couleur par chambre). Sinon voir la section Marouflage.
 
@@ -158,7 +162,7 @@ C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec u
 |rogier et plé, mouse recouvert de papier kraft | 414 g/m^2  |
 | [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  |
 
-### polypropylène extrudé
+###  Mousse polypropylène extrudé
 
 C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un nez d'avion dans ce matériel est idéal pour absorber les chocs. Difficile de traiter la surface, comme elle n'est pas lisse, les rubans adhésifs n'adhèrent pas. Un peu trop flexible pour fabriquer le reste de l'avion avec cette mousse.
 
@@ -189,15 +193,16 @@ Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionn
 - [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
 - [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler. Mais trop difficile à rattraper quand il décroche. 
+- [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Conception Andrew Newton.
 
 ### vivants
 
 - Notre [version](a_newton_pusher) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.
 - [Le planeur libellule](libellule)
 - [Planeur Savattero 60](https://photos.app.goo.gl/FyKPBxDqGvVzvd3W8) --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
-- [Micro Skyhunter](http://newtonairlines.blogspot.com/search/label/-%20Micro%20Skyhunter): un petit avion bien pour le vol en immersion.  Conception Andrew Newton.
 - LIDL Newfidl: conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s)
 - [Slowly](https://www.rcgroups.com/forums/showthread.php?1686460-Sowly-A-magnificent-Land-and-Lake-Build): conception Christian Huber
+- [Small Slowly](small_slowly): le même en petit
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
@@ -222,7 +227,7 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 [Inde (Bengal)](https://www.youtube.com/watch?v=phg_-ze8iuE&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=10&t=0s),
 [Inde, dans les arrières cours](https://www.youtube.com/watch?v=LU1qoYxjeyw&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=6&t=0s),
 [Japon](https://www.youtube.com/watch?v=JmRkxZT4XhY),
-[Malaisie](https://www.youtube.com/watch?v=3lq_Rbq6jxo&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=9&t=0s),
+[Indonésie](https://www.youtube.com/watch?v=3lq_Rbq6jxo&list=PLRvRak4_g1MFiVh4VyPWio8DHTZhcE5xQ&index=9&t=0s),
 [Maroc](https://www.youtube.com/watch?v=EZlvMI35p5I&t=5s),
 [Suisse](https://www.youtube.com/watch?v=xa-jmbQRw_8),
 [Thailand](https://www.youtube.com/watch?v=148qPteAXQ0),
@@ -251,13 +256,13 @@ Propulser un planeur par treuil élastique, c'est expliqué en [français](http:
 ## Simulateur
 
 J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
-Nécessite une manette connecté en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coûtait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
+Nécessite une manette connectée en USB. N'a pas fonctionné avec l'émetteur Jumper T8SG. J'ai utilisé [cette](https://www.banggood.com/Wholesale-Httpwww_banggood_comWholesale-6CH-G4-XTR5_0-RC-Remote-Control-Flight-Simulator-For-Helicopter-Airplane-p-55419_html-p-55419.html?rmmds=myorder&cur_warehouse=CN) manette dédiée à la simulation, qui fonctionne très bien (mais coûtait beaucoup moins, de l'ordre de 15€, au moment de l'achat que maintenant).
 
 La plupart des simulateurs sont très chers. PicaSim est gratuit, mais je n'ai pas encore réussit à l'utiliser.  [RC Desk Pilot](https://github.com/davyloots/rcdeskpilot) est un autre projet sous licence GNU.  Je n'ai pas trouvé d'exécutable à télécharger, mais on peut le compiler.
 
 On peut connecter son émetteur via le port d'écolage à l'entrée audio de l'ordinateur et utiliser le programme [SmartPropoPlus] pour émuler un Joystick.  Ceci ne fonctionne pas avec Phoenix.
 
-J'ai fini par trouver une solution, qui me permet de commander le simulateur Phoenix avec la radio commande Jumper. C'est ce [dongle](https://www.aliexpress.com/item/22-in-1-RC-USB-Flight-Simulator-with-Cables-for-Realflight-G7-G6-G5-Aero-Fly/32835905606.html) qui se branche sur la sortie PPM avec le câble audio fourni.  Il faut alors créer un modèle au protocole PPM.
+J'ai fini par trouver une autre solution, qui me permet de commander le simulateur Phoenix avec la radio commande Jumper. C'est ce [dongle](https://www.aliexpress.com/item/22-in-1-RC-USB-Flight-Simulator-with-Cables-for-Realflight-G7-G6-G5-Aero-Fly/32835905606.html) qui se branche sur la sortie PPM avec le câble audio fourni.  Il faut alors créer un modèle au protocole PPM.
 
 On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows via le câble USB, avec un modèle via le protocole USBHID.  Mais je n'ai pas réussit à la faire fonctionner ainsi, avec différents simulateurs.
 
