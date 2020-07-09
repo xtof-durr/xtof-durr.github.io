@@ -13,6 +13,8 @@ Le moteur est conçu pour un avion de 35 grams, alors que celui-ci en pèse 60. 
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="path/to/small_slowly.mp4" type="video/mp4">
+    <source src="small_slowly.mp4" type="video/mp4">
+    <source src="small_slowly.ogv" type="video/ogv">
+    <source src="small_slowly.webm" type="video/webm">
   </video>
 </figure>
