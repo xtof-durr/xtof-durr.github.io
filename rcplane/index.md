@@ -16,7 +16,7 @@ Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](ht
 ## Canaux
 
 Voici l'association des canaux aux moteurs servos que j'utilise habituellement.
-Écrire AETR ou AETRA près du récepteur pour mémoriser l'ordre de connexion (le premier A en rouge, le dernier en vert). Également marquer les câbles pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
+Écrire AETR ou <span style="color: red;">A</span>ETR<span style="color: green;">A</span> près du récepteur pour mémoriser l'ordre de connexion (le premier A en rouge, le dernier en vert). Également marquer les câbles pour les servos ailerons avec des couleurs rouge (gauche) et vert (droite).
 
 1. left aileron
 2. elevator
@@ -178,6 +178,8 @@ Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on e
 
 Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionnalité qui se programme sur le ESC. Sans le frein, quand le moteur est à l’arrêt il reste en rotation libre, et l'hélice continue à tourner sous l'effet du vent, et augmente ainsi la résistance dans l'air. Avec le frein, le moteur a une résistance interne à l’arrêt et en général l'hélice reste immobile et parfois bien alignée avec l'aile.  Autre avantage : à l'atterrissage l'hélice risque moins de casser. 
 
+[Voici](https://www.youtube.com/watch?v=g5eUrI6vxco) une expérience convaincante sur la résistance d'une hélice avec ou sans frein moteur.
+
 
 ## Marouflage
 
@@ -193,16 +195,17 @@ Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionn
 - [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
 - [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler. Mais trop difficile à rattraper quand il décroche. 
-- [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Conception Andrew Newton.
+- [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton.
+- [Small Slowly](small_slowly): le même en petit.  Le moteur a laché.  De toute façon il était trop faible pour cet avion.
+- LIDL Newfidl: conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s). Je n'ai fait assez d'essais en altitude pour comprendre dans quelles conditions il décroche.
 
 ### vivants
 
 - Notre [version](a_newton_pusher) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.
 - [Le planeur libellule](libellule)
 - [Planeur Savattero 60](https://photos.app.goo.gl/FyKPBxDqGvVzvd3W8) --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
-- LIDL Newfidl: conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s)
 - [Slowly](https://www.rcgroups.com/forums/showthread.php?1686460-Sowly-A-magnificent-Land-and-Lake-Build): conception Christian Huber
-- [Small Slowly](small_slowly): le même en petit
+- [Piper Cherokee](cherokee)
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
@@ -210,7 +213,6 @@ Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
 
 Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
-- [Piper Cherokee](http://paper-replika.com/index.php?option=com_content&view=article&id=9597:piper-cherokee-rc-plane&catid=144:rc-projects&Itemid=207908) par [Julius Perdana](https://www.youtube.com/channel/UC64lnLfKm09f13iayaCOX0A), un Indonésien très doué et sympathique.
 - [Pyth 700](http://www.jivaro-models.org/pyth700/page_pyth_700.html) une aile volante pour l'adrénaline. Facile à fabriquer et très solide.
 - [Piper 120cm en Balsa](https://fr.aliexpress.com/item/32823979442.html)
 
@@ -270,6 +272,7 @@ On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows 
 ## Terrains
 
 Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler.
+Et le [site](https://map2fly.flynex.de/a/map/fn) correspondant pour l'Allemagne.
 
 ## Volets
 
