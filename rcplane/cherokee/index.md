@@ -19,7 +19,7 @@ Also my landing gears are a bit too short, and I should have used larger wheels.
 
 ## Thank you
 
-Thank you Julius Perdana for the design. I am very happy with this plane.
+Thank you [Julius Perdana](https://www.youtube.com/channel/UC64lnLfKm09f13iayaCOX0A) for the design. I am very happy with this plane.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">

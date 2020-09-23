@@ -17,7 +17,7 @@ Par rapport au plan [plan original](http://newtonairlines.blogspot.com/2015/12/s
 
 J'ai pris une plaque de dépron 6mm chauffée au décappeur et formée au dessus d'un tuyau de grand diamètre.  Ensuite une face est renforcé avec de la fibre de verre collée avec la colle universelle.  Pour l'attacher à l'aile j'ai eu du mal.  J'ai pris des petits morceaux d'une carte de crédit, et un scotch large sur la ligne de contact.
 
-## Mes boîtes de transport
+## Boîtes de transport
 
 D'abord j'ai fait une boîte en forme de T pour transporter le *newton pusher*.
 
