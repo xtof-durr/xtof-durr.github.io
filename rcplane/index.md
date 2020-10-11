@@ -5,9 +5,22 @@ lang: fr-FR
 
     Ahhh ... fais gaffe quand même !
 
-## Armin Wing
 
-Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.
+## Aile en Depron : Armin Wing
+
+![](aile_armin_wing.JPG)
+
+Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcé par une tige en carbonne.
+
+Cette construction permet de créer des ailes toutes droites seulement. D'ailleurs regerdez les modèles d'experimental airlines, comme le photon.  Pratiquement des rectangles assemblés.
+
+Si vous voulez des bouts d'ailes recourbées vers haut, il faut ruser un peu, arrêter les renforts intérieurs avant et coller parties hautes et bas, après leur avoir donné la forme voulue.
+
+##  Aile en Depron : dans le style de Julius Perdana
+
+![](aile_julius_perdana.JPG)
+
+Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est très épaisse et peut se passer d'un renfort.  Cette construction permet des formes intéressantes.
 
 ## Atterissage
 
@@ -136,6 +149,10 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 - [Nausicaa avec pilote humain](https://www.youtube.com/watch?v=X0x7GS53EbA)
 - [Nausicaa en radiocommandé](https://www.youtube.com/watch?v=4yYKNSY-TQI)
 
+## Liaison carbonne-fer
+
+![](liaison_carbon_fer.png)
+
 ## Mousses
 
 Voici différentes mousses qui servent pour la construction.
@@ -248,10 +265,13 @@ J'ai fini par trouver une autre solution, qui me permet de commander le simulate
 
 On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows via le câble USB, avec un modèle via le protocole USBHID.  Mais je n'ai pas réussit à la faire fonctionner ainsi, avec différents simulateurs.
 
+## Tige poussoir
+
+![](pushrod.pdf)
 
 ## Terrains
 
-Le site [geoportail](https://www.geoportail.gouv.fr/) montre où est-ce qu'on peut officiellement voler.
+Le site [geoportail](https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir) montre où est-ce qu'on peut officiellement voler.
 Et le [site](https://map2fly.flynex.de/a/map/fn) correspondant pour l'Allemagne.
 
 ## Volets

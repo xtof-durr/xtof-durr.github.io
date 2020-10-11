@@ -12,8 +12,7 @@ lang: fr-FR
 - [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler. Mais trop difficile à rattraper quand il décroche. 
 - [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton.
-- [Small Slowly](small_slowly): le même en petit.  Le moteur a laché.  De toute façon il était trop faible pour cet avion.
-- LIDL Newfidl: conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s). Je n'ai fait assez d'essais en altitude pour comprendre dans quelles conditions il décroche.
+- [LIDL aile volante](https://photos.app.goo.gl/ysvFdg6jxGsQ5peB7): conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s). Je n'ai fait assez d'essais en altitude pour comprendre dans quelles conditions il décroche.
 
 ### vivants ou en réparation
 
@@ -21,6 +20,7 @@ lang: fr-FR
 - [Le planeur libellule](libellule)
 - [Planeur Savattero 60](https://photos.app.goo.gl/FyKPBxDqGvVzvd3W8) --- première création personnelle, inspiré de ce [planeur](https://www.flitetest.com/articles/cheap-simple-foam-dlg-with-good-performance) --- Je l'ai fait car j'avais des composantes électroniques à réutiliser (à 10 Euros le moteur servo il ne faut les laisser dans un tiroir) et qu'on ne peut y plus connecter un moteur.  Je trouve que l'aile n'a pas assez de dièdre.
 - [Slowly](https://www.rcgroups.com/forums/showthread.php?1686460-Sowly-A-magnificent-Land-and-Lake-Build): conception Christian Huber
+- [Small Slowly](small_slowly): le même en petit.  Le moteur a laché une fois. J'ai lu quelque part que ces moteurs avec brosse ont une durée de vie de 10 heures, c'est vrai?  J'aimerais bien le voler un jour en absence totale de vent.
 - [Piper Cherokee](cherokee)
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
