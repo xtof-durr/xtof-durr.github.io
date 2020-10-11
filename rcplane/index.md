@@ -8,7 +8,7 @@ lang: fr-FR
 
 ## Aile en Depron : Armin Wing
 
-![](aile_armin_wing.JPG)
+![](aile_armin_wing.png)
 
 Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcé par une tige en carbonne.
 
@@ -18,7 +18,7 @@ Si vous voulez des bouts d'ailes recourbées vers haut, il faut ruser un peu, ar
 
 ##  Aile en Depron : dans le style de Julius Perdana
 
-![](aile_julius_perdana.JPG)
+![](aile_julius_perdana.png)
 
 Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est très épaisse et peut se passer d'un renfort.  Cette construction permet des formes intéressantes.
 
@@ -267,7 +267,7 @@ On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows 
 
 ## Tige poussoir
 
-![](pushrod.pdf)
+![](pushrod.png)
 
 ## Terrains
 
