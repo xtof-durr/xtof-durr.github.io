@@ -10,9 +10,9 @@ lang: fr-FR
 
 ![](aile_armin_wing.png)
 
-Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcé par une tige en carbonne.
+Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcée par une tige en carbone.
 
-Cette construction permet de créer des ailes toutes droites seulement. D'ailleurs regerdez les modèles d'experimental airlines, comme le photon.  Pratiquement des rectangles assemblés.
+Cette construction permet de créer des ailes toutes droites seulement. D'ailleurs regardez les modèles d'experimental airlines, comme le [photon](https://www.youtube.com/watch?v=ZfqGrzCKauw).  Pratiquement des rectangles assemblés.
 
 Si vous voulez des bouts d'ailes recourbées vers haut, il faut ruser un peu, arrêter les renforts intérieurs avant et coller parties hautes et bas, après leur avoir donné la forme voulue.
 
@@ -60,7 +60,7 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 - [Paul K. Johnson, seulement balsa](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm)
 - [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique.
-- [Julius Perdana](https://www.youtube.com/user/julescrafter) un malaisien. Fait de beaux modèles et montre tous les détails.
+- [Julius Perdana](https://www.youtube.com/user/julescrafter) un indonésien. Fait de beaux modèles et montre tous les détails.
 
 ## Découpe par ordinateur
 
@@ -155,21 +155,23 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 ## Mousses
 
-Voici différentes mousses qui servent pour la construction.
+Voici différentes mousses qui servent pour la construction.  Je ne vois pas encore très clair entre les noms techniques.
 
 ### Mousse GVector
 
 Une mousse vendue par [Graupner](https://www.modelisme.com/forum/aero-construction/207566-construire-vector-board.html), en planches de 1m fois 30cm.  Je ne l'ai pas encore essayé ni vue de mes propres yeux.
 
-###  Mousse polystyrène expansé
+###  Mousse polystyrène expansé (Expanded polystyrene (EPS))
 
-Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair. En anglais on utilise l'abreviation XPS. Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface. Si du ruban adhésif n'adhère pas, on peut passer d'abord une fine couche de colle universelle diluée pour lisser la surface.
+Des gros blocs d'isolants, souvent rose, ou blanc cassé ou bleu clair. Existe en plusieurs densités. Se découpe facile au fil chaud.  Il faut le poncer pour pouvoir coller sur la surface. Si du ruban adhésif n'adhère pas, on peut passer d'abord une fine couche de colle universelle diluée pour lisser la surface.
 
 * [Conseils de traitement](http://www.fly2air.com/tipps/Styrodurbau/index-Styrodurbau.htm).
 
 ![(C) thyzoon](http://www.thyzoon.fr/Aeromod/Fil_chaud/img/fil_chaud_1.jpg)
 
-###  Mousse polypropylène expansé, ou EPP
+Je pense que les avions moulés, comme le planeur LIDL sont faits de cette matière, mais avec des bulles beaucoup plus grandes, et plus flexible du coup.
+
+###  Mousse polystyrène extrudé (Extruded polystyrene (XPS))
 
 C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec un décapeur, puis la plier sur un tube ou un coin de table arrondi. Il parait que de la vapeur d'eau ou un sèche cheveux peut aussi faire l'affaire, mais je n'ai pas réussi, pas assez chaud.  Ou alors coller un film ou ruban adhésif sur une face pour prendre la tension, puis la plier sans qu'elle se brise.  De toute façon recouvrir cette mousse permet de la rendre plus solide. Par exemple avec un ruban adhésif coloré, comme ceux vendus par exemple chez Leroy Merlin pour les déménagements (une couleur par chambre). Sinon voir la section Marouflage.
 
@@ -212,7 +214,7 @@ Les modèles que j'aime bien, et que j'aimerais fabriquer.
 
 - [Pyth 700](http://www.jivaro-models.org/pyth700/page_pyth_700.html) une aile volante pour l'adrénaline. Facile à fabriquer et très solide.
 - [Piper 120cm en Balsa](https://fr.aliexpress.com/item/32823979442.html)
-
+- [Un planeur en mousse, style LIDL glider, motorisé par Alekseï Elimov](http://forum.rcdesign.ru/blogs/4414/blog23781.html)
 
 ## Monde
 
