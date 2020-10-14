@@ -8,7 +8,7 @@ lang: fr-FR
 
 ## Aile en Depron : Armin Wing
 
-![](aile_armin_wing.png){ width=250 }
+![](aile_armin_wing.png =250x)
 
 Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcée par une tige en carbone.
 
@@ -151,7 +151,7 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 ## Liaison carbonne-fer
 
-![](liaison_carbon_fer.png){ width=250 }
+![](liaison_carbon_fer.png =250x)
 
 ## Mousses
 
