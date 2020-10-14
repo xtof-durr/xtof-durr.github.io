@@ -8,7 +8,7 @@ lang: fr-FR
 
 ## Aile en Depron : Armin Wing
 
-![](aile_armin_wing.png)
+![](aile_armin_wing.png){ width=250 }
 
 Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcée par une tige en carbone.
 
@@ -151,7 +151,7 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 ## Liaison carbonne-fer
 
-![](liaison_carbon_fer.png)
+![](liaison_carbon_fer.png){ width=250 }
 
 ## Mousses
 
@@ -273,11 +273,13 @@ On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows 
 
 ## Terrains
 
-Le site [geoportail](https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir) montre où est-ce qu'on peut officiellement voler.
-Et le [site](https://map2fly.flynex.de/a/map/fn) correspondant pour l'Allemagne.
+- Le site [geoportail](https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir) montre où est-ce qu'on peut officiellement voler.
+- Et le [site](https://map2fly.flynex.de/a/map/fn) correspondant pour l'Allemagne.
+- Une [collection](http://rc.kaloula.com/pente/site-de-pente.php) de sites pour le vol de pente.
 
 ## Volets
 
 En anglais : *flaps*. Servent à augmenter la portance de l'aile et à atterrir et décoller avec des vitesses plus faibles. Pas nécessaire pour des petits avions.
 
 - [la Rolls Royce des volets](https://www.youtube.com/watch?v=_VjWMka-bxQ)
+- [des volets fendus](https://www.thingiverse.com/thing:2747517) l'idée est que si l'air d'en bas peut remonter par la fente sur le dessus de l'aile, alors elle ne décroche pas. Samm Sheperd a fait [l'expérience](https://www.youtube.com/watch?v=WH8kCTzy91A) d'une aile avec seulement ces fentes qui ne pourrait jamais décrocher. Mais est-ce qu'elle porterait bien ?
