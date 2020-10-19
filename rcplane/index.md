@@ -8,7 +8,7 @@ lang: fr-FR
 
 ## Aile en Depron : Armin Wing
 
-![](aile_armin_wing.png){:width="250"}
+![](aile_armin_wing.png){:width="450"}
 
 Une construction d'aile en depron, décrite par Ed de [Experimental Airlines](https://www.youtube.com/watch?v=karr67ZYho4) et puis par [Andrew Newton](http://newtonairlines.blogspot.com/2014/05/better-airfoil-wing-build.html).  Très simple à mettre en œuvre.  Peut être renforcée par une tige en carbone.
 
@@ -18,7 +18,7 @@ Si vous voulez des bouts d'ailes recourbées vers haut, il faut ruser un peu, ar
 
 ##  Aile en Depron : dans le style de Julius Perdana
 
-![](aile_julius_perdana.png)
+![](aile_julius_perdana.png){:width="350"}
 
 Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est très épaisse et peut se passer d'un renfort.  Cette construction permet des formes intéressantes.
 
@@ -143,6 +143,20 @@ Voici des avions propulsés par un moteur avec élastique.
 
 Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pièce délicate à transporter d'autant plus qu'elle doit être super legère. Chaque gramme de plus dans l'empennage nécessite peut être 3 grammes de plus dans le nez.  [Voici](https://mikaeromodelisme.wordpress.com/2013/08/31/empennage-papillon-demontable/) une jolie méthode pour rendre le tout démontable.
 
+
+## F3K
+
+Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcément une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
+
+- [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
+
+## Frein moteur
+
+Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionnalité qui se programme sur le ESC. Sans le frein, quand le moteur est à l’arrêt il reste en rotation libre, et l'hélice continue à tourner sous l'effet du vent, et augmente ainsi la résistance dans l'air. Avec le frein, le moteur a une résistance interne à l’arrêt et en général l'hélice reste immobile et parfois bien alignée avec l'aile.  Autre avantage : à l'atterrissage l'hélice risque moins de casser. 
+
+[Voici](https://www.youtube.com/watch?v=g5eUrI6vxco) une expérience convaincante sur la résistance d'une hélice avec ou sans frein moteur.
+
+
 ## Hayao Miyazaki
 
 - [Flaptter 19-5 of LAPUTA Castle in the Sky](https://www.youtube.com/watch?v=a6dGygmGo8M&t=175s)
@@ -151,7 +165,13 @@ Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pi�
 
 ## Liaison carbonne-fer
 
-![](liaison_carbon_fer.png){:width="250"}
+![](liaison_carbon_fer.png){:width="350"}
+
+
+## Marouflage
+
+- Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
+- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un cœur depron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
 ## Mousses
 
@@ -188,24 +208,6 @@ C'est une mousse, à la surface lisse.  On peut la tordre en la chauffant avec u
 C'est une mousse avec de grosses bulles.  Elle est pratiquement incassable.  Un nez d'avion dans ce matériel est idéal pour absorber les chocs. Difficile de traiter la surface, comme elle n'est pas lisse, les rubans adhésifs n'adhèrent pas. Un peu trop flexible pour fabriquer le reste de l'avion avec cette mousse.
 
 ![(C) Sapronit](https://www.sapronit.com/system/image_de_galeries/fichiers/000/000/342/vignette/Fabricant-Plaques-Mousse-PE-Multilam.JPG?1442929493)
-
-## F3K
-
-Dans ce loisir il y a des compétitions, avec beaucoup de catégories. Donc on en trouve forcément une où on peut gagner des médailles. Mais ce qui m'attire ce sont les avions de la catégorie F3k. Des planeurs sans hélice qu'on lance à la main par le saumon. C'est beau. Et super technique pour fabriquer un avion de haute performance.
-
-- [Jan Henning](https://www.youtube.com/watch?v=p5BsfmUrtDM&list=PLZdOy4nGe2QKGPChQ_nEaEKesgN3__jY1)
-
-## Frein moteur
-
-Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionnalité qui se programme sur le ESC. Sans le frein, quand le moteur est à l’arrêt il reste en rotation libre, et l'hélice continue à tourner sous l'effet du vent, et augmente ainsi la résistance dans l'air. Avec le frein, le moteur a une résistance interne à l’arrêt et en général l'hélice reste immobile et parfois bien alignée avec l'aile.  Autre avantage : à l'atterrissage l'hélice risque moins de casser. 
-
-[Voici](https://www.youtube.com/watch?v=g5eUrI6vxco) une expérience convaincante sur la résistance d'une hélice avec ou sans frein moteur.
-
-
-## Marouflage
-
-- Papy Kilowatt a expliqué [ici](http://papykilowatt.free.fr/html/page_trucs.htm) comment il maroufle avec du papier ses avions.
-- [voici](https://www.flitetest.com/articles/super-strong-waterproof-foam-core) une étude comparative sur la solidité et prix de plusieurs méthodes pour créer une surface sandwich avec un cœur depron.  En gros, un marouflage avec du papier Kraft n'a pas de très bonnes caractéristiques contre deux couches de fibre de verre avec de la résine epoxy, qui elle n'est pas si chère que ça. Mais le choix de la colle utilisée est très important ici.
 
 
 ## Modèles
@@ -269,7 +271,13 @@ On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows 
 
 ## Tige poussoir
 
+(Push rod en anglais)
+
 ![](pushrod.png)
+
+Mes guignols préférés sont ceux-ci, très simples à régler.
+
+![](control_horn.jpg) 
 
 ## Terrains
 
