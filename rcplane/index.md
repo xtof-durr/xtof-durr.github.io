@@ -1,5 +1,5 @@
 ---
-title: Mon abécédaire de l'aéromodélisme
+title: Mon abécédaire de l'aéromodélisme &#9992;
 lang: fr-FR
 ---
 
@@ -18,13 +18,30 @@ Si vous voulez des bouts d'ailes recourbées vers haut, il faut ruser un peu, ar
 
 ##  Aile en Depron : dans le style de Julius Perdana
 
-![](aile_julius_perdana.png){:width="350"}
+![](aile_julius_perdana.png){:width="450"}
 
 Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est très épaisse et peut se passer d'un renfort.  Cette construction permet des formes intéressantes.
 
 ## Atterissage
 
 [Voici](https://www.modelairplanenews.com/land-like-a-pro/#visitor_pref_pop) la procédure bien décrite.
+
+## Batteries
+
+Les batteries Lipo (Lithium polymère) viennent avec trois indications. 
+- Le nombre de cellules, 1S, 2S, etc.  Celui-ci définit le voltage, genre 4.22 Volts par cellule chargée à bloc.
+- La capacité, genre 1000 mAh.
+- Le niveau de délivrance, genre 20C, 35C.  Une batterie 600mAh 20C, peut délivrer 20 * 0.6 = 12 Ampères.  Ce niveau doit satisfaire la demande du moteur. Les moteurs bien documentés viennent avec une grille, qui indique pour le nombre de cellules de la batterie et la taille de l'hélice le nombre d'ampères consommées.   Le ESC (electronic speed controler) doit être adapté à ce nombre, et même être un peu plus haut de peut-être 20% pour avoir de la tolérance.
+
+Il ne faut pas vider les batteries trop. Le niveau critique n'est pas très clair pour moi. Si vous ne déscendez jamais en dessous de 3.7 Volts par batteries, vous allez les garder longtemps, mais je pense que 3.5 V est acceptable.
+
+Trois mécanismes peuvent aider à respecter le seuil de charge minimale.  Un minuteur sur votre radio émetteur.  Un mécanisme sur des ESC de bonne qualité, qui baisse le moteur quand un seuil est atteint. Et enfin un testeur de voltage à connecter sur le cable de charge de votre batterie.  Il vous signale le niveau bas de la batterie par une alarme.  Je connais deux types, un qui affiche le niveau par des diodes vertes, puis rouges. Installé à l'extérieur du fuselage, vous pouvez le voir en vol d'un coin de l'oeil.  Puis un deuxième type affiche par LED le voltage. Impossible de relever l'affiche en vol, mais c'est pratique au sol.  **Attention** à ne pas laisser brancher ce testeur trop longtemps quand l'avion est au sol. Il ne décharge pas les batteries de manière équilibrée il me semble. 
+
+![](buzzer-lipo.jpg)
+
+Les batteries 18650 ont plus d'énergie par poids et pourraient être intéressants à utiliser dans des vols longs. Mais ils ne peuvent pas fournir autant de puissance que les batteries Lipo, ont une résistance intérieure plus grande, mais peuvent se vider jusqu'à 2 Vols par cellule.   [Voici](https://www.youtube.com/watch?v=UB8fas6zBSE) une comparaison faite par Tom Stanton, qui conclu après des tests très ennuyeux que les batteries 18650 sont un bon choix pour les planeurs, mais pas pour des vols qui ont besoin de puissance.
+
+Ces batteries sont également une option intéresante pour votre radio émetteur, nécessitant des recharges moins fréquement.
 
 ## Canaux
 
@@ -256,6 +273,7 @@ D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-H
 
 Propulser un planeur par treuil élastique, c'est expliqué en [français](http://www.aeromod.eu/Catapulte_fra.htm) et en [anglais](https://www.instructables.com/id/Greenest-Way-to-Fly-RC/).
 
+
 ## Simulateur
 
 J'ai juste de l'expérience avec Phoenix. J'aime bien le fait qu'on puisse régler la force et régularité du vent, c'est une bonne préparation.  
@@ -277,13 +295,17 @@ On peut lire que la Jumper permet de fonctionner comme un joystick sous Windows 
 
 Mes guignols préférés sont ceux-ci, très simples à régler.
 
-![](control_horn.jpg) 
+![](control_horn.jpg){:width="450"}
 
 ## Terrains
 
 - Le site [geoportail](https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir) montre où est-ce qu'on peut officiellement voler.
 - Et le [site](https://map2fly.flynex.de/a/map/fn) correspondant pour l'Allemagne.
 - Une [collection](http://rc.kaloula.com/pente/site-de-pente.php) de sites pour le vol de pente.
+
+## Velcro ou scratch
+
+Pour accrocher batteries, recepteur, etc avec des scratchs (quel est le nom correct en fraçais?), la convention est de mettre la partie avec les crochets (rauque) sur l'avion et la partie avec les boucles (douce) sur les objets. L'idée est qu'ainsi on minimise le risque que les crochets attrappent des saletées.
 
 ## Volets
 
