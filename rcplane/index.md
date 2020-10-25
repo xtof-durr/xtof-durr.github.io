@@ -45,7 +45,7 @@ Trois mécanismes peuvent aider à respecter le seuil de charge minimale.
 - Un mécanisme sur des ESC de bonne qualité, qui baisse le moteur quand un seuil est atteint. 
 - Et enfin un testeur de voltage à connecter sur le câble de charge de votre batterie.  Il vous signale le niveau bas de la batterie par une alarme.  Je connais deux types, un qui affiche le niveau par des diodes vertes, pubis rouges. Installé à l'extérieur du fuselage, vous pouvez le voir en vol d'un coin de l’œil.  Puis un deuxième type affiche par LED le voltage. Impossible de relever l'affiche en vol, mais c'est pratique au sol.  **Attention** à ne pas laisser brancher ce testeur trop longtemps quand l'avion est au sol. Il décharge les batteries de manière déséquilibrée il me semble. 
 
-![](buzzer-lipo.jpg){:with="350"}
+![](buzzer-lipo.jpg){:width="350"}
 
 Les batteries 18650 ont plus d'énergie par poids et pourraient être intéressantes à utiliser dans des longs vols. Mais elles ne peuvent pas fournir autant de puissance que les batteries Lipo et ont une résistance intérieure plus grande, mais peuvent se vider jusqu'à 2 Volts par cellule.   [Voici](https://www.youtube.com/watch?v=UB8fas6zBSE) une comparaison faite par Tom Stanton, qui conclut après des tests très ennuyeux que les batteries 18650 sont un bon choix pour les planeurs, mais pas pour des vols qui ont besoin de puissance.
 
@@ -327,7 +327,7 @@ Aussi appelé tringle.
 
 Mes guignols préférés sont ceux-ci, très simples à régler.
 
-![](control_horn.jpg){:width="450"}
+![](control_horn.jpg){:width="250"}
 
 ## Terrains
 
