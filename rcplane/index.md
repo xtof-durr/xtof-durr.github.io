@@ -187,6 +187,20 @@ Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionn
 - [Nausicaa avec pilote humain](https://www.youtube.com/watch?v=X0x7GS53EbA)
 - [Nausicaa en radiocommandé](https://www.youtube.com/watch?v=4yYKNSY-TQI)
 
+## Hélices
+
+Habituellement le moteur tourne l'hélice dans le sens contraire des aiguilles d'une montre. L'hélice a un sens. Sur une des faces en général il y une inscription, elle doit être devant. S'il n'y a pas d'inscription on peut se repérer avec le profil de l'hélice. Elle est souvent inclinée, avec l'idée que l'hélice coupe l'air avec un petit angle, et l'air quitte l'hélice avec un grand angle, ce qui devrait l'accélérer. Aussi l'hélice est plus incliné au milieu, car la vitesse de l'hélice y est moindre qu'à son extrémité.
+
+![](helice.png)
+
+Quand le moteur est à l'arrière, l'hélice devra toujours être installé avec l'inscription vers l'avant. Cependant le moteur devra tourner dans le sens des aiguilles d'une montre.
+
+Si l'hélice est tenue avec un *prop saver*, cela ne pose aucun problème. Un *prop saver* est un mécanisme sur l'axe du moteur avec deux vis latérales, sur lesquels un élastique noir, de profil rond, vient s'accrocher pour tenir l'hélice en place.  En cas de choc, au pire, cet élastique lâche.  Mais ce mécanisme empêche l'utilisation d'une hélice à 3 pales.
+
+Si l'hélice est tenue sur l'axe du moteur avec une vis, cela peut poser un problème. Les moteurs avec vis peuvent venir en mode CW (clockwise) ou CCW (counter clockwise).  Si vous n'utilisez pas le bon mode, la vis pourra se desserrer à terme avec les vibrations en vol.
+
+Les hélice en carbone en général, donnent un souffle plus propre, l'avion sera plus stable et fera un bruit plus joli, qu'avec une hélice en plastique.
+
 ## Liaison carbone-fer
 
 ![](liaison_carbon_fer.png){:width="350"}
@@ -198,6 +212,7 @@ En Europe
 - [guix models](https://www.guixmodel.fr/)
 - [silence model](http://silencemodel.fr/)
 - [mini planes](https://www.miniplanes.fr)
+- [flash rc](https://www.flashrc.com)
 - [Lindinger](https://www.lindinger.at/fr/)
 
 Dans le reste du monde
@@ -329,6 +344,11 @@ Mes guignols préférés sont ceux-ci, très simples à régler.
 
 ![](control_horn.jpg){:width="250"}
 
+Liens achat:
+
+- [légers](https://fr.aliexpress.com/item/2037710913.html) - voir la comparaison par NumaVIG à la minute 15:15 de cette [vidéo](https://www.youtube.com/watch?v=2WBJLjFvS9o&t=407s)
+- [standard](https://fr.aliexpress.com/item/32833157726.html)
+
 ## Terrains
 
 - Le site [geoportail](https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir) montre où on peut officiellement voler et à quelle hauteur.
@@ -337,7 +357,7 @@ Mes guignols préférés sont ceux-ci, très simples à régler.
 
 ## Velcro ou scratch
 
-Le nom correct est bande auto-agrippante.
+Le nom correct est *bande auto-agrippante*.
 
 Pour accrocher batteries ou récepteur avec des scratchs, la convention est de mettre la partie avec les crochets (rauque) sur l'avion et la partie avec les boucles (douce) sur les objets. L'idée est qu'ainsi on minimise le risque que les crochets attrapent des saletés.
 

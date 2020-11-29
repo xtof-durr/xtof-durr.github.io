@@ -11,7 +11,6 @@ lang: fr-FR
 - [Nutball](nutball) --- n'existe plus. Mais super simple à fabriquer et pas si facile à voler.
 - [Simple CUB](https://www.flitetest.com/articles/diy-ft-simple-cub-build) --- jolie forme, mais le mien est devenu beaucoup trop lourd, et donc je le trouve difficile à voler. Aussi il prend beaucoup le vent et a besoin d'une météo calme.  J'aime bien le concept *swappable* de Flite Test. On met ESC, récepteur et moteur sur un tiroir, qu'on peut déplacer de modèle en modèle.
 - [Planeur LIDL](LIDL-pitcherons) avec des ailes à incidence intégrale. Intéressant à voler. Mais trop difficile à rattraper quand il décroche. 
-- [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton.
 - [LIDL aile volante](https://photos.app.goo.gl/ysvFdg6jxGsQ5peB7): conception [Smileyflyer](https://www.youtube.com/watch?v=cc494kIiwVI&t=432s). Je n'ai fait assez d'essais en altitude pour comprendre dans quelles conditions il décroche.
 
 ### vivants ou en réparation
@@ -22,5 +21,8 @@ lang: fr-FR
 - [Slowly](https://www.rcgroups.com/forums/showthread.php?1686460-Sowly-A-magnificent-Land-and-Lake-Build): conception Christian Huber
 - [Small Slowly](small_slowly): le même en petit.  Le moteur a laché une fois. J'ai lu quelque part que ces moteurs avec brosse ont une durée de vie de 10 heures, c'est vrai?  J'aimerais bien le voler un jour en absence totale de vent.
 - [Piper Cherokee](cherokee)
+- [Flying Wing NumaVIG 61](flying-wing-numavig-61)
+- [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton. La [version 2](https://www.modelisme.com/forum/aero-construction/210904-micro-hunter-scratch-build.html) est démontable.
+
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
