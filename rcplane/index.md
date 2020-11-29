@@ -189,13 +189,15 @@ Le [frein moteur](https://www.youtube.com/watch?v=qYHJgg_vvSQ) est une fonctionn
 
 ## Hélices
 
-Habituellement le moteur tourne l'hélice dans le sens contraire des aiguilles d'une montre. L'hélice a un sens. Sur une des faces en général il y une inscription, elle doit être devant. S'il n'y a pas d'inscription on peut se repérer avec le profil de l'hélice. Elle est souvent inclinée, avec l'idée que l'hélice coupe l'air avec un petit angle, et l'air quitte l'hélice avec un grand angle, ce qui devrait l'accélérer. Aussi l'hélice est plus incliné au milieu, car la vitesse de l'hélice y est moindre qu'à son extrémité.
+Les hélices sont identifiés par des chiffres de style  <span style="color: red;">50</span> <span style="color: blue;">30</span>. Le premier chiffre indique le diamètre (en inch) du disque décrit par l'hélice en rotation. Le premier chiffre indique (toujours en inch) de combien l'hélice va avancer en une rotation.  Quand ce chiffre est petit, l'hélice est faite pour des moteurs qui tournent vite. Quand ce chiffre est grand, l'hélice est faite pour des moteurs qui tournent lentement. Des *slow flyers*. Dans ce cas parfois l'hélice a une grande surface et est un peu arrondie.
 
-![](helice.png)
+Habituellement le moteur tourne l'hélice dans le sens contraire des aiguilles d'une montre. L'hélice a un sens. Sur une des faces en général il y une inscription, elle doit être devant. S'il n'y a pas d'inscription on peut se repérer avec le profil de l'hélice, qu'on pourrait obtenir par une coupe imaginaire. Elle est souvent inclinée, avec l'idée que l'hélice coupe l'air avec un petit angle, et l'air quitte l'hélice avec un grand angle, ce qui devrait l'accélérer. Aussi l'hélice est plus inclinée au milieu, car la vitesse de l'hélice y est moindre qu'à son extrémité.
 
-Quand le moteur est à l'arrière, l'hélice devra toujours être installé avec l'inscription vers l'avant. Cependant le moteur devra tourner dans le sens des aiguilles d'une montre.
+![](helices.png)
 
-Si l'hélice est tenue avec un *prop saver*, cela ne pose aucun problème. Un *prop saver* est un mécanisme sur l'axe du moteur avec deux vis latérales, sur lesquels un élastique noir, de profil rond, vient s'accrocher pour tenir l'hélice en place.  En cas de choc, au pire, cet élastique lâche.  Mais ce mécanisme empêche l'utilisation d'une hélice à 3 pales.
+Quand le moteur est à l'arrière, c'est pareil, l'hélice devra être installée avec l'inscription vers l'avant. Cependant le moteur devra tourner dans le sens des aiguilles d'une montre.
+
+Si l'hélice est tenue avec un *prop saver*, le sens de rotation du moteur est sans importance. Un *prop saver* est un mécanisme sur l'axe du moteur avec deux vis latérales, sur lesquels un élastique noir, de profil rond, vient s'accrocher pour tenir l'hélice en place.  En cas de choc, au pire, cet élastique lâche.  Mais ce mécanisme empêche l'utilisation d'une hélice à 3 pales.
 
 Si l'hélice est tenue sur l'axe du moteur avec une vis, cela peut poser un problème. Les moteurs avec vis peuvent venir en mode CW (clockwise) ou CCW (counter clockwise).  Si vous n'utilisez pas le bon mode, la vis pourra se desserrer à terme avec les vibrations en vol.
 
