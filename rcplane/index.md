@@ -309,19 +309,19 @@ D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-H
 - To bank right, right wing LE goes down, left LE goes up
 - To bank left, vice versa of above
 
-## Ponser
+## Poncer
 
-Vous voulez créer un bord bisauté d'une pièce en Depron.
-Vous pouvez le ponser avec un papier de verre assez fin, genre 240 grains par centimètre carré.
+Vous voulez créer un bord biseauté d'une pièce en Depron.
+Vous pouvez le poncer avec un papier de verre assez fin, genre 240 grains par centimètre carré.
 Un papier plus gros, dans les 80, va enlever du matériel trop vite.
 
 
-![](ponser_pas_droit.png){:width="350"}
+![](poncer_pas_droit.png){:width="350"}
 
-Ne le ponsez pas contre un papier de verre. Le résultat sera un bord rond.
-Non, pressez la pièce à plat sur une surface plate, et venez ponser le bord. Faites vous un outil, en collant le papier abrasif sur un morceau en bois. Ainsi vous obtiendrez un bord ponsé droit.
+Ne le poncez pas contre un papier de verre. Le résultat sera un bord rond.
+Non, pressez la pièce à plat sur une surface plate, et venez poncer le bord. Faites vous un outil, en collant le papier abrasif sur un morceau en bois. Ainsi vous obtiendrez un bord poncé droit.
 
-![](ponser_droit.png){:width="350"}
+![](poncer_droit.png){:width="350"}
 
 ## Sandow
 
