@@ -309,6 +309,20 @@ D'après [Kyle Clayton](https://www.rcgroups.com/forums/showthread.php?1133158-H
 - To bank right, right wing LE goes down, left LE goes up
 - To bank left, vice versa of above
 
+## Ponser
+
+Vous voulez créer un bord bisauté d'une pièce en Depron.
+Vous pouvez le ponser avec un papier de verre assez fin, genre 240 grains par centimètre carré.
+Un papier plus gros, dans les 80, va enlever du matériel trop vite.
+
+
+![](ponser_pas_droit.png){:width="350"}
+
+Ne le ponsez pas contre un papier de verre. Le résultat sera un bord rond.
+Non, pressez la pièce à plat sur une surface plate, et venez ponser le bord. Faites vous un outil, en collant le papier abrasif sur un morceau en bois. Ainsi vous obtiendrez un bord ponsé droit.
+
+![](ponser_droit.png){:width="350"}
+
 ## Sandow
 
 Propulser un planeur par treuil élastique, c'est expliqué en [français](http://www.aeromod.eu/Catapulte_fra.htm) et en [anglais](https://www.instructables.com/id/Greenest-Way-to-Fly-RC/).
