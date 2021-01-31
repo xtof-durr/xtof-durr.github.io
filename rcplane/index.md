@@ -84,8 +84,9 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un belge qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 - [Paul K. Johnson](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm) des conseils sur la construction en balsa
-- [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique.
-- [Julius Perdana](https://www.youtube.com/user/julescrafter) un indonésien. Fait de beaux modèles et montre tous les détails.
+- [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique. &hearts;
+- [Julius Perdana](https://www.youtube.com/user/julescrafter) un indonésien. Fait de beaux modèles et montre tous les détails. &hearts;
+- [Hilmar Lange](http://www.lange-flugzeit.de/). Précision. Mélange intéressant de Depron et de balsa. &hearts;
 
 ## Découpe par ordinateur
 
@@ -258,6 +259,8 @@ C'est une mousse à la surface lisse.  On peut la tordre en la chauffant avec un
 | dollar tree foam board                        | 297 g/m^2  |
 |rogier et plé, mousse recouvert de papier kraft | 414 g/m^2  |
 | [Depron](https://www.leroymerlin.fr/v3/p/produits/carton-de-20-plaques-mur-Depron-l-1000-x-l-1000-x-ep-3-mm-e1400774731) 6mm, Leroy merlin par exemple          | 198 g/m^2  |
+
+Je n'achête plus du Depron, qui ne se vend qu'à grosses quantité, ni des feuilles individuelles chez Rougier et Plé. Non, désormais j'achète des packs de 8 plaques 80x60cm chez [Castorama](https://www.castorama.fr/panneau-en-polystyrene-extrude-80-x-60-cm-ep-3mm-vendu-par-paquet-de-8-panneaux/3663602884484_CAFR.prd) (par exemple Nation), dans le rayon peinture.
 
 ###  Mousse polypropylène extrudé
 

@@ -13,3 +13,7 @@ Sans contrôle de direction, il doit être volé à la manière *bank-and-yank*.
 
 
 Voici un des premiers [vols](https://photos.app.goo.gl/zpXVDPHK7i6VReHq9). 
+
+Voici le fuselage avec un train d'atterissage, beaucoup trop lours d'ailleurs. Il ajoute 150g à un avion qui fait dans les 250g.
+
+![](micro-sky-hunter-wheels.jpeg)
