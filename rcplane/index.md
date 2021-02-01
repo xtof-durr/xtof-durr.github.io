@@ -87,6 +87,7 @@ C'est difficile de trouver du matériel équivalent en France.
 - [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique. &hearts;
 - [Julius Perdana](https://www.youtube.com/user/julescrafter) un indonésien. Fait de beaux modèles et montre tous les détails. &hearts;
 - [Hilmar Lange](http://www.lange-flugzeit.de/). Précision. Mélange intéressant de Depron et de balsa. &hearts;
+- [A Filos](https://www.youtube.com/channel/UCzclgsqoIi80mYDjXJ42JbA) un grec qui construit des avions DLG. Tout à l'air simple.
 
 ## Découpe par ordinateur
 
