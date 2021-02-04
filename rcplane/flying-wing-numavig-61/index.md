@@ -46,4 +46,4 @@ Par rapport au [plan original](https://www.youtube.com/watch?v=XLTTN9yez8U) j'ai
 
 Projet décoration: comme tout l'électronique est en surface, autant la jouer *Centre Pompidou* et tout montrer et même souligner.  Mais finalement, une fois une ouverture coupée pour la batterie j'ai profité des cavités ainsi découvertes pour y ranger le ESC dans une, et le récepteur dans l'autre.  Je crois que des couleurs différentes pour le haut et le bas seraient plus pratique.
 
-![Vol pendant le premier jour](https://photos.app.goo.gl/3FF1oK5V1Wjhgv1a6)
+[Vol pendant le premier jour.](https://photos.app.goo.gl/3FF1oK5V1Wjhgv1a6)

@@ -84,7 +84,7 @@ C'est difficile de trouver du matériel équivalent en France.
 - [Papy Kilowatt](http://papykilowatt.free.fr/) un belge qui avait atteint un niveau de précision et de réalisme incroyable.
 - [Jivaro models](http://www.jivaro-models.org/) une collection française d'avions de toutes sortes.
 - [Paul K. Johnson](http://www.airfieldmodels.com/information_source/how_to_articles_for_model_builders/index.htm) des conseils sur la construction en balsa
-- [NumaVIG](https://www.youtube.com/channel/UCsM-eoJt17xnWMNNpwhf8Nw) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique. &hearts;
+- [NumaVIG](http://numavig.com/) un russe je pense, sans musique, sans parole, hypnotisant et calme.  Magnifique. &hearts;
 - [Julius Perdana](https://www.youtube.com/user/julescrafter) un indonésien. Fait de beaux modèles et montre tous les détails. &hearts;
 - [Hilmar Lange](http://www.lange-flugzeit.de/). Précision. Mélange intéressant de Depron et de balsa. &hearts;
 - [A Filos](https://www.youtube.com/channel/UCzclgsqoIi80mYDjXJ42JbA) un grec qui construit des avions DLG. Tout à l'air simple.
