@@ -23,6 +23,7 @@ lang: fr-FR
 - [Piper Cherokee](cherokee)
 - [Flying Wing NumaVIG 61](flying-wing-numavig-61)
 - [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton. La [version 2](https://www.modelisme.com/forum/aero-construction/210904-micro-hunter-scratch-build.html) est démontable.
+- [Chopper](chopper): un petit avion, difficile à transporter, nécessite peu de vent.
 
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
