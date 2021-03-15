@@ -1,10 +1,13 @@
 ---
 title: Chopper, design by Hilmar Lange
-lang: en
+lang: fr
 ---
 
 
 ![](chopper.jpg)
+
+plan original
+:	[ici](http://www.lange-flugzeit.de/?post_type=publication&p=1425)
 
 construction
 :	En [polystyrène extrudé 3mm](https://www.castorama.fr/panneau-en-polystyrene-extrude-80-x-60-cm-ep-3mm-vendu-par-paquet-de-8-panneaux/3663602884484_CAFR.prd). Recouvert de ruban adhésif coloré.
@@ -28,4 +31,13 @@ batterie
 :   2S, 60C, [450mAh](https://fr.aliexpress.com/item/32831635460.html), 18g. (pourrait être plus lourd avec plus de cacacité, je pense.)
 
 roues
-:	[en mousse, diamètre 70mm](https://fr.aliexpress.com/item/32828736254.html)
+:	[devant, en mousse, diamètre 70mm](https://fr.aliexpress.com/item/32828736254.html), [derrière, diamètre 16mm](https://fr.aliexpress.com/item/4000849518141.html)
+
+longéron
+:	[en tilleu, carré 3x3mm](https://www.lez-arts.com/longeron-bois-1/longeron-tilleul)
+
+fil acier
+:	[2mm pour le train d'atterissage](https://www.lez-arts.com/fil-tube-mtal-1/fil-acier), et 1mm pour l'accastillage
+
+
+![](chopper-transport.jpg)
