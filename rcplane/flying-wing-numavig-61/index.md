@@ -40,7 +40,7 @@ battery, batterie
 centre de gravité
 :	[entre 13.7 et 14.7cm du nez](https://www.ecalc.ch/cgcalc.php?deeplink=Flying%20Wing%20NumaVIG%2061cm;cm;20.5;16.5;16.5;21;21;0;4.5;6.5;6.5;23;0;6.5;2.5;0.1;21.5;0;w;17.5;17.5;24.5;14;12.6;0;0;0.75;3;4;0;4;7;24;1;0;88;25;10;)
 
-Par rapport au [plan original](https://www.youtube.com/watch?v=XLTTN9yez8U) j'ai renforcé le nez par une seule couche de fibre de verre 50g/m^2 avec de la résine époxy.
+Par rapport au [plan original](http://numavig.com/plans/flying-wing/) j'ai renforcé le nez par une seule couche de fibre de verre 50g/m^2 avec de la résine époxy.
 
 ![](aile_nez_haut.JPG)
 
