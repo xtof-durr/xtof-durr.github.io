@@ -3,7 +3,7 @@ title: G-NCUB
 lang: fr-FR
 ---
 
-![](g-ncub.JPG)
+![](g-ncub.jpg)
 
 en réparation...
 
