@@ -25,6 +25,7 @@ lang: fr-FR
 - [Flying Wing NumaVIG 100](flying-wing-numavig-100)
 - [Micro Skyhunter](micro_sky_hunter): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton. La [version 2](https://www.modelisme.com/forum/aero-construction/210904-micro-hunter-scratch-build.html) est démontable.
 - [Chopper](chopper): un petit avion, difficile à transporter, nécessite peu de vent.
+- [Piper Cub](g-ncub): réaliste, joli, contrôleur mal conçu.
 
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
