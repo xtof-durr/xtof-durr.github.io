@@ -7,7 +7,7 @@ lang: fr-FR
 
 en réparation...
 
-## Piper Cub
+## aussi appelé XK A160 Skylark
 
 - [une petite vidéo](https://www.youtube.com/watch?v=wEm0nwkN6JI) qui explique brièvement comment connecter la radiocommande Jumper à cet avion, et qui montre un problème avec le stabilisateur
 - [une autre vidéo](https://www.youtube.com/watch?v=Z46DWNbyR-w) montre que sans le stabilisateur l'avion vole bien. Mais le mec a tout changé, servos et recepteur je crois, et ajouté des trucs sur le bord d'attaque.

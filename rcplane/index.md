@@ -26,7 +26,7 @@ Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est 
 
 [Voici](https://www.modelairplanenews.com/land-like-a-pro/#visitor_pref_pop) la procédure bien décrite.
 
-## Batteries
+## Batteries Lipo
 
 Les batteries Lipo (Lithium polymère) viennent avec trois indications. 
 
@@ -47,7 +47,11 @@ Trois mécanismes peuvent aider à respecter le seuil de charge minimale.
 
 ![](buzzer-lipo.jpg){:width="350"}
 
-Les batteries 18650 ont plus d'énergie par poids et pourraient être intéressantes à utiliser dans des longs vols. Mais elles ne peuvent pas fournir autant de puissance que les batteries Lipo et ont une résistance intérieure plus grande, mais peuvent se vider jusqu'à 2 Volts par cellule.   [Voici](https://www.youtube.com/watch?v=UB8fas6zBSE) une comparaison faite par Tom Stanton, qui conclut après des tests très ennuyeux que les batteries 18650 sont un bon choix pour les planeurs, mais pas pour des vols qui ont besoin de puissance.
+
+## Batteries Li-Ion
+
+
+Les batteries 18650 ont plus d'énergie par poids et pourraient être intéressantes à utiliser dans des longs vols. Mais elles ne peuvent pas fournir autant de puissance que les batteries Lipo et ont une résistance intérieure plus grande, mais peuvent se vider jusqu'à 2 Volts par cellule.   [Voici](https://www.youtube.com/watch?v=UB8fas6zBSE) une comparaison faite par Tom Stanton, qui conclut après des tests très ennuyeux que les batteries 18650 sont un bon choix pour les planeurs, mais pas pour des vols qui ont besoin de puissance. [Voici](https://oscarliang.com/li-ion-battery-long-range/) comment les souder pour en faire une batterie.
 
 Ces batteries sont également une option intéressante pour votre radio émetteur, nécessitant des recharges moins fréquentes.
 
@@ -56,11 +60,11 @@ Ces batteries sont également une option intéressante pour votre radio émetteu
 Voici l'association des canaux aux servomoteurs que j'utilise habituellement.
 Écrire AETR ou <span style="color: red;">A</span>ETR<span style="color: green;">A</span> près du récepteur pour mémoriser l'ordre de connexion (le premier A en rouge, le dernier en vert). Également marquer les câbles pour les servomoteur des ailerons avec des couleurs rouge (gauche) et vert (droite).
 
-1. left aileron
+1. left aileron (red)
 2. elevator
 3. throttle
 4. rudder
-5. right aileron
+5. right aileron (green)
 
 ## Clubs
 
