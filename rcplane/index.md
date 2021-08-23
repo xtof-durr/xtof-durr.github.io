@@ -173,6 +173,11 @@ Voici des avions propulsés par un moteur avec élastique.
 
 Il s'agit de la queue de l'avion avec la dérive et la profondeur. C'est une pièce délicate à transporter d'autant plus qu'elle doit être super légère. Chaque gramme de plus dans l'empennage nécessite peut être 3 grammes de plus dans le nez.  [Voici](https://mikaeromodelisme.wordpress.com/2013/08/31/empennage-papillon-demontable/) une jolie méthode pour rendre le tout démontable.
 
+## ESC
+
+Si au démarrage il bip sans cesse, il peut indiquer que les gaz ne sont pas à zéro. Sinon il a peut-être besoin de recalibrer le maximum des gaz, ceci arrive parfois après un crash. Alors démarrez avec les gaz au max, puis au premier bip mettez les à zéro.
+
+Certains ESC peuvent être programmés par les gaz. Parfois on peut ainsi inverser le moteur, ou activer le frein moteur. La programmation se fait avec les gaz, mais la procédure diffère d'un ESC à un autre.
 
 ## F3K
 
