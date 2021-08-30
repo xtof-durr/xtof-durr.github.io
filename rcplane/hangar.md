@@ -21,8 +21,7 @@ lang: fr-FR
 - [Le planeur libellule](libellule/)
 - [Small Slowly](small_slowly/): le même en petit.  Le moteur a laché une fois. J'ai lu quelque part que ces moteurs avec brosse ont une durée de vie de 10 heures, c'est vrai?  J'aimerais bien le voler un jour en absence totale de vent.
 - [Piper Cherokee](cherokee/)
-- [Flying Wing NumaVIG 61](flying-wing-numavig-61/)
-- [Flying Wing NumaVIG 100](flying-wing-numavig-100/)
+- [Flying Wing NumaVIG](flying-wing-numavig/)
 - [Micro Skyhunter](micro_sky_hunter/): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton. La [version 2](https://www.modelisme.com/forum/aero-construction/210904-micro-hunter-scratch-build.html) est démontable.
 - [Chopper](chopper/): un petit avion, difficile à transporter, nécessite peu de vent.
 - [Piper Cub](g-ncub/): réaliste, joli, contrôleur mal conçu.
