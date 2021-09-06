@@ -1,5 +1,5 @@
 ---
-title: Flying Wing 61, design by NumaVIG
+title: Flying Wing, design by NumaVIG
 lang: en
 ---
 
