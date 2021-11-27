@@ -70,3 +70,10 @@ centre de gravité
 :	[entre 17,24 et 18,42 cm du nez](https://www.ecalc.ch/cgcalc.php?deeplink=Flying%20Wing%20NumaVIG%2072cm;cm;22.5;18;18;25;25;0;3.7;7.7;7.7;30;0;6.5;4.5;0.1;25;0;w;17.5;17.5;24.5;14;12.6;0;0;0.75;3;4;0;4;7;24;1;0;88;25;10;)
 
 Charge ailaire 16 g/dm^2, donc peut voler assez lent en théorie.  En pratique aussi, mais le vol n'est stable qu'avec un peu de vitesse.
+
+Faut la reconstruire assez souvent. Comment rendre le nez plus solide ? Pour ces versions en 2S et 3S, la partie centrale a été marouflé au papier Kraft coloré.
+
+![](aile-numavig-2+3S-haut.jpg)
+
+![](aile-numavig-2+3S-bas.jpg)
+

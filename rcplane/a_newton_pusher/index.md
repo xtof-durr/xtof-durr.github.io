@@ -7,7 +7,7 @@ lang: fr-FR
 
 ## La conception
 
-Cet avion a été conçu par Andrew Newton, qui ne lui a pas vraiment donné de nom. Je l'appelle *a newton pusher*. C'est avec lui que j'ai appris à voler. Le nez est en mousse qui prend tous les chocs.  Contrairement au modèle d'Andrew Newton on a fait le fuselage dans une boîte en depron 5mm, ou en depron recouvert de papier kraft.  La partie du fuselage sur laquelle repose l'aile est en carton plume, plus solide.
+Cet avion a été conçu par Andrew Newton, qui ne lui a pas vraiment donné de nom. On l'appelle *a newton pusher*, et on le trouve bien pour débuter. Facile à reconstruire. Le nez est en mousse, qui prend tous les chocs.  Contrairement au modèle d'Andrew Newton on a fait le fuselage dans une boîte en depron 5mm, ou en depron recouvert de papier kraft.  La partie du fuselage sur laquelle repose l'aile est en carton plume, plus solide.
 
 J'ai aussi mis une bosse sur le fuselage pour que l'aile puisse être calée.
 
@@ -30,3 +30,7 @@ Puis j'ai rendu l'empennage complètement démontable, comme sur cette photo.
 Ce qui m'a permis de faire une boîte plus petite.
 
 ![](boite_pour_demontable.jpg)
+
+## Défaults
+
+Il est très sensible au vent, et bien secoué.

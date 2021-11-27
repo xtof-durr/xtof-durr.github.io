@@ -17,9 +17,7 @@ Mon aile est découpée au fil chaud dans un bloc de mousse EPO rose. J'ai pris 
 
 ## Problème lors de la découpe
 
-D'abord il y a eu des vibrations sur le fil vers la fin, comme on peut voir sur cette photo.
-
-Puis la fente qui mène vers le trou pour la tige centrale aurait du faire 3 mm de large, mais il en fait 5 mm.  Je pense que le fil était trop chaud et pas assez rapide pendant la découpe.
+La fente qui mène vers le trou pour la tige centrale aurait du faire 3 mm de large, mais il en fait 5 mm.  Je pense que le fil était trop chaud et pas assez rapide pendant la découpe.
 
 ## Problème des ailerons
 
@@ -41,6 +39,6 @@ Fabriqué en carton plume, recouvert d'un film épais, issue d'un publicité pou
 
 ## Premier accident
 
-Au bout d'une minute de vol. En tentant d'atterrir je suis entré dans un arbre.  Erreur 1: mauvaise position par rapport au soleil. Erreur 2: mauvaise prise en compte de la dérive par le vent. J'ai réparé en remplaçant une partie par du dépron, poncé pour reprendre la forme et recouvert de deux couches de fibre de verre.
+Au bout d'une minute de vol. En tentant d'atterrir je suis entré dans un arbre.  Erreur 1: mauvaise position par rapport au soleil. Erreur 2: mauvaise prise en compte de la dérive par le vent. J'ai réparé en remplaçant une partie par du dépron, poncé pour reprendre la forme et recouvert de deux couches de fibre de verre.  
 
 ![](repair1.jpg)

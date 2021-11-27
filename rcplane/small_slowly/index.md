@@ -24,3 +24,15 @@ Le moteur initial est conçu pour un avion de 35 grammes, alors que celui-ci en 
 Et une [autre](https://photos.app.goo.gl/fWRerusQgjrGRbts9) vidéo de cet avion avec un [nouveau moteur](https://fr.aliexpress.com/item/32790519063.html) plus fort, mais néanmoins beaucoup trop de vent pour lui.
 
 Utilise une [batterie 1S](https://hobbyking.com/fr_fr/turnigy-nano-tech-200mah-1s-35-70c-lipoly-battery-5pcs.html).
+
+## Version 2S
+
+Avec le stabilisateur horizontal démontable. Je le fais tenir avec un aimant sur le stab et l'autre sur la direction. C'est idiot, il faudrait mettre l'autre sur le fuselage, c'est bien plus stable. Il prend place dans une modeste  boîte de 48cm avec trois ailes différentes, juste pour pouvoir expérimenter leurs comportements.
+
+
+![](boite.JPG)
+
+![](elastiques.JPG)
+
+![](3ailes.JPG)
+

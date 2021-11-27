@@ -17,3 +17,7 @@ Voici un des premiers [vols](https://photos.app.goo.gl/zpXVDPHK7i6VReHq9).
 Voici le fuselage avec un train d'atterissage, beaucoup trop lours d'ailleurs. Il ajoute 150g à un avion qui fait dans les 250g.
 
 ![](micro-sky-hunter-wheels.jpeg)
+
+## Critique
+
+Quand il décroche il tombe raide, trop difficile à rattraper. J'avais fait l'aile un peu trop fine je crois, (proportion largeur-épaisseur 7%), et un bord d'attaque trop pointu.  Marre de le reconstruire.

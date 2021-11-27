@@ -12,7 +12,7 @@ plan original
 construction
 :	En [polystyrène extrudé 3mm](https://www.castorama.fr/panneau-en-polystyrene-extrude-80-x-60-cm-ep-3mm-vendu-par-paquet-de-8-panneaux/3663602884484_CAFR.prd). Recouvert de ruban adhésif coloré.
 
-motor
+moteur
 :   [AEORC MF2204 1800kV](https://fr.aliexpress.com/item/32751100547.html), 21g
 
 hélice
