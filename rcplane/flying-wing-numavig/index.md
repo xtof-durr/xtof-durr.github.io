@@ -71,7 +71,7 @@ centre de gravité
 
 Charge ailaire 16 g/dm^2, donc peut voler assez lent en théorie.  En pratique aussi, mais le vol n'est stable qu'avec un peu de vitesse.
 
-Faut la reconstruire assez souvent. Comment rendre le nez plus solide ? Pour ces versions en 2S et 3S, la partie centrale a été marouflé au papier Kraft coloré.
+Faut la reconstruire assez souvent. Comment rendre le nez plus solide ? Pour ces versions en 2S et 3S, la partie centrale a été marouflée au papier Kraft coloré.
 
 ![](aile-numavig-2+3S-haut.jpg)
 

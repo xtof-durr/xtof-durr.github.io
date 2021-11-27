@@ -30,9 +30,9 @@ Utilise une [batterie 1S](https://hobbyking.com/fr_fr/turnigy-nano-tech-200mah-1
 Avec le stabilisateur horizontal démontable. Je le fais tenir avec un aimant sur le stab et l'autre sur la direction. C'est idiot, il faudrait mettre l'autre sur le fuselage, c'est bien plus stable. Il prend place dans une modeste  boîte de 48cm avec trois ailes différentes, juste pour pouvoir expérimenter leurs comportements.
 
 
-![](boite.JPG)
+![](boite.jpg)
 
-![](elastiques.JPG)
+![](elastiques.jpg)
 
-![](3ailes.JPG)
+![](3ailes.jpg)
 
