@@ -47,6 +47,10 @@ Trois mécanismes peuvent aider à respecter le seuil de charge minimale.
 
 ![](buzzer-lipo.jpg){:width="350"}
 
+### Fabriquer vos batteries
+
+... à partir de piles individuelles. [Oscar Liang](https://oscarliang.com/ctt/uploads/2019/09/Lipo-battery-cells-connect-anode-cathode-terminals-positive-negative-balance-1024x754.jpg) montre comment connecter les prises et les batteries.
+
 
 ## Batteries Li-Ion
 
