@@ -28,6 +28,8 @@ lang: fr-FR
 - [Piper Cherokee](cherokee/)
 - [Flying Wing NumaVIG](flying-wing-numavig/)
 - [Chopper](chopper/): un petit avion, difficile à transporter, nécessite peu de vent.
+- [Planeur DLG PUG2](pug2/)
+- [Azul 48](azul48/)
 
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
