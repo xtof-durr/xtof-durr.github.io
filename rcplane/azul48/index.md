@@ -3,7 +3,7 @@ title: Azul 48
 lang: fr-FR
 ---
 
-![](https://photos.app.goo.gl/XQiHF7AeevbZzgA46)
+![](azul48.jpg)
 
 décroche trop facilement, puis irrécupérable
 
