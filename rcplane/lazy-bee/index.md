@@ -1,0 +1,23 @@
+---
+title: Lazy Bee
+lang: fr-FR
+---
+
+![](lazy-bee.jpg)
+
+
+## Matériel
+
+Acheté du carton plume, 11.000 CLP (12 Euros) la plaque de 70x100cm, c'est cher. Pour enlever les feuilles de papier, je l'ai imbibé d'alcool 95 degrées, (70 ne fonctionnait pas). La mousse est un peu plus dense que le Depron et de couleur blanc cassé. Je pense qu'il s'agit de polyuréthane, qui est différent du polystyrène expansé, voir [ici](https://www.milleetunefeuilles.fr/blog-1001-feuilles/4-questions-4-reponses-pour-tout-savoir-sur-le-carton-plume).
+
+L'avion original a été conçu par [Andy Clancy](https://www.andyclancydesigns.com/) en 1992, et était alors vendu en kit balsa.
+
+## Détails techniques
+
+- poids en état de vol 160 ? grammes
+- envergure 100 cm (sans dièdre)
+- batterie 2S
+- contrôle par profondeur, direction
+- servos 9 grammes, pourrait être 5 grammes
+
+
