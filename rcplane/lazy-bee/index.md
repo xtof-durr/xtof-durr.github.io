@@ -14,7 +14,7 @@ L'avion original a été conçu par [Andy Clancy](https://www.andyclancydesigns.
 
 ## Détails techniques
 
-- poids en état de vol ~160~ grammes. Non, finalement ce sont devenus 230 grammes. J'ai dû renforcer l'aile en la fermant du côté bas (intrados). Pourvu qu'on reste sous les 250 grammes, quand j'aouterais des roues. 
+- poids en état de vol ~~160~~ grammes. Non, finalement ce sont devenus 230 grammes. J'ai dû renforcer l'aile en la fermant du côté bas (intrados). Pourvu qu'on reste sous les 250 grammes, quand j'aouterais des roues. 
 - envergure 98 cm
 - batterie 2S
 - contrôle par profondeur, direction
