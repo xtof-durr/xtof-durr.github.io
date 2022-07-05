@@ -17,6 +17,7 @@ lang: fr-FR
 - Notre [version](a_newton_pusher/) d'un planeur de Andrew Newton.  Je trouve qu'il est parfait pour débuter, car il peut encaisser un atterrissage sur le nez, et si on est en difficulté on peut simplement couper le moteur et le laisser planer.  Je l'ai donné.
 - [Piper Cub](g-ncub/): réaliste, joli, contrôleur mal conçu. Je l'ai donné.
 - [Micro Skyhunter](micro_sky_hunter/): un petit avion bien pour le vol en immersion.  Volé pendant trop de vent sans me tenir à distance des arbres.  Conception Andrew Newton. La [version 2](https://www.modelisme.com/forum/aero-construction/210904-micro-hunter-scratch-build.html) est démontable.
+- [Azul 48](azul48/)
 
 ### en réparation
 
@@ -29,7 +30,7 @@ lang: fr-FR
 - [Flying Wing NumaVIG](flying-wing-numavig/)
 - [Chopper](chopper/): un petit avion, difficile à transporter, nécessite peu de vent.
 - [Planeur DLG PUG2](pug2/)
-- [Azul 48](azul48/)
+- [Lazy Bee](lazy-bee/)
 
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).

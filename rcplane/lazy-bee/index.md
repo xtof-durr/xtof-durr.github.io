@@ -14,10 +14,12 @@ L'avion original a été conçu par [Andy Clancy](https://www.andyclancydesigns.
 
 ## Détails techniques
 
-- poids en état de vol 160 ? grammes
-- envergure 100 cm (sans dièdre)
+- poids en état de vol ~160~ grammes. Non, finalement ce sont devenus 230 grammes. J'ai dû renforcer l'aile en la fermant du côté bas (intrados). Pourvu qu'on reste sous les 250 grammes, quand j'aouterais des roues. 
+- envergure 98 cm
 - batterie 2S
 - contrôle par profondeur, direction
 - servos 9 grammes, pourrait être 5 grammes
-
+- moteur [AEORC AFM1306](https://fr.aliexpress.com/item/32751100547.html), 9g, poussée 186g (je crois)
+- hélice 5030
+- je ne retrouve pas le plan, mais les indications étaient très grossiers. Les formes sont principalement improvisées.
 
