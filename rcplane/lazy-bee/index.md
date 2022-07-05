@@ -23,3 +23,8 @@ L'avion original a été conçu par [Andy Clancy](https://www.andyclancydesigns.
 - hélice 5030
 - je ne retrouve pas le plan, mais les indications étaient très grossiers. Les formes sont principalement improvisées.
 
+## Vols
+
+Comme j'aimerais voler:
+
+{%youtube P9Teb9QAUIc %}
