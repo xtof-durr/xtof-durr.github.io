@@ -77,3 +77,14 @@ Faut la reconstruire assez souvent. Comment rendre le nez plus solide ? Pour ces
 
 ![](aile-numavig-2+3S-bas.jpg)
 
+# Envergure 47cm
+
+- mousse 5 mm
+- servos MG90S 9g 1à engrenage en métal, 5g auraient suffit
+- moteur [AEORC AFM1306](https://fr.aliexpress.com/item/32751100547.html)
+- ESC AEORC 10A
+- batterie 450mAh 2S 19 grammes
+- hélice 5030
+- poids 120g en état de vol
+- envergure 47 cm
+- charge ailaire 16,5g / dm^2. Je m'attendais à plus.
