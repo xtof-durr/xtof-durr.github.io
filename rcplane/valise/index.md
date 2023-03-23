@@ -9,7 +9,7 @@ lang: fr-FR
 
 L'avion original a été conçu par [Hilmar Lange](https://www.flugmodell-magazin.de/downloads/valise-kofferfreundlicher-motorsegler/). Il vole lentement, et le stabilisateur horizontal est démontable. Ainsi il est très transportable.
 
-[Vidéo du premier vol](valise.mp4).
+[Vidéo du premier vol](https://photos.app.goo.gl/5gg1df3Tvivm9EvU8).
 
 ## Détails techniques
 
