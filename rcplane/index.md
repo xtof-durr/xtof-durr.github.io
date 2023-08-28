@@ -79,6 +79,14 @@ Voici l'association des canaux aux servomoteurs que j'utilise habituellement.
 
 - [jolie collection de photos](http://www.laboiteverte.fr/21-cockpits-davions/)
 
+## Colles
+
+- [Colle universelle Tesa](https://www.bureau-vallee.fr/colle-extra-forte-universelle-100ml-tesa-53968.html) appliquer sur les deux faces. Atteindre 10 minutes, que les surfaces soient secs au toucher. Puis assembler. Ça prend immédiatement. Convient pour le polystyrène. Est plus léger que la colle chaude.
+- [Colle chaude](https://www.castorama.fr/pistolet-a-colle-12mm-rapid-eg111-500g-de-colle-transparente-universelle/3221633028538_CAFR.prd) Existe en plusieurs puissances. Choisir le plus faible. La colle trop chaude peut faire fondre le polystyrène. Fonctionne bien quand il y a des cavités à remplir. C'est la solution la plus rapide pour le modélisme. Les moins: ajoute du poids. Peut ramolir en plein soleil.
+- [Cyanoacryolate](https://fr.aliexpress.com/item/1005004661564220.html)  Convient pour du bois et les assemblages bois-métal par exemple. Dangereux pour la peau. Rapide. Parfois trop rapide. Si c'est mal assemblé et qu'on doive détacher, alors on galère. Mange le polystyrène.
+- [Epoxy](https://www.leroymerlin.fr/produits/droguerie/colle-resine-et-mastic-de-reparation/colle-de-reparation/colle-reparation-epoxy-bi-composants-rapide-sader-25ml-68944106.html) Prendre quantité équivalente des deux composantes et bien mélanger avant d'appliquer. On en prend toujours trop. Chère. Existe en prise lente ou rapide. Super dur. Étanche. Avec de la fibre de verre, permet de faire des surfaces très solides (coques des bateaux, planches à voiles). Les DLG sont construit ainsi.
+- [Patex](https://www.castorama.fr/pattex-100-colle-100-g/3178041312127_CAFR.prd) A des catéristiques similaires mais est plus facile à appliquer.
+
 ## Construction maison
 
 En anglais: *scratch build*.
