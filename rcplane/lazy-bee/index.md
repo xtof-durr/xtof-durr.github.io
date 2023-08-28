@@ -32,4 +32,4 @@ L'avion original a été conçu par [Andy Clancy](https://www.andyclancydesigns.
 
 Comme j'aimerais voler:
 
-{%youtube P9Teb9QAUIc %}
+[vidéo](https://www.youtube/com/P9Teb9QAUIc)
