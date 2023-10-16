@@ -11,7 +11,6 @@ C'est une petite version du sky hunter. Il est [conçu](http://newtonairlines.bl
 
 Sans contrôle de direction, il doit être volé à la manière *bank-and-yank*. L'hélice en carbone fait peu de bruit et produit une poussé d'air propre. Le vol est plus lisse qu'avec une hélice en plastique.
 
-
 Voici un des premiers [vols](https://photos.app.goo.gl/zpXVDPHK7i6VReHq9). 
 
 Voici le fuselage avec un train d'atterissage, beaucoup trop lours d'ailleurs. Il ajoute 150g à un avion qui fait dans les 250g.

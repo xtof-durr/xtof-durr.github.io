@@ -23,6 +23,8 @@ La fente qui mène vers le trou pour la tige centrale aurait du faire 3 mm de la
 
 Les ailerons sont un peu courbées par rapport à leur emplacement. J'ai décidé de les coller avec du Blenderm, et de recouvrir ensemble aile et ailerons. Ainsi ils auront la même forme.
 
+Mes ailerons sont beaucoup trop grands. La moitié en largeur ou en longeur aurait été plus que suffisant.
+
 ## Surface
 
 J'ai ajouté une couche de tissu en fibre de verre de 25 g/m2, collé avec un mélange de colle universelle Tesa et d'alcool, en suivant la technique décrite par [Papy Kilowatt](http://papykilowatt.free.fr/html/page_trucs.htm).  Puis j'ai ajouté un scotch jaune pour avoir une surface lisse. Le scotch a ajouté 19 grammes par aile, ce qui représente  20% de son poids.

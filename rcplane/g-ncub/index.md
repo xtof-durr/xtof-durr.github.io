@@ -5,8 +5,6 @@ lang: fr-FR
 
 ![](g-ncub.jpg)
 
-en réparation...
-
 ## aussi appelé XK A160 Skylark
 
 - [une petite vidéo](https://www.youtube.com/watch?v=wEm0nwkN6JI) qui explique brièvement comment connecter la radiocommande Jumper à cet avion, et qui montre un problème avec le stabilisateur

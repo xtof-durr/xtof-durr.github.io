@@ -47,3 +47,5 @@ fil acier
 Avec la configuration actuelle, quand on pousse le moteur à ne serait-ce que 50%, alors le testeur de voltage branché sur la batterie mesure une puissance très faible, genre 3.1 Volts et se met à sonner immédiatement.
 
 La [grille](consommation.jpg) indique une consommation de 8A au maximum, pour ce moteur et cette hélice (j'ai fait le test avec pleins d'autres hélices, plus petites). Le ESC ne livre que 10A, peut-être que c'est juste avec les servos numériques qui consomment également.
+
+L'utilisation de batteries avec plus de C (genre 100 C) a résolu le problème.
