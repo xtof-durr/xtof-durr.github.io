@@ -22,6 +22,10 @@ Si vous voulez des bouts d'ailes (appelés saumon) recourbées vers le haut, il 
 
 Nécessite de courber le Depron après l'avoir chauffé par exemple. L'aile est très épaisse et peut se passer d'un renfort.  Cette construction permet des formes intéressantes.
 
+## Arducopter
+
+- [règlage des paramètres](http://dehors.eu/modelisme/arducopter%20PID.pdf)
+
 ## Atterrissage
 
 [Voici](https://www.modelairplanenews.com/land-like-a-pro/#visitor_pref_pop) la procédure bien décrite.
@@ -401,6 +405,10 @@ Liens achat:
 Le nom correct est *bande auto-agrippante*.
 
 Pour accrocher batteries ou récepteur avec des scratchs, la convention est de mettre la partie avec les crochets (rauque) sur l'avion et la partie avec les boucles (douce) sur les objets. L'idée est qu'ainsi on minimise le risque que les crochets attrapent des saletés.
+
+## Voiles (pour voilier)
+
+- [Explication](http://classem.org/construction/Voiles-RBres.pdf)
 
 ## Volets
 
