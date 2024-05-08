@@ -27,3 +27,9 @@ lang: fr-FR
 - Balsa 2mm pour la coque, et d'autres tiges carrés -- Lez'arts
 - [bois pour le pont](https://fr.aliexpress.com/item/32993858864.html) -- Planche de contreplaqué en bois de tilleul, 2mm
 - Ruban adhésif pour écoutes -- pharmacie, 3M Blenderm
+
+## Vocabulaire
+
+![](voc1.png)
+
+![](voc2.png)
