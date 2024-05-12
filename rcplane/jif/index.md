@@ -13,6 +13,7 @@ lang: fr-FR
 
 (non exhaustive)
 
+- [mat, bôme](https://www.decathlon.fr/p/tube-carbone-6mm-x-170-cm/_/R-p-161071) -- Tube carbone 6mm
 - [lest](https://www.motionrc.eu/products/bancroft-650mm-rg65-quickfire-green-racing-sailboat-450g-keel-bulb-ballast-bnc1013-115)
 - [quille](https://www.systeal.com/fr/) -- Profilé aluminium plat 50 mm épaisseur 2 mm
 - [servo pour le gouvernail](https://fr.aliexpress.com/item/32957714272.html)
@@ -33,3 +34,14 @@ lang: fr-FR
 ![](voc1.png)
 
 ![](voc2.png)
+
+## Accrocher la grande voile
+
+Il existe au moins trois techniques.
+
+1. [Maximo Lange](https://www.allradiosailboats.com/design/jif65)
+2. [Janot](http://rg65.fr/forum/viewtopic.php?f=8&t=474&start=20)
+3. [Thomas Rasim, Lübeck](https://www.rc-station.de/seiten/fotos/bilder/img_0004.htm)
+
+![](acroche_grande_voile.png)
+
