@@ -40,8 +40,8 @@ lang: fr-FR
 Il existe au moins trois techniques.
 
 1. [Maximo Lange](https://www.allradiosailboats.com/design/jif65)
-2. [Janot](http://rg65.fr/forum/viewtopic.php?f=8&t=474&start=20)
-3. [Thomas Rasim, Lübeck](https://www.rc-station.de/seiten/fotos/bilder/img_0004.htm)
+2. [Jean Galonnier (Janot)](http://rg65.fr/forum/viewtopic.php?f=8&t=474&start=20)
+3. [Thomas Rasim](https://www.rc-station.de/seiten/fotos/bilder/img_0004.htm)
 
 ![](acroche_grande_voile.png)
 
