@@ -26,6 +26,9 @@ lang: fr-FR
 - Pour fermer les ouvertures sur le pont j'ai d'abord pris un film adhésif en Vinyl qui se vend en rayon décoration à Leroy Merlin. Mais il se décolle à l'eau. Finalement j'utilise soit un couvercle transparent d’emballage alimentaire, soit un film PVC de couverture de document ou de transparent pour des exposés. Et je le colle avec du ruban adhésif Blenderm.
 - Pour vernir la coque j'ai pris du verni de meuble normal. Mais il fallait un verni marin.
 - J'ai fait mes crochets en corde à piano, mais il fallait du fil Inox qui ne rouille pas.
+- Le pont est en deux parties, que j'aurais joindre en angle comme ci-dessous.
+
+![](pont.png)
 
 ## Liste d'achats
 
