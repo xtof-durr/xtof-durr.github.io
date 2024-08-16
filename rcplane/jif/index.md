@@ -8,6 +8,8 @@ lang: fr-FR
 - [histoire](https://rg65.fr/historique-de-la-classe/)
 - [plan original](https://www.allradiosailboats.com/design/jif65)
 - [instructions in english](https://rcsaling.narod.ru/doc/jif65-mm.pdf)
+- [plan des voiles](https://www.frankrusselldesign.com/wp-content/uploads/2016/11/RG65-Sail-Plans.pdf)
+
 
 ## Difficultés rencontrées
 
@@ -72,3 +74,10 @@ Il existe au moins trois techniques.
 - [certains](https://mini-flotte76710.blogspot.com/2021/06/photos-techniques.html) utilisent une boucle en fil, assez prêt du mat
 - sur le [Dragon Flite](https://www.pgmodelisme.com/v3/fr/voiliers-prod-pg/682-16781-dragon-flite-95-anneaux-de-voiles-joysway-pg-modelisme.html#/463-attache_de_grand_voile-x10) des anneaux en métal sont utilisés
 
+## Liens
+
+- http://jay-vrc.over-blog.com/tag/ma%20premiere%20construction%20rg65/
+- https://b10rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.e-monsite.com/pages/technique-greements/reglage-des-voiles-par-laurent.html
+- https://3dprintedradioyachts.com/stl-file-downloads/
+- http://blerovert.free.fr/spip.php?article140
+- https://rg-andy.blogspot.com/p/andydesign.html- https://sitakiki.fr/modnaval/nekst.htm
