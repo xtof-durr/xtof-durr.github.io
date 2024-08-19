@@ -76,8 +76,9 @@ Il existe au moins trois techniques.
 
 ## Liens
 
-- http://jay-vrc.over-blog.com/tag/ma%20premiere%20construction%20rg65/
-- https://b10rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.e-monsite.com/pages/technique-greements/reglage-des-voiles-par-laurent.html
-- https://3dprintedradioyachts.com/stl-file-downloads/
-- http://blerovert.free.fr/spip.php?article140
-- https://rg-andy.blogspot.com/p/andydesign.html- https://sitakiki.fr/modnaval/nekst.htm
+- [Ma première construction RG65 de Jay](http://jay-vrc.over-blog.com/tag/ma%20premiere%20construction%20rg65/)
+- [Conseil de réglage par Laurent](https://b10rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.e-monsite.com/pages/technique-greements/reglage-des-voiles-par-laurent.html)
+- [Fichiers impression 3D](https://3dprintedradioyachts.com/stl-file-downloads/)
+- [Impression 3D Manta](http://blerovert.free.fr/spip.php?article140)
+- [Andy Design](https://rg-andy.blogspot.com/p/andydesign.html)
+- [NeKst](https://sitakiki.fr/modnaval/nekst.htm)
