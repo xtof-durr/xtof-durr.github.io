@@ -82,3 +82,4 @@ Il existe au moins trois techniques.
 - [Impression 3D Manta](http://blerovert.free.fr/spip.php?article140)
 - [Andy Design](https://rg-andy.blogspot.com/p/andydesign.html)
 - [NeKst](https://sitakiki.fr/modnaval/nekst.htm)
+- [Machine à couper et à assembler les laizes](http://ziphius.free.fr/telechargementdi/couper-et-assembler-laizes.pdf)
