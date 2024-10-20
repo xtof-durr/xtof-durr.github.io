@@ -80,6 +80,8 @@ Il existe au moins trois techniques.
 - [Conseil de réglage par Laurent](https://b10rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.e-monsite.com/pages/technique-greements/reglage-des-voiles-par-laurent.html)
 - [Fichiers impression 3D](https://3dprintedradioyachts.com/stl-file-downloads/)
 - [Impression 3D Manta](http://blerovert.free.fr/spip.php?article140)
-- [Andy Design](https://rg-andy.blogspot.com/p/andydesign.html)
+- [Impression hale-bas](https://cults3d.com/fr/mod%C3%A8le-3d/divers/vang-for-rg65-sailboat)
+- [~Andy Design~](https://rg-andy.blogspot.com/p/andydesign.html) On ne trouve plus Andy Hofmann
 - [NeKst](https://sitakiki.fr/modnaval/nekst.htm)
 - [Machine à couper et à assembler les laizes](http://ziphius.free.fr/telechargementdi/couper-et-assembler-laizes.pdf)
+- [tuto construction en portugais](https://www.youtube.com/watch?v=O5L77pWn0AA&list=PL1B5EC103082F0067)
