@@ -46,7 +46,7 @@ lang: fr-FR
 - [bras pour le gouvernail](https://fr.aliexpress.com/item/1005003121099895.html)
 - [récepteur](https://fr.aliexpress.com/item/1005001681588998.html)
 - [UBEC](https://fr.aliexpress.com/item/32574612952.html)
-- batterie faite maison avec deux 16850
+- batterie faite maison avec deux 18650. Tient une douzaine d'heures de navigation.
 - film de fleuriste pour la voile -- Rougier et Plé
 - renforts de coins de voile -- Rougier et Plé, Tesa Adhésif toilé Extra power
 - Balsa 2mm pour la coque, et d'autres tiges carrés -- Lez'arts
@@ -58,6 +58,9 @@ lang: fr-FR
 ![](voc1.png)
 
 ![](voc2.png)
+
+![](voc3.png)
+
 
 ## Accrocher la grande voile en bas
 
