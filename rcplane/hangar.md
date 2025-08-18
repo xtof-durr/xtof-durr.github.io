@@ -26,10 +26,11 @@ lang: fr-FR
 - [Chopper](chopper/): un petit avion, difficile à transporter, nécessite peu de vent. 
 - [Planeur DLG PUG2](pug2/)
 - [Le planeur libellule](libellule/)
+- [Le planeur action](action/) 
 - [Valise](valise/) 
 
 ## Voilier
 
-- [Jif](jif/)
+- [Jif 65](jif/)
 
 Certaines photos sont [ici](https://photos.app.goo.gl/TNx8DpYNiykMsnXA6).
