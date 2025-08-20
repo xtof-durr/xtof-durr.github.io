@@ -7,7 +7,7 @@ lang: fr-FR
 
 (beaucoup n'existent plus)
 
-         x                  |  y
+P                  |  D
 :-------------------------:|:-------------------------:
 ![](CJ6.JPG)  |  [MinimumRC CJ-6](https://fr.aliexpress.com/item/32826439827.html) : Tout en balsa. L'électronique est difficile à acheter, en tout cas à un prix raisonnable.  
 ![](nutball/nutball.JPG) | [Nutball](nutball) : Super simple à fabriquer et pas si facile à voler.
