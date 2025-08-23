@@ -27,7 +27,7 @@ Cheese                  |  Détails
 ![](lazy-bee/lazy-bee-2.jpg) | [Lazy Bee](lazy-bee/) Abandonné au Chili.
 ![](mini-lazy-bee/mini-lazy-bee.JPG) | [Mini Lazy Bee](mini-lazy-bee)
 ![](flying-wing-numavig/flying-wing-numavig-61.jpg) |[Flying Wing NumaVIG](flying-wing-numavig/)
-![](bonsai/bonsai.jpg) | [Bonsai](bonsai/)
+![](bonsai/bonsai.JPG) | [Bonsai](bonsai/)
 ![](buschtrottel/buschtrottel.png) | [Buschtrottel](buschtrottel/) 
 ![](cherokee/cherokee.jpeg) | [Piper Cherokee](cherokee/)
 ![](chopper/chopper.jpg) | [Chopper](chopper/): un petit avion, difficile à transporter, nécessite peu de vent. 
